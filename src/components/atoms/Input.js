@@ -4,7 +4,7 @@ const Input = ({ placeholder }) => (
   <input
     placeholder={placeholder}
     style={{
-      margin: "18px 0",
+      marginBottom: "18px",
       fontSize: "18px",
       padding: "16px 8px",
       width: "100%",
