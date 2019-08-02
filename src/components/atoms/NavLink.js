@@ -6,8 +6,11 @@ const NavlinkWrapper = styled.div({
   display: "flex",
   justifyContent: "center",
   alignItems: "center",
-  padding: "8px",
   width: "100%",
+  transition: "background 600ms",
+  "&:hover": {
+    background: "#EDEDED",
+  },
 })
 
 const StyledLink = styled(Link)(
@@ -15,9 +18,16 @@ const StyledLink = styled(Link)(
     textDecoration: "none",
     cursor: "pointer",
     fontSize: "11px",
+    textAlign: "center",
+    width: "100%",
+    height: "100%",
+    padding: "8px",
+    "&:hover": {
+      color: "black",
+    },
   },
   props => ({
-    color: props.color,
+    color: props.color ? props.color : "white",
   })
 )
 
