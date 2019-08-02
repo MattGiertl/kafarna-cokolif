@@ -12,7 +12,7 @@ const StyledButton = styled.button({
 })
 
 const Button = ({ text, onClick }) => (
-  <StyledButton style={{}} onClick={onClick}>
+  <StyledButton onClick={onClick}>
     {text}
   </StyledButton>
 )

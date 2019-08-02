@@ -7,6 +7,7 @@ import Paragraph from "../atoms/Paragraph"
 import HighlightedHeading from "../atoms/HighlightedHeading"
 import Input from "../atoms/Input"
 import Button from "../atoms/Button"
+import Image from "../atoms/Image";
 
 const VisitUsSectionWrapper = styled.div({
   display: "flex",
@@ -18,7 +19,7 @@ const VisitUsSection = () => (
     <HighlightedHeading>KDE NÁS MŮŽETE NAJÍT?</HighlightedHeading>
     <Paragraph margin={0}>Pavelčákova 5/13, Olomouc</Paragraph>
     <Paragraph margin={0}>1. PATRO</Paragraph>
-    <img alt="kafe" src={Banner} style={{ width: "100%", marginTop: "16px" }} />
+    <Image alt="kafe" src={Banner} style={{ width: "100%", marginTop: "16px" }} />
     <Paragraph>
       <strong>Rezervujte</strong> si stůl, zeptejte se na dnešní specíal, nebo
       nám prostě pošlete zprávu
