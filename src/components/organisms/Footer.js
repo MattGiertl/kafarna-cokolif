@@ -1,18 +1,19 @@
 import React from "react"
 import Paragraph from "../atoms/Paragraph"
+import styled from "@emotion/styled"
+
+const FooterWrapper = styled.div({
+  marginTop: "50px",
+  display: "flex",
+  height: "100px",
+  background: "#EDEDED",
+  width: "100%",
+  justifyContent: "center",
+  alignItems: "center",
+})
 
 const Footer = () => (
-  <div
-    style={{
-      marginTop: "50px",
-      display: "flex",
-      height: "100px",
-      background: "#EDEDED",
-      width: "100%",
-      justifyContent: "center",
-      alignItems: "center",
-    }}
-  >
+  <FooterWrapper>
     <Paragraph margin="0">
       Built by{" "}
       <a
@@ -22,7 +23,7 @@ const Footer = () => (
         Matúš Giertl
       </a>
     </Paragraph>
-  </div>
+  </FooterWrapper>
 )
 
 export default Footer

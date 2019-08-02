@@ -1,23 +1,23 @@
 import React from "react"
+import styled from "@emotion/styled"
+
+const StyledButton = styled.button({
+  display: "flex",
+  justifyItems: "center",
+  backgroundColor: "black",
+  color: "white",
+  padding: "8px 16px",
+  width: "95px",
+  height: "43px",
+  textAlign: "center",
+  fontSize: "16px",
+  cursor: "pointer",
+})
 
 const Button = ({ text, onClick }) => (
-  <button
-    style={{
-      display: "flex",
-      justifyItems: "center",
-      backgroundColor: "black",
-      color: "white",
-      padding: "8px 16px",
-      width: "95px",
-      height: "43px",
-      textAlign: "center",
-      fontSize: "16px",
-      cursor: 'pointer',
-    }}
-    onClick={onClick}
-  >
+  <StyledButton style={{}} onClick={onClick}>
     {text}
-  </button>
+  </StyledButton>
 )
 
 export default Button
