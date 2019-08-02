@@ -8,4 +8,5 @@ body {
 
 html {
   font-family: "Inconsolata", sans-serif;
+  scroll-behavior: smooth;
 }

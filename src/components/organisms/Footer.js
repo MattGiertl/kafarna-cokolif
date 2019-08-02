@@ -17,7 +17,9 @@ const Footer = () => (
     <Paragraph margin="0">
       Built by{" "}
       <a
-        style={{ textDecoration: "none" }}
+        target="_blank"
+        rel="noopener noreferrer"
+        style={{ textDecoration: "none", "&:visited": { color: "black" } }}
         href="https://github.com/MattGiertl"
       >
         Matúš Giertl
