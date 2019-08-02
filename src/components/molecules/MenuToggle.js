@@ -8,6 +8,7 @@ const MenuToggleWrapper = styled.div(
     height: "32px",
     justifyContent: "center",
     alignItems: "center",
+    cursor: "pointer",
   },
   props => ({
     borderBottom: props.isSelected ? "1.5px solid black" : "none",

@@ -14,6 +14,8 @@ import VisitUsSection from "../components/sections/VisitUsSection"
 import Wrapper from "../components/atoms/Wrapper"
 import styled from "@emotion/styled"
 
+import "../normalize.css"
+
 const ContentWrapper = styled(Wrapper)({
   maxWidth: "700px",
   margin: "0 auto",
@@ -22,10 +24,10 @@ const ContentWrapper = styled(Wrapper)({
 const IndexPage = () => (
   <Wrapper>
     <Navbar>
-      <NavLink color="white" to="#" text="DOMŮ" />
-      <NavLink color="white" to="#o-nas" text="O NÁS" />
-      <NavLink color="white" to="#menu" text="MENU" />
-      <NavLink color="white" to="#navstive-nas" text="NAVŠTIVTE NÁS" />
+      <NavLink to="#" text="DOMŮ" />
+      <NavLink to="#o-nas" text="O NÁS" />
+      <NavLink to="#menu" text="MENU" />
+      <NavLink to="#navstivte-nas" text="NAVŠTIVTE NÁS" />
     </Navbar>
     <Splash backgroundImage={SplashCover} />
     <ContentWrapper>

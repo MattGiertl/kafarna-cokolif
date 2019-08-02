@@ -4,7 +4,7 @@ import styled from "@emotion/styled"
 import Banner from "../../images/cokolif-banner.jpg"
 
 import Paragraph from "../atoms/Paragraph"
-import HighlightedHeading from "../atoms/HIghlightedHeading"
+import HighlightedHeading from "../atoms/HighlightedHeading"
 import Input from "../atoms/Input"
 import Button from "../atoms/Button"
 
