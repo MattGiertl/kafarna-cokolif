@@ -7,7 +7,7 @@ const StyledNavbar = styled.div({
   justifyContent: "space-around",
   alignItems: "center",
   backgroundColor: "black",
-  height: "55px",
+  height: "45px",
   position: "fixed",
   zIndex: 1,
   top: 0,
