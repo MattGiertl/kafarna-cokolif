@@ -13,12 +13,18 @@ const MenuWrapper = styled.div({
 
 const ToggleWrapper = styled.div({
   display: "flex",
+  background: 'black',
   padding: "8px 16px",
   boxShadow: "0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12)",
+  position: "sticky",
+  zIndex: 2,
+  top: "45px",
 })
 
 const ContentWrapper = styled.div({
   padding: "48px 16px",
+  position: 'relative',
+  zIndex: 0,
 })
 
 const Menu = () => {
@@ -38,8 +44,8 @@ const Menu = () => {
   return (
     <MenuWrapper>
       <ToggleWrapper onClick={() => toggleMenu(!displayFoodMenu)}>
-        <MenuToggle isSelected={displayFoodMenu} heading="Něco k pití" />
-        <MenuToggle isSelected={!displayFoodMenu} heading="Něco k snědku" />
+        <MenuToggle isSelected={displayFoodMenu} heading="Něco k snědku" />
+        <MenuToggle isSelected={!displayFoodMenu} heading="Něco k pití" />
       </ToggleWrapper>
       <ContentWrapper>
         {displayFoodMenu ? renderFoodMenu : renderDrinkMenu}
