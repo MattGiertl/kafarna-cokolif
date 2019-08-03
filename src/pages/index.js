@@ -15,10 +15,14 @@ import Wrapper from "../components/atoms/Wrapper"
 import styled from "@emotion/styled"
 
 import "../normalize.css"
+import { mobileQuery } from "../utils/mediaqueries/mediaqueries"
 
 const ContentWrapper = styled(Wrapper)({
   maxWidth: "700px",
   margin: "0 auto",
+  [mobileQuery]: {
+    margin: "0 10px",
+  },
 })
 
 const IndexPage = () => (
