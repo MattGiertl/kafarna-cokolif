@@ -19,7 +19,7 @@ const MenuItem = ({ title, description, price }) => (
     <StyledHeading>{title}</StyledHeading>
     <Paragraph color="#757575">{description}</Paragraph>
     <Paragraph margin="0 50px 0 auto" color="#757575">
-      {price}
+      {`${price},-`}
     </Paragraph>
   </MenuItemWrapper>
 )

@@ -12,18 +12,23 @@ const FooterWrapper = styled.div({
   alignItems: "center",
 })
 
+const StyledAnchor = styled.a({
+  textDecoration: "none",
+  borderBottom: "1px solid black",
+  "&:visited": { color: "black" },
+})
+
 const Footer = () => (
   <FooterWrapper>
     <Paragraph margin="0">
       Built by{" "}
-      <a
+      <StyledAnchor
         target="_blank"
         rel="noopener noreferrer"
-        style={{ textDecoration: "none", "&:visited": { color: "black" } }}
         href="https://github.com/MattGiertl"
       >
         Matúš Giertl
-      </a>
+      </StyledAnchor>
     </Paragraph>
   </FooterWrapper>
 )
