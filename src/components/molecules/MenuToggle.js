@@ -3,6 +3,7 @@ import styled from "@emotion/styled"
 
 const MenuToggleWrapper = styled.div(
   {
+    color: "white",
     display: "flex",
     width: "50%",
     height: "32px",
@@ -13,17 +14,24 @@ const MenuToggleWrapper = styled.div(
     transition: "background 300ms, color 300ms",
 
     "&:hover": {
-      background: "black",
-      color: "white",
+      background: "white",
+      color: "black",
     },
   },
   props => ({
-    borderBottom: props.isSelected ? "1.5px solid black" : "none",
+    borderBottom: props.isSelected ? "1.5px solid white" : "none",
   })
 )
 
+const StyledAnchor = styled.a({
+  color: "inherit",
+  textDecoration: "none",
+})
+
 const MenuToggle = ({ isSelected, heading }) => (
-  <MenuToggleWrapper isSelected={isSelected}>{heading}</MenuToggleWrapper>
+  <MenuToggleWrapper isSelected={isSelected}>
+    <StyledAnchor href="#menu">{heading}</StyledAnchor>
+  </MenuToggleWrapper>
 )
 
 export default MenuToggle
