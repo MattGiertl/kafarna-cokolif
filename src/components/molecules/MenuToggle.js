@@ -26,9 +26,6 @@ const MenuToggleWrapper = styled.div(
 const StyledAnchor = styled.a({
   color: "inherit",
   textDecoration: "none",
-  "&:visited": {
-    color: "inherit",
-  },
 })
 
 const MenuToggle = ({ isSelected, heading }) => (
