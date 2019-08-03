@@ -1,28 +1,36 @@
 import React from "react"
 import Paragraph from "../atoms/Paragraph"
+import styled from "@emotion/styled"
+
+const FooterWrapper = styled.div({
+  marginTop: "50px",
+  display: "flex",
+  height: "100px",
+  background: "#EDEDED",
+  width: "100%",
+  justifyContent: "center",
+  alignItems: "center",
+})
+
+const StyledAnchor = styled.a({
+  textDecoration: "none",
+  borderBottom: "1px solid black",
+  "&:visited": { color: "black" },
+})
 
 const Footer = () => (
-  <div
-    style={{
-      marginTop: "50px",
-      display: "flex",
-      height: "100px",
-      background: "#EDEDED",
-      width: "100%",
-      justifyContent: "center",
-      alignItems: "center",
-    }}
-  >
+  <FooterWrapper>
     <Paragraph margin="0">
       Built by{" "}
-      <a
-        style={{ textDecoration: "none" }}
+      <StyledAnchor
+        target="_blank"
+        rel="noopener noreferrer"
         href="https://github.com/MattGiertl"
       >
         Matúš Giertl
-      </a>
+      </StyledAnchor>
     </Paragraph>
-  </div>
+  </FooterWrapper>
 )
 
 export default Footer
