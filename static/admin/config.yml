@@ -1,14 +1,16 @@
 backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
-media_folder: "static/images"
-public-folder: "images/"
+  name: test-repo
+
+media_folder: static/assets
+public_folder: assets
+
 collections:
-  -name: "menu"
-  label: "Menu"
-  folder: "src/data/menu"
-  create: true
-  fields:
-    - { label: "Title", name: "title", widget: "string" }
-    - { label: "Description", name: "description", widget: "string" }
-    - { label: "price", name: "price", widget: "string" }
+  - name: blog
+    label: Blog
+    folder: blog
+    create: true
+    fields:
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: date }
+      - { name: title, label: Title }
+      - { name: body, label: Body, widget: markdown }
