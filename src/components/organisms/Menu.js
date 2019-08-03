@@ -1,7 +1,10 @@
 import React, { useState } from "react"
+import styled from "@emotion/styled"
+
+import menuData from "../../data/menu.json"
+
 import MenuToggle from "../molecules/MenuToggle"
 import MenuItem from "../molecules/MenuItem"
-import styled from "@emotion/styled"
 
 const MenuWrapper = styled.div({
   boxShadow: "0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12)",
@@ -20,6 +23,18 @@ const ContentWrapper = styled.div({
 
 const Menu = () => {
   const [displayFoodMenu, toggleMenu] = useState(true)
+  const { eat, drink } = menuData
+
+  const renderFoodMenu = eat.map(menuItem => {
+    const { name, description, price } = menuItem
+    return <MenuItem title={name} description={description} price={price} />
+  })
+
+  const renderDrinkMenu = drink.map(menuItem => {
+    const { name, description, price } = menuItem
+    return <MenuItem title={name} description={description} price={price} />
+  })
+
   return (
     <MenuWrapper>
       <ToggleWrapper onClick={() => toggleMenu(!displayFoodMenu)}>
@@ -27,26 +42,7 @@ const Menu = () => {
         <MenuToggle isSelected={!displayFoodMenu} heading="Něco k snědku" />
       </ToggleWrapper>
       <ContentWrapper>
-        <MenuItem
-          title="Lívance s citronovo - vanilkovým mascarpone"
-          description="S omáčkou z lesního ovoce a vlašskými ořechy"
-          price="50"
-        />
-        <MenuItem
-          title="Lívance s citronovo - vanilkovým mascarpone"
-          description="S omáčkou z lesního ovoce a vlašskými ořechy"
-          price="50"
-        />
-        <MenuItem
-          title="Lívance s citronovo - vanilkovým mascarpone"
-          description="S omáčkou z lesního ovoce a vlašskými ořechy"
-          price="50"
-        />
-        <MenuItem
-          title="Lívance s citronovo - vanilkovým mascarpone"
-          description="S omáčkou z lesního ovoce a vlašskými ořechy"
-          price="50"
-        />
+        {displayFoodMenu ? renderFoodMenu : renderDrinkMenu}
       </ContentWrapper>
     </MenuWrapper>
   )

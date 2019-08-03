@@ -7,7 +7,7 @@ const NavlinkWrapper = styled.div({
   justifyContent: "center",
   alignItems: "center",
   width: "100%",
-  transition: "background 600ms",
+  transition: "background 300ms",
   "&:hover": {
     background: "#EDEDED",
   },

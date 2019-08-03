@@ -9,6 +9,13 @@ const MenuToggleWrapper = styled.div(
     justifyContent: "center",
     alignItems: "center",
     cursor: "pointer",
+    userSelect: "none",
+    transition: "background 300ms, color 300ms",
+
+    "&:hover": {
+      background: "black",
+      color: "white",
+    },
   },
   props => ({
     borderBottom: props.isSelected ? "1.5px solid black" : "none",

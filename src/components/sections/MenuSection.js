@@ -1,9 +1,10 @@
 import React from "react"
 
+import styled from "@emotion/styled"
+
 import Menu from "../organisms/Menu"
 
 import HighlightedHeading from "../atoms/HighlightedHeading"
-import styled from "@emotion/styled"
 
 const MenuSectionWrapper = styled.section({
   display: "flex",
