@@ -4,7 +4,7 @@ import styled from "@emotion/styled"
 
 import Menu from "../organisms/Menu"
 
-import HighlightedHeading from "../atoms/HighlightedHeading"
+import SectionHeading from "../atoms/SectionHeading"
 
 const MenuSectionWrapper = styled.section({
   display: "flex",
@@ -13,7 +13,7 @@ const MenuSectionWrapper = styled.section({
 
 const MenuSection = () => (
   <MenuSectionWrapper id="menu">
-    <HighlightedHeading>MENU</HighlightedHeading>
+    <SectionHeading>MENU</SectionHeading>
     <Menu />
   </MenuSectionWrapper>
 )

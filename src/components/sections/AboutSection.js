@@ -6,9 +6,9 @@ import GuysImg from "../../images/guys.jpg"
 import ReviewBox from "../molecules/ReviewBox"
 import InfoStrip from "../molecules/InfoStrip"
 
-import HighlightedHeading from "../atoms/HighlightedHeading"
+import SectionHeading from '../atoms/SectionHeading';
 import Paragraph from "../atoms/Paragraph"
-import Image from "../atoms/Image";
+import Image from "../atoms/Image"
 
 const StyledSection = styled.section({
   display: "flex",
@@ -17,7 +17,7 @@ const StyledSection = styled.section({
 
 const AboutSection = () => (
   <StyledSection id="o-nas">
-    <HighlightedHeading>O KAFÁRNĚ</HighlightedHeading>
+    <SectionHeading>O KAFÁRNĚ</SectionHeading>
     <Paragraph>
       Aromatic macchiato seasonal irish, grounds robust spoon mug whipped
       acerbic. Kopi-luwak extra medium, cream barista mug, aged ut french press
@@ -34,10 +34,7 @@ const AboutSection = () => (
       review="Moc doporučuji návštěvu. Cokolif není jen kavárna, je to místo s neuvěřitelně pozitivní energií majitelů, pohodová oáza k odpočinku a ráj pro hladové chuťové pohárky - jídlo, které v Cokolifu dělají, je hotové umělecke dílo, symfonie chutí i barev. A kafe? Boží ❤️!"
       author="Jana Zelená"
     />
-    <Image
-      alt="hoši"
-      src={GuysImg}
-    />
+    <Image alt="hoši" src={GuysImg} />
     <InfoStrip info="Otervírací doba" infoText="Po - So 8:01 - 19:00" />
     <InfoStrip info="Adresa" infoText="Pavelčákova 5/13, Olomouc, 1. Patro" />
   </StyledSection>
