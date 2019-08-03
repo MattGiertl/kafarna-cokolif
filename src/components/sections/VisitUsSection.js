@@ -4,10 +4,10 @@ import styled from "@emotion/styled"
 import Banner from "../../images/cokolif-banner.jpg"
 
 import Paragraph from "../atoms/Paragraph"
-import HighlightedHeading from "../atoms/HighlightedHeading"
+import SectionHeading from "../atoms/SectionHeading"
 import Input from "../atoms/Input"
 import Button from "../atoms/Button"
-import Image from "../atoms/Image";
+import Image from "../atoms/Image"
 
 const VisitUsSectionWrapper = styled.div({
   display: "flex",
@@ -16,10 +16,14 @@ const VisitUsSectionWrapper = styled.div({
 
 const VisitUsSection = () => (
   <VisitUsSectionWrapper id="navstivte-nas">
-    <HighlightedHeading>KDE NÁS MŮŽETE NAJÍT?</HighlightedHeading>
+    <SectionHeading>KDE NÁS MŮŽETE NAJÍT?</SectionHeading>
     <Paragraph margin={0}>Pavelčákova 5/13, Olomouc</Paragraph>
     <Paragraph margin={0}>1. PATRO</Paragraph>
-    <Image alt="kafe" src={Banner} style={{ width: "100%", marginTop: "16px" }} />
+    <Image
+      alt="kafe"
+      src={Banner}
+      style={{ width: "100%", marginTop: "16px" }}
+    />
     <Paragraph>
       <strong>Rezervujte</strong> si stůl, zeptejte se na dnešní specíal, nebo
       nám prostě pošlete zprávu

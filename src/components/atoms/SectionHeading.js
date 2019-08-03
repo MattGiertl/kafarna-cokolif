@@ -18,10 +18,10 @@ const StyledSpan = styled.span({
   color: "white",
 })
 
-const HighlightedHeading = ({ children }) => (
+const SectionHeading = ({ children }) => (
   <StyledHeading>
     <StyledSpan>{children}</StyledSpan>
   </StyledHeading>
 )
 
-export default HighlightedHeading
+export default SectionHeading
