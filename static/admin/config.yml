@@ -1,16 +1,29 @@
 backend:
   name: github
+  branch: master
   repo: MattGiertl/kafarna-cokolif
 
 media_folder: static/assets
 public_folder: assets
 
 collections:
-  - name: menu
-    label: Menu
-    folder: menu
+  - label: "Hlavní stránka"
+    name: mainpage
     create: true
-    fields:
-      - { name: title, label: Title, widget: string }
-      - { name: description, label: Description, widget: string }
-      - { name: price, label: Price }
+    files:
+      - label: "Main Page"
+        create: true
+        name: mainpageContent
+        file: "src/data/mainpage.json"
+        fields:
+          - { label: O Kafárně, name: aboutUs, widget: text }
+          - { label: Úvodný obrázek, name: splashImage, widget: image }
+          - { label: O Kafárně, name: aboutUs, widget: text }
+          - { label: Recenze, name: review, widget: text }
+          - { label: Autor recenze, name: reviewAuthor, widget: string }
+          - { label: O nás - obrázek, name: aboutUsImage, widget: image }
+          - {
+              label: Kde nás můžete najít - obrázek,
+              name: whereToFindUsImage,
+              widget: image,
+            }
