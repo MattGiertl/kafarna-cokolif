@@ -1,27 +1,42 @@
 backend:
   name: github
+  branch: master
   repo: MattGiertl/kafarna-cokolif
 
 media_folder: static/assets
 public_folder: assets
 
 collections:
-  - label: "Obsah stránky"
-    name: "pageContent"
-    format: "json"
-    files:
-      - label: "Obsah stránky"
-        name: "page"
-        create: true
-          allow_add: true
-        format: "json"
-        file: "site/content/content.json"
-        fields:
-          - { label: O kafárně, name: about, widget: text }
-          - label: Team
-            name: team
-            widget: list
-            fields:
-              - { label: Name, name: name, widget: string }
-              - { label: Position, name: position, widget: string }
-              - { label: Photo, name: photo, widget: image }
+  - name: "menu"
+    identifier_field: name
+    label: "Menu"
+    folder: "src/pages/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "blog-post",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Featured Post", name: "featuredpost", widget: "boolean" }
+      - { label: "Featured Image", name: "featuredimage", widget: image }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
+
+  - name: "pages"
+    label: "Hlavní Stránka"
+    folder: "src/data/"
+    file: "src/data/mainpage.json"
+    create: true
+    identifier_field: aboutUs
+    fields:
+      - {
+        label: "O kafárně",
+        name: "aboutUs",
+        widget: "text",
+      }
