@@ -9,7 +9,7 @@ const StyledNavbar = styled.div({
   backgroundColor: "black",
   height: "45px",
   position: "fixed",
-  zIndex: 1,
+  zIndex: 2,
   top: 0,
 })
 

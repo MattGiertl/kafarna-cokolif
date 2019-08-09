@@ -8,12 +8,13 @@ import MenuItem from "../molecules/MenuItem"
 
 const MenuWrapper = styled.div({
   boxShadow: "0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12)",
+  zIndex: 1,
   maxHeight: "700px",
 })
 
 const ToggleWrapper = styled.div({
   display: "flex",
-  background: 'black',
+  background: "black",
   padding: "8px 16px",
   boxShadow: "0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12)",
   position: "sticky",
@@ -23,7 +24,7 @@ const ToggleWrapper = styled.div({
 
 const ContentWrapper = styled.div({
   padding: "48px 16px",
-  position: 'relative',
+  position: "relative",
   zIndex: 0,
 })
 
