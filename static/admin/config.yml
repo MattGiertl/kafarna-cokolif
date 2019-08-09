@@ -7,36 +7,23 @@ media_folder: static/assets
 public_folder: assets
 
 collections:
-  - name: "menu"
-    identifier_field: name
-    label: "Menu"
-    folder: "src/pages/blog"
+  - label: "Hlavní stránka"
+    name: mainpage
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - {
-          label: "Template Key",
-          name: "templateKey",
-          widget: "hidden",
-          default: "blog-post",
-        }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Featured Post", name: "featuredpost", widget: "boolean" }
-      - { label: "Featured Image", name: "featuredimage", widget: image }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
-
-  - name: "pages"
-    label: "Hlavní Stránka"
-    folder: "src/data/"
-    file: "src/data/mainpage.json"
-    create: true
-    identifier_field: aboutUs
-    fields:
-      - {
-        label: "O kafárně",
-        name: "aboutUs",
-        widget: "text",
-      }
+    files:
+      - label: "Main Page"
+        create: true
+        name: mainpageContent
+        file: "src/data/mainpage.json"
+        fields:
+          - { label: O Kafárně, name: aboutUs, widget: text }
+          - { label: Úvodný obrázek, name: splashImage, widget: image }
+          - { label: O Kafárně, name: aboutUs, widget: text }
+          - { label: Recenze, name: review, widget: text }
+          - { label: Autor recenze, name: reviewAuthor, widget: string }
+          - { label: O nás - obrázek, name: aboutUsImage, widget: image }
+          - {
+              label: Kde nás můžete najít - obrázek,
+              name: whereToFindUsImage,
+              widget: image,
+            }
