@@ -4,6 +4,6 @@ aboutUs: >-
   Kopi-luwak extra medium, cream barista mug, aged ut french press variety
   froth. Frappuccino mazagran qui bar galão percolator extraction. Cappuccino,
   aroma, dark and bar americano iced. Crema single shot white, beans grinder
-  cortado sweet breve that.
+  cortado sweet breve.
 ---
 
