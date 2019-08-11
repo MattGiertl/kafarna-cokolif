@@ -3,20 +3,18 @@ backend:
   branch: master
   repo: MattGiertl/kafarna-cokolif
 
-media_folder: static/assets
-public_folder: assets
+media_folder: static/images
+public_folder: images
 
 collections:
-  - label: "Hlavní stránka"
-    name: mainpage
-    create: true
+  - label: "Stránky"
+    name: pages
     files:
-      - label: "Main Page"
+      - label: "Hlavní stránka"
         create: true
         name: mainpageContent
         file: "src/data/mainpage.json"
         fields:
-          - { label: O Kafárně, name: aboutUs, widget: text }
           - { label: Úvodný obrázek, name: splashImage, widget: image }
           - { label: O Kafárně, name: aboutUs, widget: text }
           - { label: Recenze, name: review, widget: text }

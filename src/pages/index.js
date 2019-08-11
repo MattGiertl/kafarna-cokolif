@@ -1,7 +1,5 @@
 import React from "react"
 
-import SplashCover from "../images/cokolif-wall.jpg"
-
 import AboutSection from "../components/sections/AboutSection"
 
 import Navbar from "../components/organisms/Navbar"
@@ -16,6 +14,8 @@ import styled from "@emotion/styled"
 
 import "../normalize.css"
 import { mobileQuery } from "../utils/mediaqueries/mediaqueries"
+
+import mainPageData from "../data/mainpage.json"
 
 const ContentWrapper = styled(Wrapper)({
   maxWidth: "700px",
@@ -33,11 +33,16 @@ const IndexPage = () => (
       <NavLink to="#menu" text="MENU" />
       <NavLink to="#navstivte-nas" text="NAVŠTIVTE NÁS" />
     </Navbar>
-    <Splash backgroundImage={SplashCover} />
+    <Splash backgroundImage={mainPageData.splashImage} />
     <ContentWrapper>
-      <AboutSection />
+      <AboutSection
+        aboutImage={mainPageData.aboutUsImage}
+        aboutText={mainPageData.aboutUs}
+        review={mainPageData.review}
+        reviewAuthor={mainPageData.reviewAuthor}
+      />
       <MenuSection />
-      <VisitUsSection />
+      <VisitUsSection visitUsImage={mainPageData.whereToFindUsImage} />
     </ContentWrapper>
     <Footer />
   </Wrapper>
