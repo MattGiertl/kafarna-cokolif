@@ -3,7 +3,7 @@ backend:
   branch: master
   repo: MattGiertl/kafarna-cokolif
 
-media_folder: src/assets/images
+media_folder: static/images
 public_folder: images
 
 collections:

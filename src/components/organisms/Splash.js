@@ -7,7 +7,7 @@ const SplashWrapper = styled.div(
     backgroundPosition: "center center",
     backgroundRepeat: "no-repeat",
     backgroundSize: "cover",
-    filter: "brightness(1.45)",
+    filter: "brightness(1.5)",
   },
   props => ({
     backgroundImage: props.backgroundImage,
