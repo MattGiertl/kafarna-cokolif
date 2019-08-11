@@ -4,35 +4,21 @@ import styled from "@emotion/styled"
 import ReviewBox from "../molecules/ReviewBox"
 import InfoStrip from "../molecules/InfoStrip"
 
-import SectionHeading from '../atoms/SectionHeading';
+import SectionHeading from "../atoms/SectionHeading"
 import Paragraph from "../atoms/Paragraph"
-// import Image from "../atoms/Image"
+import Image from "../atoms/Image"
 
 const StyledSection = styled.section({
   display: "flex",
   flexDirection: "column",
 })
 
-const AboutSection = () => (
+const AboutSection = ({ aboutImage, aboutText, review, reviewAuthor }) => (
   <StyledSection id="o-nas">
     <SectionHeading>O KAFÁRNĚ</SectionHeading>
-    <Paragraph>
-      Aromatic macchiato seasonal irish, grounds robust spoon mug whipped
-      acerbic. Kopi-luwak extra medium, cream barista mug, aged ut french press
-      variety froth. Frappuccino mazagran qui bar galão percolator extraction.
-      Cappuccino, aroma, dark and bar americano iced. Crema single shot white,
-      beans grinder cortado sweet breve that.
-    </Paragraph>
-    <Paragraph>
-      Kopi-luwak and crema ut body crema americano organic eu white. Extraction
-      variety breve single origin, rich dripper that, crema medium body espresso
-      roast.
-    </Paragraph>
-    <ReviewBox
-      review="Moc doporučuji návštěvu. Cokolif není jen kavárna, je to místo s neuvěřitelně pozitivní energií majitelů, pohodová oáza k odpočinku a ráj pro hladové chuťové pohárky - jídlo, které v Cokolifu dělají, je hotové umělecke dílo, symfonie chutí i barev. A kafe? Boží ❤️!"
-      author="Jana Zelená"
-    />
-    {/* <Image alt="hoši" src= /> */}
+    <Paragraph>{aboutText}</Paragraph>
+    <ReviewBox review={review} author={reviewAuthor} />
+    <Image alt="hoši" src={aboutImage} />
     <InfoStrip info="Otervírací doba" infoText="Po - So 8:01 - 19:00" />
     <InfoStrip info="Adresa" infoText="Pavelčákova 5/13, Olomouc, 1. Patro" />
   </StyledSection>

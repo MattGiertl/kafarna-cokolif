@@ -35,9 +35,14 @@ const IndexPage = () => (
     </Navbar>
     <Splash backgroundImage={mainPageData.splashImage} />
     <ContentWrapper>
-      <AboutSection />
+      <AboutSection
+        aboutImage={mainPageData.aboutUsImage}
+        aboutText={mainPageData.AboutUs}
+        review={mainPageData.review}
+        reviewAuthor={mainPageData.reviewAuthor}
+      />
       <MenuSection />
-      <VisitUsSection />
+      <VisitUsSection visitUsImage={mainPageData.whereToFindUsImage} />
     </ContentWrapper>
     <Footer />
   </Wrapper>

@@ -10,14 +10,12 @@ const SplashWrapper = styled.div(
     filter: "brightness(1.5)",
   },
   props => ({
-    backgroundImage: props.backgroundImage,
+    backgroundImage: `url(${props.backgroundImage})`,
   })
 )
 
-const Splash = ({ backgroundImage }) => {
-  const background = `url(${require(`../../assets${backgroundImage}`)})`
-
-  return <SplashWrapper backgroundImage={background} />
-}
+const Splash = ({ backgroundImage }) => (
+  <SplashWrapper backgroundImage={backgroundImage} />
+)
 
 export default Splash
