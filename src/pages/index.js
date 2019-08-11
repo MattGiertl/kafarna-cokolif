@@ -6,7 +6,7 @@ import Navbar from "../components/organisms/Navbar"
 import Splash from "../components/organisms/Splash"
 import Footer from "../components/organisms/Footer"
 
-import NavLink from "../components/atoms/NavLink"
+import Anchor from "../components/atoms/Anchor"
 import MenuSection from "../components/sections/MenuSection"
 import VisitUsSection from "../components/sections/VisitUsSection"
 import Wrapper from "../components/atoms/Wrapper"
@@ -28,10 +28,10 @@ const ContentWrapper = styled(Wrapper)({
 const IndexPage = () => (
   <Wrapper>
     <Navbar>
-      <NavLink to="#" text="DOMŮ" />
-      <NavLink to="#o-nas" text="O NÁS" />
-      <NavLink to="#menu" text="MENU" />
-      <NavLink to="#navstivte-nas" text="NAVŠTIVTE NÁS" />
+      <Anchor to="#" text="DOMŮ" />
+      <Anchor to="#o-nas" text="O NÁS" />
+      <Anchor to="#menu" text="MENU" />
+      <Anchor to="#navstivte-nas" text="NAVŠTIVTE NÁS" />
     </Navbar>
     <Splash backgroundImage={mainPageData.splashImage} />
     <ContentWrapper>
