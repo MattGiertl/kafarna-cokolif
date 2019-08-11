@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "@emotion/styled"
 
-const Splashwrapper = styled.div(
+const SplashWrapper = styled.div(
   {
     height: "100vh",
     backgroundPosition: "center center",
@@ -10,12 +10,14 @@ const Splashwrapper = styled.div(
     filter: "brightness(1.45)",
   },
   props => ({
-    backgroundImage: `url(${props.backgroundImage})`,
+    backgroundImage: props.backgroundImage,
   })
 )
 
-const Splash = ({ backgroundImage }) => (
-  <Splashwrapper backgroundImage={backgroundImage} />
-)
+const Splash = ({ backgroundImage }) => {
+  const background = `url(${require(`../../assets${backgroundImage}`)})`
+
+  return <SplashWrapper backgroundImage={background} />
+}
 
 export default Splash
