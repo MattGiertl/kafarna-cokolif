@@ -1,8 +1,7 @@
 import React from "react"
-import { Link } from "gatsby"
 import styled from "@emotion/styled"
 
-const NavlinkWrapper = styled.div({
+const AnchorWrapper = styled.div({
   display: "flex",
   justifyContent: "center",
   alignItems: "center",
@@ -13,7 +12,7 @@ const NavlinkWrapper = styled.div({
   },
 })
 
-const StyledLink = styled(Link)(
+const StyledAnchor = styled.a(
   {
     textDecoration: "none",
     cursor: "pointer",
@@ -31,12 +30,12 @@ const StyledLink = styled(Link)(
   })
 )
 
-const NavLink = ({ text, to, color }) => (
-  <NavlinkWrapper>
-    <StyledLink color={color} to={to}>
+const Anchor = ({ text, to, color }) => (
+  <AnchorWrapper>
+    <StyledAnchor color={color} href={to}>
       {text}
-    </StyledLink>
-  </NavlinkWrapper>
+    </StyledAnchor>
+  </AnchorWrapper>
 )
 
-export default NavLink
+export default Anchor
