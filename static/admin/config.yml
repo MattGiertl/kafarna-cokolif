@@ -3,8 +3,8 @@ backend:
   branch: master
   repo: MattGiertl/kafarna-cokolif
 
-media_folder: static/assets
-public_folder: assets
+media_folder: src/assets/images
+public_folder: images
 
 collections:
   - label: "Stránky"
