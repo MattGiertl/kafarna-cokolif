@@ -37,7 +37,7 @@ const IndexPage = () => (
     <ContentWrapper>
       <AboutSection
         aboutImage={mainPageData.aboutUsImage}
-        aboutText={mainPageData.AboutUs}
+        aboutText={mainPageData.aboutUs}
         review={mainPageData.review}
         reviewAuthor={mainPageData.reviewAuthor}
       />
