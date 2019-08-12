@@ -1,14 +1,14 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://kafarna-cokolif.netlify.com">
-    <img alt="Cokolif logo" src="https://kafarna-cokolif.netlify.com/logo.jpg" width="60" />
+    <img alt="Cokolif logo" src="https://kafarna-cokolif.netlify.com/logo.jpg" width="400px"/>
   </a>
 </p>
 <h1 align="center">
   Kafárna Cokolif
 </h1>
 
-Presentational website for "Cokolif" a coffeeshop based in Olomouc, Czech Republic.
+Presentational website for "Cokolif", a coffeeshop based in Olomouc, Czech Republic.
 
 ## 🚀 Quick start
 
@@ -70,7 +70,7 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 8.  **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs](https://www.gatsbyjs.org/docs/ssr-apis/) (if any). These allow customization of default Gatsby settings affecting server-side rendering.
 
-9. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
+9.  **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
 
 ## 💫 Deploy
 
