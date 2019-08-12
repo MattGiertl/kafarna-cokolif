@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Kafárna Cokolif`,
+    description: `Web Kafárny Cokolif. Navštivte nás!`,
+    author: `@MattGiertl`,
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
@@ -27,16 +27,17 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Kafárna Cokolif`,
+        short_name: `Cokolif`,
+        description: "Web Kafárny Cokolif. Navštivte nás!",
+        lang: "cz",
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
-        display: `minimal-ui`,
+        icon: "static/logo.jpg",
+        background_color: `#FFF`,
+        theme_color: `#000`,
+        display: `standalone`,
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
   ],
 }
