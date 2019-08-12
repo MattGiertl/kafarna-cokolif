@@ -35,3 +35,11 @@ collections:
         fields:
           - { label: "Test", name: "test", widget: string }
           - { label: "Do pice", name: "jeblina", widget: string }
+
+      - label: "Nápojový lístek"
+        name: eatmenu
+        file: "src/data/drinkmenu.json"
+        create: true
+        fields:
+          - { label: "TestB", name: "testNB", widget: string }
+          - { label: "Do picea", name: "jeblinaa", widget: string }
