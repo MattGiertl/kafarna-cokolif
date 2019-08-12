@@ -37,7 +37,7 @@ collections:
           - { label: "Do pice", name: "jeblina", widget: string }
 
       - label: "Nápojový lístek"
-        name: eatmenu
+        name: drinkmenu
         file: "src/data/drinkmenu.json"
         create: true
         fields:
