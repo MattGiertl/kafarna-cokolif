@@ -25,7 +25,7 @@ const VisitUsSection = ({ visitUsImage }) => (
       style={{ width: "100%", marginTop: "16px" }}
     />
     <Paragraph>
-      <strong>Rezervujte</strong> si stůl, zeptejte se na dnešní specíal, nebo
+      <strong>Rezervujte</strong> si stůl, zeptejte se na dnešní speciál, nebo
       nám prostě pošlete zprávu
     </Paragraph>
     <Input placeholder="Jméno" />
