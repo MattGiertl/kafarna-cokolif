@@ -33,16 +33,32 @@ collections:
         file: "src/data/eatmenu.json"
         allow_add: true
         widget: list
-        fields:
-          - { label: "Název", name: "name", widget: string }
-          - { label: "Popisek", name: "description", widget: text }
-          - { label: "Cena", name: "price", widget: number }
+        field:
+          - {
+              label: "Položky jídelníčku",
+              name: eatmenuCollection,
+              widget: list,
+              fields:
+                [
+                  - { label: "Název", name: "name", widget: string }
+                  - { label: "Popisek", name: "description", widget: text }
+                  - { label: "Cena", name: "price", widget: number }
+                ]
+              }
 
       - label: "Nápojový lístek"
         name: drinkmenu
         file: "src/data/drinkmenu.json"
-        fields:
-          - { label: "Název", name: "drinkName", widget: string }
-          - { label: "Popisek", name: "drinkDescription", widget: text }
-          - { label: "Cena", name: "drinkPrice", widget: number }
+        field:
+          - {
+              label: "Položky nápojového lístku",
+              name: "drinkmenuCollection",
+              widget: list,
+              fields:
+                [
+                  - { label: "Název", name: "name", widget: string }
+                  - { label: "Popisek", name: "description", widget: text }
+                  - { label: "Cena", name: "price", widget: number }
+                ]
+            }
 
