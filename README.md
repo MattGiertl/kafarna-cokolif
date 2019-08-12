@@ -1,14 +1,14 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://kafarna-cokolif.netlify.com">
-    <img alt="Cokolif logo" src="https://kafarna-cokolif.netlify.com/logo.jpg" width="200" height="200" />
+    <img alt="Cokolif logo" src="https://kafarna-cokolif.netlify.com/logo.jpg" width="400px"/>
   </a>
 </p>
 <h1 align="center">
   Kafárna Cokolif
 </h1>
 
-Presentational website for "Cokolif" a coffeeshop based in Olomouc, Czech Republic.
+Presentational website for "Cokolif", a coffeeshop based in Olomouc, Czech Republic.
 
 ## 🚀 Quick start
 
