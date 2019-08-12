@@ -1,0 +1,24 @@
+{
+  "drinkmenuCollection": [
+    {
+      "name": "Coffee Cokoliv",
+      "description": "Kafe černé jako Vaše duše!",
+      "price": 70
+    },
+    {
+      "name": "Flat White",
+      "description": "Top mléčný šmak",
+      "price": 80
+    },
+    {
+      "name": "French Press",
+      "description": "Extra hipsteřina",
+      "price": 90
+    },
+    {
+      "name": "Presso Tonic",
+      "description": "Presso a Tonic... co víc si může člověk přát?",
+      "price": 98
+    }
+  ]
+}

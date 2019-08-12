@@ -1,7 +1,8 @@
 import React, { useState } from "react"
 import styled from "@emotion/styled"
 
-import menuData from "../../data/menu.json"
+import drinkMenu from "../../data/drinkmenu.json"
+import eatMenu from "../../data/eatmenu.json"
 
 import MenuToggle from "../molecules/MenuToggle"
 import MenuItem from "../molecules/MenuItem"
@@ -30,14 +31,15 @@ const ContentWrapper = styled.div({
 
 const Menu = () => {
   const [displayFoodMenu, toggleMenu] = useState(true)
-  const { eat, drink } = menuData
+  const { drinkmenuCollection } = drinkMenu
+  const { eatmenuCollection } = eatMenu
 
-  const renderFoodMenu = eat.map(menuItem => {
+  const renderFoodMenu = eatmenuCollection.map(menuItem => {
     const { name, description, price } = menuItem
     return <MenuItem title={name} description={description} price={price} />
   })
 
-  const renderDrinkMenu = drink.map(menuItem => {
+  const renderDrinkMenu = drinkmenuCollection.map(menuItem => {
     const { name, description, price } = menuItem
     return <MenuItem title={name} description={description} price={price} />
   })

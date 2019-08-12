@@ -11,7 +11,6 @@ collections:
     name: pages
     files:
       - label: "Hlavní stránka"
-        create: true
         name: mainpageContent
         file: "src/data/mainpage.json"
         fields:
@@ -25,3 +24,41 @@ collections:
               name: whereToFindUsImage,
               widget: image,
             }
+  - label: "Menu"
+    name: menu
+    create: true
+    files:
+      - label: "Jídelníček"
+        name: eatmenu
+        file: "src/data/eatmenu.json"
+        allow_add: true
+        widget: list
+        fields:
+          - {
+              label: "Položky jídelníčku",
+              name: eatmenuCollection,
+              widget: list,
+              fields:
+                [
+                  { label: "Název", name: "name", widget: string },
+                  { label: "Popisek", name: "description", widget: text },
+                  { label: "Cena", name: "price", widget: number },
+                ],
+              }
+
+      - label: "Nápojový lístek"
+        name: drinkmenu
+        file: "src/data/drinkmenu.json"
+        fields:
+          - {
+              label: "Položky nápojového lístku",
+              name: "drinkmenuCollection",
+              widget: list,
+              fields:
+                [
+                  { label: "Název", name: "name", widget: string },
+                  { label: "Popisek", name: "description", widget: text },
+                  { label: "Cena", name: "price", widget: number },
+                ],
+            }
+

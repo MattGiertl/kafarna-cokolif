@@ -1,0 +1,19 @@
+{
+  "eatmenuCollection": [
+    {
+      "name": "Lívance s citronovo - vanilkovým mascarpone",
+      "description": "S omáčkou z lesního ovoce a vlašskými ořechy",
+      "price": 94
+    },
+    {
+      "name": "Chléb Cokolif",
+      "description": "Opečený chléb s hummusem, černými olivami, sušenými rajčaty, marinovanym vejcem, restovaným prosciuttem, salátem ZE-ZA-HRÁTKY",
+      "price": 117
+    },
+    {
+      "name": "Salát z listů ZE-ZA-HRÁTKY",
+      "description": "S červenou řepou, kozím sýrem, mladou kukuřicí, filety pomeranče a praženými semínky slunečnice",
+      "price": 128
+    }
+  ]
+}
