@@ -33,7 +33,7 @@ collections:
         file: "src/data/eatmenu.json"
         allow_add: true
         widget: list
-        field:
+        fields:
           - {
               label: "Položky jídelníčku",
               name: eatmenuCollection,
@@ -49,7 +49,7 @@ collections:
       - label: "Nápojový lístek"
         name: drinkmenu
         file: "src/data/drinkmenu.json"
-        field:
+        fields:
           - {
               label: "Položky nápojového lístku",
               name: "drinkmenuCollection",
