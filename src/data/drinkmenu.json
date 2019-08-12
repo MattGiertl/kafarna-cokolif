@@ -2,7 +2,7 @@
   "drinkmenuCollection": [
     {
       "name": "Coffee Cokoliv",
-      "description": "Kafe černé jako Vaše duše!\n\n",
+      "description": "Kafe černé jako Vaše duše!",
       "price": 70
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "name": "French Press",
-      "description": "Extra hipsteřina\n\n",
+      "description": "Extra hipsteřina",
       "price": 90
     },
     {
       "name": "Presso Tonic",
-      "description": "Presso a Tonic... co víc si může člověk přát?\n\n",
+      "description": "Presso a Tonic... co víc si může člověk přát?",
       "price": 98
     }
   ]
