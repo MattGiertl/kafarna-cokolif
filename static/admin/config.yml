@@ -31,15 +31,18 @@ collections:
       - label: "Jídelníček"
         name: eatmenu
         file: "src/data/eatmenu.json"
-        create: true
+        allow_add: true
+        widget: list
         fields:
-          - { label: "Test", name: "test", widget: string }
-          - { label: "Do pice", name: "jeblina", widget: string }
+          - { label: "Název", name: "name", widget: string }
+          - { label: "Popisek", name: "description", widget: text }
+          - { label: "Cena", name: "price", widget: number }
 
       - label: "Nápojový lístek"
         name: drinkmenu
         file: "src/data/drinkmenu.json"
-        create: true
         fields:
-          - { label: "TestB", name: "testNB", widget: string }
-          - { label: "Do picea", name: "jeblinaa", widget: string }
+          - { label: "Název", name: "name", widget: string }
+          - { label: "Popisek", name: "description", widget: text }
+          - { label: "Cena", name: "price", widget: number }
+
