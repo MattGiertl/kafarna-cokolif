@@ -54,11 +54,30 @@ const IndexPage = () => (
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
-        backgroundImage: `url(${Banner})`
+        backgroundImage: `url(${Banner})`,
+        height: "100vh",
+        backgroundPosition: "center center",
+        backgroundRepeat: "no-repeat",
+        backgroundSize: "cover",
+        filter: "brightness(50%)",
+        position: "relative",
+      }}
+    ></div>
+    <h1
+      style={{
+        fontSize: "4rem",
+        color: "white",
+        filter: "brightness(100%)",
+        position: "fixed",
+        bottom: "5%",
+        right: "5%",
+        margin: 0,
+        padding: 0,
+        textAlign: "center",
       }}
     >
       Web je ve výstavbě...
-    </div>
+    </h1>
   </>
 )
 
