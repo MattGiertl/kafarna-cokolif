@@ -17,6 +17,8 @@ import { mobileQuery } from "../utils/mediaqueries/mediaqueries"
 
 import mainPageData from "../data/mainpage.json"
 
+import Banner from "../../static/images/cokolif-banner.jpg"
+
 const ContentWrapper = styled(Wrapper)({
   maxWidth: "700px",
   margin: "0 auto",
@@ -26,26 +28,38 @@ const ContentWrapper = styled(Wrapper)({
 })
 
 const IndexPage = () => (
-  <Wrapper>
-    <Navbar>
-      <Anchor to="#" text="DOMŮ" />
-      <Anchor to="#o-nas" text="O NÁS" />
-      <Anchor to="#menu" text="MENU" />
-      <Anchor to="#navstivte-nas" text="NAVŠTIVTE NÁS" />
-    </Navbar>
-    <Splash backgroundImage={mainPageData.splashImage} />
-    <ContentWrapper>
-      <AboutSection
-        aboutImage={mainPageData.aboutUsImage}
-        aboutText={mainPageData.aboutUs}
-        review={mainPageData.review}
-        reviewAuthor={mainPageData.reviewAuthor}
-      />
-      <MenuSection />
-      <VisitUsSection visitUsImage={mainPageData.whereToFindUsImage} />
-    </ContentWrapper>
-    <Footer />
-  </Wrapper>
+  <>
+    <Wrapper>
+      <Navbar>
+        <Anchor to="#" text="DOMŮ" />
+        <Anchor to="#o-nas" text="O NÁS" />
+        <Anchor to="#menu" text="MENU" />
+        <Anchor to="#navstivte-nas" text="NAVŠTIVTE NÁS" />
+      </Navbar>
+      <Splash backgroundImage={mainPageData.splashImage} />
+      <ContentWrapper>
+        <AboutSection
+          aboutImage={mainPageData.aboutUsImage}
+          aboutText={mainPageData.aboutUs}
+          review={mainPageData.review}
+          reviewAuthor={mainPageData.reviewAuthor}
+        />
+        <MenuSection />
+        <VisitUsSection visitUsImage={mainPageData.whereToFindUsImage} />
+      </ContentWrapper>
+      <Footer />
+    </Wrapper>
+    <div
+      style={{
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        backgroundImage: `url(${Banner})`
+      }}
+    >
+      Web je ve výstavbě...
+    </div>
+  </>
 )
 
 export default IndexPage
