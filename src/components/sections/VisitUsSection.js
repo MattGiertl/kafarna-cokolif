@@ -1,12 +1,9 @@
 import React from "react"
 import styled from "@emotion/styled"
 
-// import Banner from "../../images/cokolif-banner.jpg"
 
 import Paragraph from "../atoms/Paragraph"
 import SectionHeading from "../atoms/SectionHeading"
-import Input from "../atoms/Input"
-import Button from "../atoms/Button"
 import Image from "../atoms/Image"
 
 const VisitUsSectionWrapper = styled.div({
@@ -24,14 +21,6 @@ const VisitUsSection = ({ visitUsImage }) => (
       src={visitUsImage}
       style={{ width: "100%", marginTop: "16px" }}
     />
-    <Paragraph>
-      <strong>Rezervujte</strong> si stůl, zeptejte se na dnešní speciál, nebo
-      nám prostě pošlete zprávu
-    </Paragraph>
-    <Input placeholder="Jméno" />
-    <Input placeholder="Počet lidí" />
-    <Input placeholder="Zpráva / speciální požadavky" />
-    <Button text="ODESLAT" />
   </VisitUsSectionWrapper>
 )
 
