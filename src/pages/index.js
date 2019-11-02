@@ -17,6 +17,8 @@ import { mobileQuery } from "../utils/mediaqueries"
 
 import mainPageData from "../data/mainpage.json"
 
+import Banner from "../../static/images/cokolif-banner.jpg"
+
 const ContentWrapper = styled(Wrapper)({
   maxWidth: "700px",
   margin: "0 auto",
