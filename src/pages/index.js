@@ -42,7 +42,7 @@ const IndexPage = () => (
         reviewAuthor={mainPageData.reviewAuthor}
       />
       <MenuSection />
-      <VisitUsSection />
+      <VisitUsSection visitUsImage={mainPageData.whereToFindUsImage} />
     </ContentWrapper>
     <Footer />
   </Wrapper>

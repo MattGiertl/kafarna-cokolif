@@ -16,8 +16,6 @@ collections:
         fields:
           - { label: Úvodný obrázek, name: splashImage, widget: image }
           - { label: O Kafárně, name: aboutUs, widget: text }
-          - { label: Recenze, name: review, widget: text }
-          - { label: Autor recenze, name: reviewAuthor, widget: string }
           - { label: O nás - obrázek, name: aboutUsImage, widget: image }
           - {
               label: Kde nás můžete najít - obrázek,
@@ -44,7 +42,7 @@ collections:
                   { label: "Popisek", name: "description", widget: text },
                   { label: "Cena", name: "price", widget: number },
                 ],
-              }
+            }
 
       - label: "Nápojový lístek"
         name: drinkmenu
@@ -61,4 +59,3 @@ collections:
                   { label: "Cena", name: "price", widget: number },
                 ],
             }
-

@@ -1,5 +1,6 @@
 import React from "react"
 import styled from "@emotion/styled"
+import theme from "../../utils/theme"
 
 const AnchorWrapper = styled.div({
   display: "flex",
@@ -22,7 +23,7 @@ const StyledAnchor = styled.a(
     height: "100%",
     padding: "8px",
     "&:hover": {
-      color: "black",
+      color: theme.colors.black,
     },
   },
   props => ({
