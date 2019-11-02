@@ -13,7 +13,7 @@ import Wrapper from "../components/atoms/Wrapper"
 import styled from "@emotion/styled"
 
 import "../normalize.css"
-import { mobileQuery } from "../utils/mediaqueries/mediaqueries"
+import { mobileQuery } from "../utils/mediaqueries"
 
 import mainPageData from "../data/mainpage.json"
 
@@ -42,7 +42,7 @@ const IndexPage = () => (
         reviewAuthor={mainPageData.reviewAuthor}
       />
       <MenuSection />
-      <VisitUsSection visitUsImage={mainPageData.whereToFindUsImage} />
+      <VisitUsSection />
     </ContentWrapper>
     <Footer />
   </Wrapper>
