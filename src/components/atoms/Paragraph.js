@@ -5,7 +5,7 @@ import theme from "../../utils/theme"
 const StyledParagraph = styled.p(
   {
     lineHeight: 1.5,
-    fontSize: 13,
+    fontSize: 15,
   },
   props => ({
     color: props.color ? props.color : theme.colors.black,
