@@ -1,5 +1,6 @@
 import React from "react"
 import styled from "@emotion/styled"
+import theme from "../../utils/theme"
 
 const MenuToggleWrapper = styled.div(
   {
@@ -15,7 +16,7 @@ const MenuToggleWrapper = styled.div(
 
     "&:hover": {
       background: "white",
-      color: "black",
+      color: theme.colors.black,
     },
   },
   props => ({
