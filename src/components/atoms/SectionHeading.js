@@ -23,12 +23,13 @@ const StyledHeading = styled.h5({
 const StyledSpan = styled.span(
   {
     padding: "3px 10px",
-    background: theme.colors.black,
     textAlign: "center",
     color: "white",
   },
   props => ({
-    background: props.backgroundColor,
+    background: props.backgroundColor
+      ? props.backgroundColor
+      : theme.colors.black,
   })
 )
 

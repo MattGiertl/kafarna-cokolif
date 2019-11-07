@@ -12,7 +12,7 @@ const StyledSection = styled.section({
   flexDirection: "column",
 })
 
-const AboutSection = ({ aboutImage, aboutText, review, reviewAuthor }) => (
+const AboutSection = ({ aboutImage, aboutText }) => (
   <StyledSection id="o-nas">
     <SectionHeading>O KAFÁRNĚ</SectionHeading>
     <Paragraph>{aboutText}</Paragraph>

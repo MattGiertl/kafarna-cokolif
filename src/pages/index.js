@@ -9,6 +9,7 @@ import Footer from "../components/organisms/Footer"
 import Anchor from "../components/atoms/Anchor"
 import MenuSection from "../components/sections/MenuSection"
 import VisitUsSection from "../components/sections/VisitUsSection"
+import GallerySection from "../components/sections/GallerySection"
 import Wrapper from "../components/atoms/Wrapper"
 import styled from "@emotion/styled"
 
@@ -41,6 +42,7 @@ const IndexPage = () => (
         review={mainPageData.review}
         reviewAuthor={mainPageData.reviewAuthor}
       />
+      <GallerySection />
       <MenuSection />
       <VisitUsSection visitUsImage={mainPageData.whereToFindUsImage} />
     </ContentWrapper>
