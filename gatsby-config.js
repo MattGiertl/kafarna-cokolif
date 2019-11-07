@@ -22,6 +22,12 @@ module.exports = {
         path: `${__dirname}/static/images/`,
       },
     },
+    {
+      resolve: `gatsby-source-instagram-all`,
+      options: {
+        access_token: "9477884181.1677ed0.7a5053053c0a4336a99281b2223e4fcd",
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
