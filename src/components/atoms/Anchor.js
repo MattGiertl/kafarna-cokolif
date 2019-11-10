@@ -2,14 +2,13 @@ import React from "react"
 import styled from "@emotion/styled"
 import theme from "../../utils/theme"
 
-import { OutboundLink } from "gatsby-plugin-google-analytics"
-
 const AnchorWrapper = styled.div({
   display: "flex",
   justifyContent: "center",
   alignItems: "center",
   width: "100%",
-  height: '100%',
+  cursor: "pointer",
+  height: "100%",
   background: "inherit",
   transition: "background 300ms",
   "&:hover": {
@@ -17,10 +16,11 @@ const AnchorWrapper = styled.div({
   },
 })
 
-const StyledAnchor = styled(OutboundLink)(
+const StyledAnchor = styled.a(
   {
     textDecoration: "none",
     cursor: "pointer",
+    width: '100%',
     fontSize: "15px",
     textAlign: "center",
     padding: "8px",
