@@ -18,6 +18,12 @@ const VisitUsSection = () => (
     <Paragraph margin={0}>
       <strong>Otevřeno Po - So: </strong>8:01 - 19:01
     </Paragraph>
+    <Paragraph margin={0}>
+      <strong>Tel: </strong>+420 728 758 632
+    </Paragraph>
+    <Paragraph margin={0}>
+      <strong>Mail: </strong>cokolif@post.cz
+    </Paragraph>
     <Map />
   </VisitUsSectionWrapper>
 )
