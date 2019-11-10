@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://kafarna-cokolif.netlify.com">
-    <img alt="Cokolif logo" src="https://kafarna-cokolif.netlify.com/logo.jpg" width="400px"/>
+    <img alt="Cokolif logo" src="https://cokolif.cz/cokolif_cafarna_3.jpg" width="400px"/>
   </a>
 </p>
 <h1 align="center">
