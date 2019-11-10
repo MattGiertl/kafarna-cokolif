@@ -17,6 +17,7 @@ import "../normalize.css"
 import { mobileQuery } from "../utils/mediaqueries"
 
 import mainPageData from "../data/mainpage.json"
+import SEO from "../components/atoms/SEO"
 
 const ContentWrapper = styled(Wrapper)({
   maxWidth: "700px",
@@ -28,6 +29,7 @@ const ContentWrapper = styled(Wrapper)({
 
 const IndexPage = () => (
   <Wrapper>
+    <SEO />
     <Navbar>
       <Anchor to="#" text="DOMŮ" />
       <Anchor to="#o-nas" text="O NÁS" />

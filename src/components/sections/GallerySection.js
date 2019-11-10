@@ -18,7 +18,7 @@ const GallerySection = () => {
 
   return (
     <SectionWrapper>
-      <SectionHeading>GALERIE</SectionHeading>
+      <SectionHeading>INSTAGRAM @cokolif_kafarna</SectionHeading>
       <Posts>
         {edges.map(edge => {
           const { url } = edge.node.images.standard_resolution
