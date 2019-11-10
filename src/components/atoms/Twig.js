@@ -9,6 +9,6 @@ const StyledTwig = styled.img({
   margin: "0 auto",
 })
 
-const Twig = () => <StyledTwig src={TwigImg} />
+const Twig = () => <StyledTwig src={TwigImg} alt="Cokolif větvička" />
 
 export default Twig
