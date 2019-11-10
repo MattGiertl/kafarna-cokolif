@@ -3,6 +3,7 @@ module.exports = {
     title: "Kafárna Cokolif",
     defaultTitle: "Kafárna Cokolif",
     description: "Nová Olomoucká kavárna",
+    defaultDescription: "Nová Olomoucká kavárna",
     url: "https://www.cokolif.cz", // No trailing slash allowed!
     image: "/images/cokolif_cafarna_3.jpg", // Path to your image you placed in the 'static' folder
   },
