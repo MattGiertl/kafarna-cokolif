@@ -2,25 +2,27 @@ import React from "react"
 import styled from "@emotion/styled"
 import theme from "../../utils/theme"
 
+import { OutboundLink } from "gatsby-plugin-google-analytics"
+
 const AnchorWrapper = styled.div({
   display: "flex",
   justifyContent: "center",
   alignItems: "center",
   width: "100%",
+  height: '100%',
+  background: "inherit",
   transition: "background 300ms",
   "&:hover": {
     background: "#EDEDED",
   },
 })
 
-const StyledAnchor = styled.a(
+const StyledAnchor = styled(OutboundLink)(
   {
     textDecoration: "none",
     cursor: "pointer",
-    fontSize: "11px",
+    fontSize: "15px",
     textAlign: "center",
-    width: "100%",
-    height: "100%",
     padding: "8px",
     "&:hover": {
       color: theme.colors.black,

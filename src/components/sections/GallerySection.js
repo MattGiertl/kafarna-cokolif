@@ -24,7 +24,9 @@ const GallerySection = () => {
           const { url } = edge.node.images.standard_resolution
           const { text } = edge.node.caption
 
-          return <Post src={url} alt={text} />
+          return (
+            <Post src={url} alt={text ? text : "Sledujte nás na Instagramu"} />
+          )
         })}
       </Posts>
     </SectionWrapper>
