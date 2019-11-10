@@ -1,13 +1,33 @@
 module.exports = {
   siteMetadata: {
-    title: `Kafárna Cokolif`,
-    description: `Web Kafárny Cokolif. Navštivte nás!`,
-    author: `@MattGiertl`,
+    title: "Kafárna Cokolif",
+    defaultTitle: "Kafárna Cokolif",
+    description: "Nová Olomoucká kavárna",
+    url: "https://www.cokolif.cz", // No trailing slash allowed!
+    image: "/images/cokolif_cafarna_3.jpg", // Path to your image you placed in the 'static' folder
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-emotion`,
     `gatsby-plugin-react-helmet`,
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-115190914-4",
+        // Defines where to place the tracking script - `true` in the head and `false` in the body
+        head: false,
+        // Setting this parameter is optional
+        anonymize: true,
+        // Setting this parameter is also optional
+        respectDNT: true,
+        // Delays sending pageview hits on route update (in milliseconds)
+        pageTransitionDelay: 0,
+        // Any additional optional fields
+        sampleRate: 5,
+        siteSpeedSampleRate: 10,
+        cookieDomain: "",
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
