@@ -1,19 +1,29 @@
 {
   "eatmenuCollection": [
     {
-      "name": "Lívance s citronovo - vanilkovým mascarpone",
-      "description": "S omáčkou z lesního ovoce a vlašskými ořechy",
-      "price": 94
+      "name": "Polévka",
+      "description": "Jemná mrkvová polévka s kokosovým mlékem a bylinkami, chilli vlasy a pražená semínka",
+      "price": 55
     },
     {
-      "name": "Chléb Cokolif",
-      "description": "Opečený chléb s hummusem, černými olivami, sušenými rajčaty, marinovanym vejcem, restovaným prosciuttem, salátem ZE-ZA-HRÁTKY",
-      "price": 117
+      "name": "Předkrm",
+      "description": "Tataráček z pečeného lilku a rajčat Kumato s kozím sýrem, salátkem a opečeným toustem",
+      "price": 99
     },
     {
-      "name": "Salát z listů ZE-ZA-HRÁTKY",
-      "description": "S červenou řepou, kozím sýrem, mladou kukuřicí, filety pomeranče a praženými semínky slunečnice",
-      "price": 128
+      "name": "Snack",
+      "description": "Opečený toast s bylinkovo - tvarohovou pěnou, plátky uzeného Halibuta grónského marinovaného v kopru, s restovanými cherry rajčátky, semínky a salátkem ",
+      "price": 89
+    },
+    {
+      "name": "Velký opečený chléb",
+      "description": "Opečený chléb s řepovou pěnou, pošírovaným vejcem, granátovým jablkem, pažitkou, ředkvičkami a salátkem",
+      "price": 99
+    },
+    {
+      "name": "Sladká dobrota",
+      "description": "Lívance s jablečnou omáčkou a tvarohovým krémem, rumovými rozinkami,drcenými vlašskými ořechy a čerstvou mátou",
+      "price": 99
     }
   ]
 }
