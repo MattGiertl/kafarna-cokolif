@@ -17,8 +17,11 @@ const AboutSection = ({ aboutImage, aboutText }) => (
     <SectionHeading>O KAFÁRNĚ</SectionHeading>
     <Paragraph textAlign="center">{aboutText}</Paragraph>
     <Image alt="hoši" src={aboutImage} />
-    <InfoStrip info="Otervírací doba" infoText="Po - So 8:01 - 19:00" />
-    <InfoStrip info="Adresa" infoText="Pavelčákova 5/13, Olomouc, 1. Patro" />
+    <InfoStrip info="Otevírací doba" infoText="Po - So 8:01 - 19:00" />
+    <InfoStrip
+      info="Adresa"
+      infoText="Pavelčákova 5/13, Olomouc, 1. Patro (malá ulička Uhelná)"
+    />
   </StyledSection>
 )
 

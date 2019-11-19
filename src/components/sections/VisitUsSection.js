@@ -13,7 +13,9 @@ const VisitUsSectionWrapper = styled.div({
 const VisitUsSection = () => (
   <VisitUsSectionWrapper id="navstivte-nas">
     <SectionHeading>KDE NÁS MŮŽETE NAJÍT?</SectionHeading>
-    <Paragraph margin={0}>Pavelčákova 5/13, Olomouc</Paragraph>
+    <Paragraph margin={0}>
+      Pavelčákova 5/13, Olomouc (malá ulička Uhelná)
+    </Paragraph>
     <Paragraph margin={0}>1. PATRO</Paragraph>
     <Paragraph margin={0}>
       <strong>Otevřeno Po - So: </strong>8:01 - 19:01
