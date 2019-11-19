@@ -11,7 +11,7 @@ import theme from "../../utils/theme.js"
 const MenuWrapper = styled.div({
   boxShadow: "0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12)",
   zIndex: 1,
-  maxHeight: "700px",
+  // maxHeight: "700px",
 })
 
 const ToggleWrapper = styled.div({
