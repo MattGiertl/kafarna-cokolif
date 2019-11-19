@@ -13,6 +13,7 @@ const StyledParagraph = styled.p(
     marginRight: props.marginRight,
     marginLeft: props.marginLeft,
     margin: props.margin,
+    textAlign: props.textAlign,
     fontSize: props.fontSize,
   })
 )
@@ -25,8 +26,10 @@ const Paragraph = ({
   margin,
   color,
   marginLeft,
+  textAlign,
 }) => (
   <StyledParagraph
+    textAlign={textAlign}
     fontSize={fontSize}
     color={color}
     bold={bold}

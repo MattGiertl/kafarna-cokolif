@@ -40,7 +40,12 @@ collections:
                 [
                   { label: "Název", name: "name", widget: string },
                   { label: "Popisek", name: "description", widget: text },
-                  { label: "Cena", name: "price", widget: number },
+                  {
+                    label: "Cena",
+                    name: "price",
+                    widget: number,
+                    required: false,
+                  },
                 ],
             }
 
@@ -56,6 +61,11 @@ collections:
                 [
                   { label: "Název", name: "name", widget: string },
                   { label: "Popisek", name: "description", widget: text },
-                  { label: "Cena", name: "price", widget: number },
+                  {
+                    label: "Cena",
+                    name: "price",
+                    widget: number,
+                    required: false,
+                  },
                 ],
             }
