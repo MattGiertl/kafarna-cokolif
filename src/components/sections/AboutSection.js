@@ -15,7 +15,7 @@ const StyledSection = styled.section({
 const AboutSection = ({ aboutImage, aboutText }) => (
   <StyledSection id="o-nas">
     <SectionHeading>O KAFÁRNĚ</SectionHeading>
-    <Paragraph>{aboutText}</Paragraph>
+    <Paragraph textAlign="center">{aboutText}</Paragraph>
     <Image alt="hoši" src={aboutImage} />
     <InfoStrip info="Otervírací doba" infoText="Po - So 8:01 - 19:00" />
     <InfoStrip info="Adresa" infoText="Pavelčákova 5/13, Olomouc, 1. Patro" />
