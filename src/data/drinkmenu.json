@@ -1,24 +1,24 @@
 {
   "drinkmenuCollection": [
     {
-      "name": "Coffee Cokoliv",
-      "description": "Kafe černé jako Vaše duše!",
-      "price": 70
+      "name": "AKTUÁLNÍ PRAŽÍRNA ",
+      "description": "Dos Mundos  -  Praha",
+      "price": ""
     },
     {
-      "name": "Flat White",
-      "description": "Top mléčný šmak",
-      "price": 80
+      "name": "Speciální nabídka ZIMNÍCH NÁPOJŮ",
+      "description": "Kávový punč Cokolif , Espresso Vaječňák Cokolif , Irish Coffee  a další ...\n",
+      "price": ""
     },
     {
-      "name": "French Press",
-      "description": "Extra hipsteřina",
-      "price": 90
+      "name": "Nabídka filtrovaných káv",
+      "description": "Drip V60 , Delter Coffee press , Aeropress , French press",
+      "price": ""
     },
     {
-      "name": "Presso Tonic",
-      "description": "Presso a Tonic... co víc si může člověk přát?",
-      "price": 98
+      "name": "Cokolif domácí limonády",
+      "description": "Zázračná limonáda , Kombucha , Pivo Chomout a další ...",
+      "price": ""
     }
   ]
 }
