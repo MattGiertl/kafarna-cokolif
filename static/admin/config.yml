@@ -17,11 +17,6 @@ collections:
           - { label: Úvodný obrázek, name: splashImage, widget: image }
           - { label: O Kafárně, name: aboutUs, widget: text }
           - { label: O nás - obrázek, name: aboutUsImage, widget: image }
-          - {
-              label: Kde nás můžete najít - obrázek,
-              name: whereToFindUsImage,
-              widget: image,
-            }
   - label: "Menu"
     name: menu
     create: true
