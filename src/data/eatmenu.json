@@ -10,8 +10,18 @@
       "price": 57
     },
     {
+      "name": "Snack",
+      "description": "Opečený toust s bylinkovým žervé, jablky a francouzským sýrem Tommette des Alpes,  salátkem, vlašskými ořechy a medem, tykvová pražená semínka, bylinkový olejíček\nA: 1, 7, 8, ",
+      "price": 77
+    },
+    {
       "name": "Velký opečený chléb",
       "description": "Opečený chléb se salátkem z pečených rajčat a paprik, s kozím sýrem, listovým salátem a čerstvými bylinkami \n\nA: 1, 7, 8, 11",
+      "price": 97
+    },
+    {
+      "name": "Sladká dobrota",
+      "description": "Lívance s omáčkou z višní a cherry likéru, s chilli hořkou čokoládou, vanilkovým tvarohem a čerstvou mátou  A: 1,3,7",
       "price": 97
     }
   ]
