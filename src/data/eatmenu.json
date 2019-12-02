@@ -2,26 +2,31 @@
   "eatmenuCollection": [
     {
       "name": "MENU",
-      "description": "25.11. - 29.11. 2019"
+      "description": "2. 12. - 6. 12. 2019"
+    },
+    {
+      "name": "Speciální nabídka ÚSTŘIC",
+      "description": "Ústřice velká - Fines de Claires Vertes GEAY (Francie) / 1ks",
+      "price": 67
     },
     {
       "name": "Polévka",
-      "description": "Dýňová polévka s kokosovým mlékem, čerstvým koriandrem a praženými semínky\n\nA: 8, 11",
+      "description": "Jemný krém z bílých žampionů, s čerstvým tymiánem, smetanou a praženými semínky slunečnice",
       "price": 57
     },
     {
       "name": "Snack",
-      "description": "Opečený toust s bylinkovým žervé, jablky a francouzským sýrem Tommette des Alpes,  salátkem, vlašskými ořechy a medem, tykvová pražená semínka, bylinkový olejíček\nA: 1, 7, 8, ",
+      "description": "Opečený toust s bylinkovým žervé, jablky a zrajícím sýrem Camembert,  salátkem, vlašskými ořechy a medem, tykvová pražená semínka, bylinkový olejíček\nA: 1, 7, 8",
       "price": 77
     },
     {
-      "name": "Velký opečený chléb",
-      "description": "Opečený chléb se salátkem z pečených rajčat a paprik, s kozím sýrem, listovým salátem a čerstvými bylinkami \n\nA: 1, 7, 8, 11",
-      "price": 97
+      "name": "Snack",
+      "description": "Tataráček z pečeného lilku a rajčat Kumato, s kozím sýrem, salátkem a bylinkovým olejíčkem, semínky a opečeným toust \n\nA: 1, 7, 8, 11",
+      "price": 107
     },
     {
       "name": "Sladká dobrota",
-      "description": "Lívance s omáčkou z višní a cherry likéru, s chilli hořkou čokoládou, vanilkovým tvarohem a čerstvou mátou  A: 1,3,7",
+      "description": "Lívance se švestkovou omáčkou s povidlami a hořkou čokoládou, vanilkovým tvarohem, vlašskými ořechy a čerstvou mátou  A: 1,3,7,8",
       "price": 97
     }
   ]
