@@ -5,11 +5,6 @@
       "description": "2. 12. - 6. 12. 2019"
     },
     {
-      "name": "Speciální nabídka ÚSTŘIC",
-      "description": "Ústřice velká - Fines de Claires Vertes GEAY (Francie) / 1ks",
-      "price": 67
-    },
-    {
       "name": "Polévka",
       "description": "Jemný krém z bílých žampionů, s čerstvým tymiánem, smetanou a praženými semínky slunečnice",
       "price": 57
@@ -20,9 +15,9 @@
       "price": 77
     },
     {
-      "name": "Snack",
-      "description": "Tataráček z pečeného lilku a rajčat Kumato, s kozím sýrem, salátkem a bylinkovým olejíčkem, semínky a opečeným toust \n\nA: 1, 7, 8, 11",
-      "price": 107
+      "name": "Velký chlebík",
+      "description": "Opečený chléb se salátkem z pórku a slaniny, chipsy cheddaru, ředkvičky, čerstvý koriandr a listy salátu s bylinkovým olejíčkem, sezamová semínka\nA: 1, 7, 8, 11",
+      "price": 117
     },
     {
       "name": "Sladká dobrota",
