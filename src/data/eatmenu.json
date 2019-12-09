@@ -2,27 +2,17 @@
   "eatmenuCollection": [
     {
       "name": "MENU",
-      "description": "2. 12. - 6. 12. 2019"
+      "description": "9. 12. - 13. 12. 2019"
     },
     {
       "name": "Polévka",
-      "description": "Jemný krém z bílých žampionů, s čerstvým tymiánem, smetanou a praženými semínky slunečnice",
+      "description": "Červená zelná polévka s klobáskou\nA: 1",
       "price": 57
-    },
-    {
-      "name": "Snack",
-      "description": "Opečený toust s bylinkovým žervé, jablky a zrajícím sýrem Camembert,  salátkem, vlašskými ořechy a medem, tykvová pražená semínka, bylinkový olejíček\nA: 1, 7, 8",
-      "price": 77
     },
     {
       "name": "Velký chlebík",
       "description": "Opečený chléb se salátkem z pórku a slaniny, chipsy cheddaru, ředkvičky, čerstvý koriandr a listy salátu s bylinkovým olejíčkem, sezamová semínka\nA: 1, 7, 8, 11",
       "price": 117
-    },
-    {
-      "name": "Sladká dobrota",
-      "description": "Lívance se švestkovou omáčkou s povidlami a hořkou čokoládou, vanilkovým tvarohem, vlašskými ořechy a čerstvou mátou  A: 1,3,7,8",
-      "price": 97
     }
   ]
 }
