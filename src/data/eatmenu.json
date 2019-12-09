@@ -6,12 +6,12 @@
     },
     {
       "name": "Polévka",
-      "description": "Červená zelná polévka s klobáskou\nA: 1",
+      "description": "Zelná polévka s restovanou klobáskou, jarní cibulkou a brambůrkem\nA: 1",
       "price": 57
     },
     {
       "name": "Velký chlebík",
-      "description": "Opečený chléb se salátkem z pórku a slaniny, chipsy cheddaru, ředkvičky, čerstvý koriandr a listy salátu s bylinkovým olejíčkem, sezamová semínka\nA: 1, 7, 8, 11",
+      "description": "Opečený chléb se salátkem z pórku a slaniny, chipsy cheddaru, ředkvičky, listy salátu s bylinkovým olejíčkem, sezamová a tykvová semínka\nA: 1, 7, 8, 11",
       "price": 117
     }
   ]
