@@ -18,6 +18,11 @@
       "name": "Velký chlebík",
       "description": "Opečený chléb s pěnou z červené řepy, britský modrý sýr Blue Stilton, pošírované vejce, listy salátu, granátové jablko a pražená semínka   A: 1,3,7,8,11",
       "price": 127
+    },
+    {
+      "name": "Hlavní chod",
+      "description": "Bramboráčky Cokolif 3ks se sýrem Gran Moravia, pórkem, česnekovou zakysanou smetanou a salátkem A: 1,3,7,8,11",
+      "price": 137
     }
   ]
 }
