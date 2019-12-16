@@ -2,21 +2,21 @@
   "eatmenuCollection": [
     {
       "name": "MENU",
-      "description": "9. 12. - 13. 12. 2019"
+      "description": "16. 12. - 20. 12. 2019"
     },
     {
       "name": "Polévka",
-      "description": "Zelná polévka s restovanou klobáskou, jarní cibulkou a brambůrkem\nA: 1",
-      "price": 57
+      "description": "Krém z květáku a pečeného pastyňáku, chilli vlasy, pražená semínka, čerstvá řeřicha a sezam\nA: 7,8,11",
+      "price": 67
     },
     {
       "name": "Velký chlebík",
-      "description": "Opečený chléb s pěnou z červené řepy, britský modrý sýr Blue Stilton, pošírované vejce, listy salátu, granátové jablko a pražená semínka   A: 1,3,7,8,11",
+      "description": "Opečený chléb se salátkem z paprik a čerstvého tymiánu na bylinkové pomazánce, chipsy ze sýru Gran Moravia, salátek a bylinkový olejíček, pražená semínka   A: 1,7,8",
       "price": 127
     },
     {
       "name": "Hlavní chod",
-      "description": "Bramboráčky Cokolif 3ks se sýrem Gran Moravia, pórkem, česnekovou zakysanou smetanou a salátkem A: 1,3,7,8,11",
+      "description": "Salát z červeného zelí, vařeném na víně a koření, s kozím sýrem, bílými rozinkami, listy červené řepy a vlašskými ořechy, opečený toast A: 1,7,8,12",
       "price": 137
     }
   ]
