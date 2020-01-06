@@ -2,21 +2,26 @@
   "eatmenuCollection": [
     {
       "name": "MENU",
-      "description": "16. 12. - 20. 12. 2019"
+      "description": "6. 1. 2020 - 10. 1. 2020"
     },
     {
       "name": "Polévka",
-      "description": "Krém z květáku a pečeného pastyňáku, chilli vlasy, pražená semínka, čerstvá řeřicha a sezam\nA: 7,8,11",
-      "price": 67
+      "description": "Krémová pórková polévka s praženými semínky tykve \na chilly vlasy\nA: 1,7,8",
+      "price": 57
+    },
+    {
+      "name": "Snack",
+      "description": "Tataráček z pečeného lilku a paprik, se sýrem Brie, salátkem, praženými semínky a opečeným toastem                                       \nA: 1,7,8                                    \n",
+      "price": 97
     },
     {
       "name": "Velký chlebík",
-      "description": "Opečený chléb se salátkem z paprik a čerstvého tymiánu na bylinkové pomazánce, chipsy ze sýru Gran Moravia, salátek a bylinkový olejíček, pražená semínka   A: 1,7,8",
-      "price": 127
+      "description": "Opečený chléb s pěnou z červené řepy, pošírovaným vejcem, granátovým jablkem, salátkem a praženými semínky\nA: 1,3,7,8,11                      \n",
+      "price": 117
     },
     {
       "name": "Hlavní chod",
-      "description": "Salát z červeného zelí, vařeném na víně a koření, s kozím sýrem, bílými rozinkami, listy červené řepy a vlašskými ořechy, opečený toast A: 1,7,8,12",
+      "description": "3 ks Pečené kuřecí paličky na asijské omáčce se salátkem,\nzeleninou a opečeným toastem, semínka sezamu\nA:1,6,11\n",
       "price": 137
     }
   ]
