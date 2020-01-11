@@ -1,29 +1,28 @@
 {
   "eatmenuCollection": [
     {
-      "name": "Polévka",
-      "description": "Jemná mrkvová polévka s kokosovým mlékem a bylinkami, chilli vlasy a pražená semínka",
-      "price": 55
+      "name": "MENU",
+      "description": "6. 1. 2020 - 10. 1. 2020"
     },
     {
-      "name": "Předkrm",
-      "description": "Tataráček z pečeného lilku a rajčat Kumato s kozím sýrem, salátkem a opečeným toustem",
-      "price": 99
+      "name": "Polévka",
+      "description": "Krémová pórková polévka s praženými semínky tykve \na chilly vlasy\nA: 1,7,8",
+      "price": 57
     },
     {
       "name": "Snack",
-      "description": "Opečený toast s bylinkovo - tvarohovou pěnou, plátky uzeného Halibuta grónského marinovaného v kopru, s restovanými cherry rajčátky, semínky a salátkem ",
-      "price": 89
+      "description": "Tataráček z pečeného lilku a paprik, se sýrem Brie, salátkem, praženými semínky a opečeným toastem                                       \nA: 1,7,8                                    \n",
+      "price": 97
     },
     {
-      "name": "Velký opečený chléb",
-      "description": "Opečený chléb s řepovou pěnou, pošírovaným vejcem, granátovým jablkem, pažitkou, ředkvičkami a salátkem",
-      "price": 99
+      "name": "Velký chlebík",
+      "description": "Opečený chléb s pěnou z červené řepy, pošírovaným vejcem, granátovým jablkem, salátkem a praženými semínky\nA: 1,3,7,8,11                      \n",
+      "price": 117
     },
     {
-      "name": "Sladká dobrota",
-      "description": "Lívance s jablečnou omáčkou a tvarohovým krémem, rumovými rozinkami,drcenými vlašskými ořechy a čerstvou mátou",
-      "price": 99
+      "name": "Hlavní chod",
+      "description": "3 ks Pečené kuřecí paličky na asijské omáčce se salátkem,\nzeleninou a opečeným toastem, semínka sezamu\nA:1,6,11\n",
+      "price": 137
     }
   ]
 }
