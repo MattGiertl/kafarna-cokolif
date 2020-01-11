@@ -2,8 +2,10 @@ module.exports = {
   siteMetadata: {
     title: "Kafárna Cokolif",
     defaultTitle: "Kafárna Cokolif",
-    description: "Nová Olomoucká kavárna",
-    defaultDescription: "Nová Olomoucká kavárna",
+    description:
+      "Jsme nejbarevnější kavárna v centru Olomouce, kde každý den začíná vydatnou snídaní, šálkem kvalitní výběrové kávy z nejlepších pražíren a sladkými dobrotami!",
+    defaultDescription:
+      "Jsme nejbarevnější kavárna v centru Olomouce, kde každý den začíná vydatnou snídaní, šálkem kvalitní výběrové kávy z nejlepších pražíren a sladkými dobrotami!",
     url: "https://www.cokolif.cz", // No trailing slash allowed!
     image: "/images/cokolif_cafarna_3.jpg", // Path to your image you placed in the 'static' folder
   },
