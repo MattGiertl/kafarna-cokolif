@@ -1,6 +1,7 @@
 import React, { useState } from "react"
 import styled from "@emotion/styled"
 
+import breakfastMenu from "../../data/breakfastmenu.json"
 import drinkMenu from "../../data/drinkmenu.json"
 import eatMenu from "../../data/eatmenu.json"
 
@@ -11,7 +12,6 @@ import theme from "../../utils/theme.js"
 const MenuWrapper = styled.div({
   boxShadow: "0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12)",
   zIndex: 1,
-  // maxHeight: "700px",
 })
 
 const ToggleWrapper = styled.div({
@@ -31,42 +31,74 @@ const ContentWrapper = styled.div({
 })
 
 const Menu = () => {
-  const [displayFoodMenu, toggleMenu] = useState(true)
+  const [activeMenus, setActiveMenu] = useState({
+    eatMenuActive: true,
+    breakfastMenuActive: false,
+    drinkMenuActive: false,
+  })
+
   const { drinkmenuCollection } = drinkMenu
   const { eatmenuCollection } = eatMenu
+  const { breakfastCollection } = breakfastMenu
 
-  const renderFoodMenu = eatmenuCollection.map(menuItem => {
-    const { name, description, price } = menuItem
-    return (
-      <MenuItem
-        key={name}
-        title={name}
-        description={description}
-        price={price}
-      />
-    )
-  })
+  const { eatMenuActive, breakfastMenuActive, drinkMenuActive } = activeMenus
 
-  const renderDrinkMenu = drinkmenuCollection.map(menuItem => {
-    const { name, description, price } = menuItem
-    return (
-      <MenuItem
-        key={name}
-        title={name}
-        description={description}
-        price={price}
-      />
-    )
-  })
+  const renderMenu = menuCollection =>
+    menuCollection.map(menuItem => {
+      const { name, description, price } = menuItem
+      return (
+        <MenuItem
+          key={name}
+          title={name}
+          description={description}
+          price={price}
+        />
+      )
+    })
 
   return (
     <MenuWrapper>
-      <ToggleWrapper onClick={() => toggleMenu(!displayFoodMenu)}>
-        <MenuToggle isSelected={displayFoodMenu} heading="Něco k snědku" />
-        <MenuToggle isSelected={!displayFoodMenu} heading="Něco k pití" />
+      <ToggleWrapper>
+        <MenuToggle
+          isSelected={breakfastMenuActive}
+          heading="Něco k snídani"
+          onClick={() =>
+            setActiveMenu({
+              breakfastMenuActive: true,
+              eatMenuActive: false,
+              drinkMenuActive: false,
+            })
+          }
+        />
+        <MenuToggle
+          isSelected={eatMenuActive}
+          heading="Něco k snědku"
+          onClick={() =>
+            setActiveMenu({
+              breakfastMenuActive: false,
+              eatMenuActive: true,
+              drinkMenuActive: false,
+            })
+          }
+        />
+        <MenuToggle
+          isSelected={drinkMenuActive}
+          heading="Něco k pití"
+          onClick={() =>
+            setActiveMenu({
+              breakfastMenuActive: false,
+              eatMenuActive: false,
+              drinkMenuActive: true,
+            })
+          }
+        />
       </ToggleWrapper>
       <ContentWrapper>
-        {displayFoodMenu ? renderFoodMenu : renderDrinkMenu}
+        <>
+          {eatMenuActive && renderMenu(eatmenuCollection)}
+          {drinkMenuActive && renderMenu(drinkmenuCollection)}
+          {breakfastMenuActive && renderMenu(breakfastCollection)}
+        </>
       </ContentWrapper>
     </MenuWrapper>
   )
