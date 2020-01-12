@@ -1,1 +1,9 @@
-{}
+{
+  "breakfastCollection": [
+    {
+      "name": "test",
+      "description": "boha",
+      "price": 420
+    }
+  ]
+}
