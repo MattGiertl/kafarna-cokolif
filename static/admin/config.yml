@@ -19,8 +19,30 @@ collections:
           - { label: O nás - obrázek, name: aboutUsImage, widget: image }
   - label: "Menu"
     name: menu
-    create: true
     files:
+      - label: "Snídaně"
+        name: breakfast
+        file: "src/data/breakfastmenu.json"
+        allow_add: true
+        widget: list
+        fields:
+          - {
+              label: "Položky snídaně",
+              name: breakfastCollection,
+              widget: list,
+              fields:
+                [
+                  { label: "Název", name: "name", widget: string },
+                  { label: "Popisek", name: "description", widget: text },
+                  {
+                    label: "Cena",
+                    name: "price",
+                    widget: number,
+                    required: false,
+                  },
+                ],
+            }
+
       - label: "Jídelníček"
         name: eatmenu
         file: "src/data/eatmenu.json"

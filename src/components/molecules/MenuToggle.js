@@ -29,8 +29,8 @@ const StyledAnchor = styled.a({
   textDecoration: "none",
 })
 
-const MenuToggle = ({ isSelected, heading }) => (
-  <MenuToggleWrapper isSelected={isSelected}>
+const MenuToggle = ({ isSelected, heading, onClick }) => (
+  <MenuToggleWrapper isSelected={isSelected} onClick={onClick}>
     <StyledAnchor href="#menu">{heading}</StyledAnchor>
   </MenuToggleWrapper>
 )
