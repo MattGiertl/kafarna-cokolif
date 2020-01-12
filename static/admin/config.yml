@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: MattGiertl/kafarna-cokolif
-  branch: develop
+  branch: breakfast-menu
 
 media_folder: static/images
 public_folder: images
@@ -21,6 +21,29 @@ collections:
     name: menu
     create: true
     files:
+      - label: "Snídaně"
+        name: breakfast
+        file: "src/data/breakfast.json"
+        allow_add: true
+        widget: list
+        fields:
+          - {
+              label: "Položky snídaně",
+              name: breakfastCollection,
+              widget: list,
+              fields:
+                [
+                  { label: "Název", name: "name", widget: string },
+                  { label: "Popisek", name: "description", widget: text },
+                  {
+                    label: "Cena",
+                    name: "price",
+                    widget: number,
+                    required: false,
+                  },
+                ],
+            }
+
       - label: "Jídelníček"
         name: eatmenu
         file: "src/data/eatmenu.json"
