@@ -19,11 +19,10 @@ collections:
           - { label: O nás - obrázek, name: aboutUsImage, widget: image }
   - label: "Menu"
     name: menu
-    create: true
     files:
       - label: "Snídaně"
         name: breakfast
-        file: "src/data/breakfast.json"
+        file: "src/data/breakfastmenu.json"
         allow_add: true
         widget: list
         fields:
