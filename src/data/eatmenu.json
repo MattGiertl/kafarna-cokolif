@@ -11,12 +11,12 @@
     },
     {
       "name": "Snack",
-      "description": "Opečený toast s pomazánkou z restovaného pórku, opečenou slaninou, praženými semínky, salátkem a ředkvičkami",
+      "description": "Opečený toast s pomazánkou z restovaného pórku, opečenou slaninou, praženými semínky, salátkem a ředkvičkami A: 1,7,8",
       "price": 77
     },
     {
       "name": "Velký chlebík",
-      "description": "Opečený chléb s trhaným vepřovým bokem, pečenou paprikou, čerstvým koriandrem, sezamová semínka\nA: 1,11                      \n",
+      "description": "Opečený chléb s trhaným vepřovým bokem, pečenou paprikou, čerstvým koriandrem, sezamová semínka A: 1,6,11                      \n",
       "price": 127
     }
   ]
