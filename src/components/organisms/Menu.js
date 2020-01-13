@@ -8,6 +8,7 @@ import eatMenu from "../../data/eatmenu.json"
 import MenuToggle from "../molecules/MenuToggle"
 import MenuItem from "../molecules/MenuItem"
 import theme from "../../utils/theme.js"
+import Paragraph from "../atoms/Paragraph.js"
 
 const MenuWrapper = styled.div({
   boxShadow: "0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12)",
@@ -16,7 +17,7 @@ const MenuWrapper = styled.div({
 
 const ToggleWrapper = styled.div({
   display: "flex",
-  justifyContent: 'space-between',
+  justifyContent: "space-between",
   background: theme.colors.black,
   padding: "8px 16px",
   boxShadow: "0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12)",
@@ -44,19 +45,16 @@ const Menu = () => {
 
   const { eatMenuActive, breakfastMenuActive, drinkMenuActive } = activeMenus
 
-  const renderMenu = menuCollection =>
-    menuCollection.map(menuItem => {
-      const { name, description, price } = menuItem
-      return (
-        <MenuItem
-          key={name}
-          title={name}
-          description={description}
-          price={price}
-        />
-      )
-    })
+  const renderMenu = menuCollection => {
+    if (menuCollection.length !== 0) {
+      return menuCollection.map(menuItem => {
+        const { name, description, price } = menuItem
+        return <MenuItem name={name} description={description} price={price} />
+      })
+    }
 
+    return <Paragraph>Pro tento den nebylo zadáno menu.</Paragraph>
+  }
   return (
     <MenuWrapper>
       <ToggleWrapper>
