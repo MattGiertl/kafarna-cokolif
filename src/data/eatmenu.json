@@ -7,22 +7,22 @@
     {
       "name": "Polévka",
       "description": "Polévka z restovaného pastyňáku a kurkumy, s kokosovým mlékem, mrkví a pórkem \nA: -",
-      "price": 57
+      "price": ""
     },
     {
       "name": "Snack",
       "description": "Tataráček z pečeného lilku a paprik, se salátkem, praženými semínky a opečeným toastem A: 1,8",
-      "price": 77
+      "price": ""
     },
     {
       "name": "Snack",
       "description": "Opečený toast s pomazánkou z restovaného pórku, s opečenou slaninou, praženými semínky, salátkem a ředkvičkami A: 1,7,8",
-      "price": 77
+      "price": ""
     },
     {
       "name": "Velký chlebík",
       "description": "Opečený chléb s trhaným vepřovým bokem, pečenou paprikou, čerstvým koriandrem, sezamová semínka A: 1,6,11                      \n",
-      "price": 127
+      "price": ""
     }
   ]
 }
