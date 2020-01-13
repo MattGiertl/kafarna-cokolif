@@ -16,6 +16,7 @@ const MenuWrapper = styled.div({
 
 const ToggleWrapper = styled.div({
   display: "flex",
+  justifyContent: 'space-between',
   background: theme.colors.black,
   padding: "8px 16px",
   boxShadow: "0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12)",
@@ -61,7 +62,7 @@ const Menu = () => {
       <ToggleWrapper>
         <MenuToggle
           isSelected={breakfastMenuActive}
-          heading="Něco k snídani"
+          heading="Snídaně"
           onClick={() =>
             setActiveMenu({
               breakfastMenuActive: true,
@@ -72,7 +73,7 @@ const Menu = () => {
         />
         <MenuToggle
           isSelected={eatMenuActive}
-          heading="Něco k snědku"
+          heading="Menu"
           onClick={() =>
             setActiveMenu({
               breakfastMenuActive: false,
@@ -83,7 +84,7 @@ const Menu = () => {
         />
         <MenuToggle
           isSelected={drinkMenuActive}
-          heading="Něco k pití"
+          heading="Nápoje"
           onClick={() =>
             setActiveMenu({
               breakfastMenuActive: false,
