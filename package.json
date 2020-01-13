@@ -10,6 +10,7 @@
     "ast-utils": "^1.0.0",
     "gatsby": "^2.13.45",
     "gatsby-background-image": "^0.8.18",
+    "gatsby-cli": "^2.8.26",
     "gatsby-image": "^2.2.7",
     "gatsby-plugin-emotion": "^4.1.2",
     "gatsby-plugin-google-analytics": "^2.1.24",
