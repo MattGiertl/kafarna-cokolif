@@ -41,8 +41,6 @@ const IndexPage = () => (
       <AboutSection
         aboutImage={mainPageData.aboutUsImage}
         aboutText={mainPageData.aboutUs}
-        review={mainPageData.review}
-        reviewAuthor={mainPageData.reviewAuthor}
       />
       <GallerySection />
       <MenuSection />
