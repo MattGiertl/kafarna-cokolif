@@ -13,6 +13,7 @@ const MenuToggleWrapper = styled.div(
     cursor: "pointer",
     userSelect: "none",
     transition: "background 300ms, color 300ms",
+    textAlign: 'center',
 
     "&:hover": {
       background: "white",
