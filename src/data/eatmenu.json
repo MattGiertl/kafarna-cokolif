@@ -7,12 +7,17 @@
     {
       "name": "Polévka",
       "description": "Polévka z restovaného pastyňáku a kurkumy, s mrkví a pórkem",
-      "price": 59
+      "price": 57
+    },
+    {
+      "name": "Snack",
+      "description": "Opečený toast s pomazánkou z restovaného pórku, opečenou slaninou, praženými semínky, salátkem a ředkvičkami",
+      "price": 77
     },
     {
       "name": "Velký chlebík",
       "description": "Opečený chléb s trhaným vepřovým bokem, pečenou paprikou, čerstvým koriandrem, sezamová semínka\nA: 1,11                      \n",
-      "price": 129
+      "price": 127
     }
   ]
 }
