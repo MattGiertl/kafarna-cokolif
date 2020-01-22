@@ -7,17 +7,17 @@
     {
       "name": "Polévka",
       "description": "Krém z paprik a rajčat s kozím sýrem, bylinkami a bazalkovým olejíčkem\nA: 7",
-      "price": 57
+      "price": ""
     },
     {
       "name": "Velký chlebík",
       "description": "Opečený chléb s pěnou z červené řepy, s avokádem, vařeným vejcem, granátovým jablkem a salátkem, semínky sezamu   \nA: 1,3,7,8,11\n",
-      "price": 117
+      "price": ""
     },
     {
       "name": "Sladké",
-      "description": "Lívance s omáčkou z fíků, vanilkový tvaroh, hoblinky hořké a bílé čokolády, čerstvá máta\nA: 1,3,7",
-      "price": 97
+      "description": "Lívance s omáčkou z višní a koření, s vanilkovým tvarohem, hoblinky hořké a bílé čokolády, čerstvá máta\nA: 1,3,7",
+      "price": ""
     }
   ]
 }
