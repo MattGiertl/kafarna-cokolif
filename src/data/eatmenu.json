@@ -2,26 +2,22 @@
   "eatmenuCollection": [
     {
       "name": "MENU",
-      "description": "3. 2. 2020 - 7. 2. 2020"
+      "description": "10. 2. 2020 - 14. 2. 2020"
     },
     {
       "name": "Polévka",
-      "description": "Francouzská cibulačka s čerstvým tymiánem a sýrem, opečený chléb \nA: 1, 7",
-      "price": ""
+      "description": "Krém z pečeného pastyňáku a květáku, s praženými semínky\nA: 7,11",
+      "price": 57
     },
     {
       "name": "Velký chlebík",
-      "description": "Opečený chléb s pěnou z červené řepy, s avokádem, vařeným vejcem, granátovým jablkem a salátkem, semínky sezamu   \nA: 1,3,7,8,11\n",
-      "price": ""
+      "description": "Opečený chléb se salátkem z pórku a tvarohu, s kozím sýrem, ředkvičkami, listy salátu a praženými semínky\nA: 1,7,11\n",
+      "price": 87
     },
     {
       "name": "Sladké",
-      "description": "Lívance s karamelizovanými jablky a hruškami, jablečno -zázvorovým sirupem, hoblinky hořké čokolády a citronový tvaroh \nA: 1,3,7",
-      "price": ""
-    },
-    {
-      "name": "Hlavní chod",
-      "description": "Bulgur s pečenými paprikami, bylinkami, zeleninou a salátkem\nA: 1, 11"
+      "description": "Lívance s omáčkou ze švestek a koření, vanilkovým tvarohem a hoblinkami hořké čokolády\nA: 1,3,7",
+      "price": 97
     }
   ]
 }
