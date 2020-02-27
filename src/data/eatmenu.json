@@ -1,26 +1,12 @@
 {
   "eatmenuCollection": [
     {
-      "name": "MENU",
-      "description": "17. 2. 2020 - 21. 2. 2020"
+      "name": "V Cokolif rádi překvapujeme .....",
+      "description": "Proto vás v  COKOLIF může na MENU čekat opravdu COKOLIF"
     },
     {
-      "name": "Polévka",
-      "description": "Zelná polévka s klobáskou a bramborem, čerstvá petrželka\nA: 1",
-      "price": ""
-    },
-    {
-      "name": "Snack",
-      "description": "Opečený toust s avokádem, vařeným vejcem, bylinkovou pomazánkou, granátovým jablkem, salátkem, ředkvičkami a semínky \nA: 1,3,7,8,11"
-    },
-    {
-      "name": "Sladké",
-      "description": "Lívance s omáčkou ze švestek a koření, citronovo - tvarohové nočky, hoblinky hořké čokolády, granátové jablko a čerstvá máta\nA: 1,3,7",
-      "price": ""
-    },
-    {
-      "name": "Polévka 2",
-      "description": "Hovězí vývar s masem z krku, zeleninou a kapáním\nA: 1,3,7 (kapání) "
+      "name": "Naše MENU je totiž i nám často do poslední chvíle otazníkem, ale vždy vykouzlíme něco skvělého, pestrého, zajímavého a originálního ...",
+      "description": "Tak pryč s formalitami a všedností .... prostě přijďte a ochutnejte třeba COKOLIF. "
     }
   ]
 }
