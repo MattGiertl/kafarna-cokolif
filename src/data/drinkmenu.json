@@ -2,7 +2,7 @@
   "drinkmenuCollection": [
     {
       "name": "AKTUÁLNÍ PRAŽÍRNA ",
-      "description": "Dos Mundos  -  Praha",
+      "description": "Candycane Coffee  -  Praha",
       "price": ""
     },
     {
@@ -16,7 +16,7 @@
       "price": ""
     },
     {
-      "name": "Cokolif domácí limonády dle nabídky",
+      "name": "Cokolif domácí limonády dle aktuální nabídky",
       "description": "Zázračná limonáda , Kombucha , Pivo Chomout a další ...",
       "price": ""
     }
