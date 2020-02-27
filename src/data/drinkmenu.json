@@ -2,12 +2,12 @@
   "drinkmenuCollection": [
     {
       "name": "AKTUÁLNÍ PRAŽÍRNA ",
-      "description": "Candycane Coffee  -  Praha",
+      "description": "AKTUÁLNÍ PRAŽÍRNA - Candycane Coffee  -  Praha",
       "price": ""
     },
     {
       "name": "Speciální nabídka ZIMNÍCH NÁPOJŮ",
-      "description": "Kávový punč Cokolif , Espresso Vaječňák Cokolif , Irish Coffee, Peanut kakao a další ...\n",
+      "description": "ZIMNÍ NÁPOJE - Kávový punč Cokolif , Espresso Vaječňák Cokolif , Irish Coffee, Peanut kakao a další ...\n",
       "price": ""
     },
     {
@@ -16,8 +16,8 @@
       "price": ""
     },
     {
-      "name": "Cokolif domácí limonády dle aktuální nabídky",
-      "description": "Zázračná limonáda , Kombucha , Pivo Chomout a další ...",
+      "name": "Limo",
+      "description": "Cokolif domácí limonády dle aktuální nabídky .... dále Zázračná limonáda , Kombucha , Pivo Chomout a další ...",
       "price": ""
     }
   ]
