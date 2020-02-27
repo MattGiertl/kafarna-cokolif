@@ -1,12 +1,16 @@
 {
   "eatmenuCollection": [
     {
-      "name": "V Cokolif rádi překvapujeme ...",
-      "description": "Proto vás v  COKOLIF může na MENU čekat opravdu COKOLIF"
+      "name": "MENU COKOLIF",
+      "description": "V Cokolif rádi překvapujeme ...    "
     },
     {
-      "name": "Naše MENU je totiž i nám často do poslední chvíle otazníkem, ale vždy vykouzlíme něco skvělého, pestrého, zajímavého a originálního ...",
-      "description": "Tak pryč s formalitami a všedností .... prostě přijďte a ochutnejte třeba COKOLIF. "
+      "name": "Proto Vás v COKOLIF může čekat na MENU opravdu COKOLIF",
+      "description": "Milujeme spontánnost !"
+    },
+    {
+      "name": "Naše MENU totiž často vymýšlíme na poslední chvíli a v týdnu se u nás stihne vystřídat a nahradit vícero pokrmů, které se vždy kvalitně zastoupí. A také vždy vykouzlíme něco skvělého, pestrého, zajímavého a originálního ...",
+      "description": "Tak pryč s formalitami a všedností .... prostě přijďte a ochutnejte třeba COKOLIF .."
     }
   ]
 }
