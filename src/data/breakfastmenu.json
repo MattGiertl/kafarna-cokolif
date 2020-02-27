@@ -1,8 +1,12 @@
 {
   "breakfastCollection": [
     {
+      "name": "SNÍDAŇOVÉ MENU",
+      "description": "Vaječná omeleta ze 3 ks vajec, se sýrem dle nabídky, salátkem a opečeným chlebem A: 1,3,7,8"
+    },
+    {
       "name": "Míchaná vejce",
-      "description": "Máslová míchaná vejce ze 3ks s koprovým olejem a kávovou solí,\nsalátek a opečený toust\nA: 1,3,7,8,11\n",
+      "description": "Máslová míchaná vejce ze 3ks s koprovým olejíčkem a kávovou solí,\nsalátek a opečený toust\nA: 1,3,7,8,11\n",
       "price": ""
     },
     {
@@ -15,7 +19,11 @@
     },
     {
       "name": "Granola",
-      "description": "Čokoládová Granola Cokolif s Amarettem, bílým jogurtem,\novocem a čerstvou mátou\nA: 1,7,8"
+      "description": "Čokoládová Granola Cokolif s ořechy a semínky, bílým jogurtem,\novocem a čerstvou mátou\nA: 1,7,8"
+    },
+    {
+      "name": "Krupicová kaše",
+      "description": "Krupička s máslem, kakaem a cukrem"
     }
   ]
 }
