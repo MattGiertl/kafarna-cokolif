@@ -1,24 +1,18 @@
 {
   "drinkmenuCollection": [
     {
-      "name": "AKTUÁLNÍ PRAŽÍRNA ",
-      "description": "Dos Mundos  -  Praha",
+      "name": "ROZVOZ - NÁPOJE",
+      "description": "ROZVOZ NÁPOJŮ AŽ K VAŠIM DVEŘÍM"
+    },
+    {
+      "name": "KÁVA - AKTUÁLNÍ PRAŽÍRNA",
+      "description": "KÁVA Candycane Coffee  - RWANDA  :::::: Espresso 45 kč , Lungo 45 Kč, Americano 45 Kč, Double Espresso 60 Kč,, Espresso Machciato 49 Kč. Cappuccino 55 Kč, Café Latte 60 Kč, Flat white 65 Kč, Espresso tonic 65 Kč",
       "price": ""
     },
     {
-      "name": "Speciální nabídka ZIMNÍCH NÁPOJŮ",
-      "description": "Kávový punč Cokolif , Espresso Vaječňák Cokolif , Irish Coffee, Peanut kakao a další ...\n",
-      "price": ""
-    },
-    {
-      "name": "Nabídka filtrovaných káv",
-      "description": "Drip V60 , Delter Coffee press , Aeropress , French press",
-      "price": ""
-    },
-    {
-      "name": "Cokolif domácí limonády dle nabídky",
-      "description": "Zázračná limonáda , Kombucha , Pivo Chomout a další ...",
-      "price": ""
+      "name": "LIMONÁDY COKOLIF",
+      "description": "LIMONÁDY COKOLIF  0,3l s ledem ::::  Zázvorová , Rakytník - pomeranč , Citron - rozmarýn  ",
+      "price": 55
     }
   ]
 }

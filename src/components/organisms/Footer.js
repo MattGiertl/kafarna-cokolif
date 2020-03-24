@@ -30,7 +30,7 @@ const Footer = () => (
       >
         Matúš Giertl
       </StyledAnchor>{" "}
-      2019
+      {new Date().getFullYear()}
     </Paragraph>
   </FooterWrapper>
 )
