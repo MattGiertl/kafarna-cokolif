@@ -1,13 +1,13 @@
 {
   "breakfastCollection": [
     {
-      "name": "DEZERTY - ROZVOZ",
-      "description": "Mrkvový dort se slaným karamelem a vlašskými ořechy A:  1,3,7,8",
+      "name": "DEZERTY - ROZVOZ ",
+      "description": "1 ks Mrkvový dort se slaným karamelem a vlašskými ořechy A:  1,3,7,8",
       "price": 65
     },
     {
       "name": "Cheesecake",
-      "description": "Borůvkový cheesecake s bílou čokoládou  A:  1,3,7",
+      "description": "1 ks Borůvkový cheesecake s bílou čokoládou  A:  1,3,7",
       "price": 65
     }
   ]
