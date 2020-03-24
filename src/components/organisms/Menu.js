@@ -60,7 +60,7 @@ const Menu = () => {
       <ToggleWrapper>
         <MenuToggle
           isSelected={breakfastMenuActive}
-          heading="Snídaně"
+          heading="Dezerty - Rozvoz"
           onClick={() =>
             setActiveMenu({
               breakfastMenuActive: true,
@@ -71,7 +71,7 @@ const Menu = () => {
         />
         <MenuToggle
           isSelected={eatMenuActive}
-          heading="Menu"
+          heading="Menu - Rozvoz"
           onClick={() =>
             setActiveMenu({
               breakfastMenuActive: false,
@@ -82,7 +82,7 @@ const Menu = () => {
         />
         <MenuToggle
           isSelected={drinkMenuActive}
-          heading="Nápoje"
+          heading="Nápoje - Rozvoz"
           onClick={() =>
             setActiveMenu({
               breakfastMenuActive: false,
