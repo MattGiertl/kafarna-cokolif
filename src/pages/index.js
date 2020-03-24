@@ -33,7 +33,7 @@ const IndexPage = () => (
     <Navbar>
       <Anchor to="#" text="DOMŮ" />
       <Anchor to="#o-nas" text="O NÁS" />
-      <Anchor to="#menu" text="MENU" />
+      <Anchor to="#menu" text="ROZVOZ" />
       <Anchor to="#navstivte-nas" text="NAVŠTIVTE NÁS" />
     </Navbar>
     <Splash backgroundImage={mainPageData.splashImage} />
