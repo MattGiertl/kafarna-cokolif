@@ -1,8 +1,14 @@
 {
   "breakfastCollection": [
     {
-      "name": "SNÍDAŇOVÉ MENU",
-      "description": "Vaječná omeleta ze 3 ks vajec, se sýrem dle nabídky, salátkem a opečeným chlebem A: 1,3,7,8"
+      "name": "DEZERTY - ROZVOZ",
+      "description": "Mrkvový dort se slaným karamelem a vlašskými ořechy A:  1,3,7,8",
+      "price": 65
+    },
+    {
+      "name": "Cheesecake",
+      "description": "Borůvkový cheesecake s bílou čokoládou  A:  1,3,7",
+      "price": 65
     }
   ]
 }
