@@ -13,7 +13,7 @@ const MenuSectionWrapper = styled.section({
 
 const MenuSection = () => (
   <MenuSectionWrapper id="menu">
-    <SectionHeading>MENU</SectionHeading>
+    <SectionHeading>ROZVOZ A MENU</SectionHeading>
     <Menu />
   </MenuSectionWrapper>
 )
