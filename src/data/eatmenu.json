@@ -18,6 +18,11 @@
       "name": "SLADKÉ",
       "description": "Lívance s omáčkou z višní a koření, vanilkové mascarpone s tvarohem, hoblinky bílé a hořké čokolády, čerstvá máta  A: 1,3,7",
       "price": 97
+    },
+    {
+      "name": "Salát ",
+      "description": "Míchaný salát s chipsy cheddaru, restovaným pórkem, jogurtovým dresinkem s bylinkami a medem, ředkvičkami, praženými semínky a opečenými tousty",
+      "price": 117
     }
   ]
 }
