@@ -5,24 +5,9 @@
       "description": "PONDĚLÍ - PÁTEK  11.01 - 16.01 hod.  ::::::  🔻TEL. 728 758 632 "
     },
     {
-      "name": "POLÉVKA",
-      "description": "Mrkvový krém s kokosovým mlékem, praženými semínky a mladými kopřivami, chilli vlasy, toustové krutony  A: 1,8,11",
-      "price": 57
-    },
-    {
-      "name": "OPEČENÝ CHLÉB",
-      "description": "Opečený chléb s řepovou pěnou, pošírovaným vejcem, avokádem, salátkem a klíčky, sezamová semínka a estragonový olejíček Cokolif  A: 1,3,7,11",
-      "price": 117
-    },
-    {
-      "name": "SLADKÉ",
-      "description": "Lívance s omáčkou z višní a koření, vanilkové mascarpone s tvarohem, hoblinky bílé a hořké čokolády, čerstvá máta  A: 1,3,7",
-      "price": 97
-    },
-    {
-      "name": "Salát ",
-      "description": "Míchaný salát s chipsy cheddaru, restovaným pórkem, jogurtovým dresinkem s bylinkami a medem, ředkvičkami, praženými semínky a opečenými tousty",
-      "price": 117
+      "name": "Menu",
+      "description": "MENU 30.3. - 3.4. 2020",
+      "price": ""
     }
   ]
 }
