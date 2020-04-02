@@ -22,12 +22,13 @@
     },
     {
       "name": "BANANA",
-      "description": "BANANA BREAD - 1ks Banánový chlebík s vlašskými ořechy  A: 1,3,7,8"
+      "description": "BANANA BREAD - 1ks Banánový chlebík s vlašskými ořechy  A: 1,3,7,8",
+      "price": 27
     },
     {
       "name": "Sušenky",
       "description": "SUŠENKY - Veliké Cokolif čokoládové sušenky A:1,3,7",
-      "price": 33
+      "price": 27
     }
   ]
 }
