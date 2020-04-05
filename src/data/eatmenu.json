@@ -6,13 +6,13 @@
     },
     {
       "name": "Menu",
-      "description": "MENU 30.3. - 3.4. 2020",
+      "description": "MENU 6. 4. - 10. 4. 2020",
       "price": ""
     },
     {
       "name": "Polévka",
-      "description": "Polévka - Dlouze tažený vepřový vývar se zeleninou, bylinkami a nudlemi\nA: 1,3,7 (nudle)",
-      "price": 47
+      "description": "Polévka - Kukuřičný krém s chilli vlasy, bylinkový olejíček a pražená semínka, opečený chlebík",
+      "price": 57
     },
     {
       "name": "Toust",
@@ -25,14 +25,34 @@
       "price": 117
     },
     {
-      "name": "Chlebík",
-      "description": "Velký krajíc opečeného chleba s pomalu pečeným - trhaným vepřovým bokem, Sriracha majonézou, restovanými paprikami, rukolou, čerstvým koriandrem a sezamovými semínky\nA: 1,3,5,6,11",
-      "price": 147
-    },
-    {
       "name": "Lívance",
       "description": "5ks  - Lívance s omáčkou z hořké čokolády, s povidlovým mascarpone, filety pomeranče, praženými arašídy, a čerstvou mátou A: 1,3,5,7,8",
       "price": 107
+    },
+    {
+      "name": "Hlavní chod",
+      "description": "HLAVNÍ CHOD PONDĚLÍ -  Grilovaná krkovička s mrkvovo bramborovým puré a bylinkami A: 7",
+      "price": 127
+    },
+    {
+      "name": "HLAVNÍ CHOD",
+      "description": "HLAVNÍ CHOD ÚTERÝ - Spaghetti Aglio olio s čerstvou hladkolistou petrželkou a sýrem Gran Moravia  A : 7",
+      "price": 127
+    },
+    {
+      "name": "HLAVNÍ CHOD",
+      "description": "HLAVNÍ CHOD STŘEDA - Kuře na paprice s domácími špeclemi a bylinkami A: 1,3,7",
+      "price": 127
+    },
+    {
+      "name": "HLAVNÍ CHOD",
+      "description": "HLAVNÍ CHOD ČTVRTEK - Poctivé kovbojské fazole s uzeným a klobáskou, smaženým vejcem a opečeným chlebem  A: 1,3",
+      "price": 127
+    },
+    {
+      "name": "HLAVNÍ CHOD",
+      "description": "HLAVNÍ CHOD PÁTEK - Asijské rýžové nudle s čerstvým koriandrem, jarní cibulkou a sezamovou omeletkou A: 1,3,7.8,11",
+      "price": 127
     }
   ]
 }
