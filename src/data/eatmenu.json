@@ -10,11 +10,6 @@
       "price": ""
     },
     {
-      "name": "Polévka",
-      "description": "Polévka - Kukuřičný krém s chilli vlasy, bylinkový olejíček a pražená semínka, opečený chlebík",
-      "price": 57
-    },
-    {
       "name": "Toust",
       "description": "Toust - Opečený toust s bylinkovým žervé, kozím sýrem, marinovanými kostičkami červené řepy, vlašskými ořechy, medem a praženými semínky, a naším bylinkovým olejíčkem Cokolif\nA: 1,7,8",
       "price": 87
@@ -28,6 +23,11 @@
       "name": "Lívance",
       "description": "5ks  - Lívance s omáčkou z hořké čokolády, s povidlovým mascarpone, filety pomeranče, praženými arašídy, a čerstvou mátou A: 1,3,5,7,8",
       "price": 107
+    },
+    {
+      "name": "Polévka",
+      "description": "Polévka - Kukuřičný krém s chilli vlasy, bylinkový olejíček a pražená semínka, opečený chlebík",
+      "price": 57
     },
     {
       "name": "Hlavní chod",
