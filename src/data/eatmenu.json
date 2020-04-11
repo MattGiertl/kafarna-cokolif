@@ -6,48 +6,53 @@
     },
     {
       "name": "Menu",
-      "description": "MENU 6. 4. - 10. 4. 2020",
+      "description": "MENU 13. 4. - 17. 4. 2020   (VELIKONOČNÍ PONDĚLÍ ZAVŘENO)",
       "price": ""
     },
     {
-      "name": "Toust",
-      "description": "Toust - Opečený toust s bylinkovým žervé, kozím sýrem, marinovanými kostičkami červené řepy, vlašskými ořechy, medem a praženými semínky, a naším bylinkovým olejíčkem Cokolif\nA: 1,7,8",
-      "price": 87
+      "name": "PONDĚLÍ",
+      "description": "PONDĚLÍ  -   ZAVŘENO ::: Přejeme Vám krásné Velikonoce",
+      "price": ""
     },
     {
-      "name": "Chlebík",
-      "description": "Velký krajíc opečeného chleba s řepovou pěnou, pošírovaným vejcem, avokádem, rukolou, granátovým jablkem, sezamovými a praženými semínky tykve, estragonovým olejíčkem Cokolif\nA: 1,3,7,8,11                   \n",
-      "price": 117
-    },
-    {
-      "name": "Polévka",
-      "description": "Polévka - Pórkový krém s jarní cibulkou a smetanou, čerstvé bylinky, pražená semínka tykve, opečený chlebík  A: 1,7,8",
+      "name": "ÚTERÝ",
+      "description": "ÚTERÝ-  POLÉVKA :::: ZELENINOVÝ VÝVAR S DOMÁCÍMI CELESTÝNSKÝMI NUDLEMI A BYLINKAMI",
       "price": 47
     },
     {
-      "name": "Hlavní chod",
-      "description": "HLAVNÍ CHOD PONDĚLÍ -  Grilovaná krkovička s mrkvovo bramborovým puré a bylinkami A: 7",
+      "name": "ÚTERÝ - HLAVNÍ CHOD",
+      "description": "ÚTERÝ - HLAVNÍ CHOD ::: Italské Risotto s restovanými žampiony a cuketou, bylinkami, parmazánové chipsy",
       "price": 127
     },
     {
-      "name": "HLAVNÍ CHOD",
-      "description": "HLAVNÍ CHOD ÚTERÝ - Spaghetti Aglio olio s čerstvou hladkolistou petrželkou a sýrem Gran Moravia  A : 7",
-      "price": 127
+      "name": "STŘEDA",
+      "description": "PŘEDKRM - STŘEDA ::: Domácí drůbeží paštika na portském víně s rukolou, cibulovým chutney a opečeným toustem",
+      "price": 57
     },
     {
       "name": "HLAVNÍ CHOD",
-      "description": "HLAVNÍ CHOD STŘEDA - Kuře na paprice s domácími špeclemi a bylinkami A: 1,3,7",
-      "price": 127
+      "description": "STŘEDA - HLAVNÍ CHOD ::: Hovězí líčka na červeném víně, jemné brambobrovo-křenové puré, čerstvý tymián",
+      "price": 137
+    },
+    {
+      "name": "ČTVRTEK",
+      "description": "ČTVRTEK - POLÉVKA ::: TOM KHA GAI thajská polévka s kuřecím masem, kokosovým mlékem, citronovou trávou a čerstvým koriandrem",
+      "price": 57
     },
     {
       "name": "HLAVNÍ CHOD",
-      "description": "HLAVNÍ CHOD ČTVRTEK - Poctivé kovbojské fazole s uzeným a klobáskou, smaženým vejcem a chlebem, čerstvé bylinky  A: 1,3",
+      "description": "ČTVRTEK - HLAVNÍ CHOD ::: Omáčka z Red curry a zeleniny, s jarní cibulkou, sezamem a rýží ",
       "price": 127
     },
     {
-      "name": "HLAVNÍ CHOD",
-      "description": "HLAVNÍ CHOD PÁTEK - Asijské rýžové nudle s čerstvým koriandrem, jarní cibulkou a sezamovou omeletkou A: 1,3,7.8,11",
-      "price": 127
+      "name": "PÁTEK",
+      "description": "PÁTEK - POLÉVKA ::: TOM KHA GAI thajská polévka s kuřecím masem, kokosovým mlékem, citronovou trávou a čerstvým koriandrem   ",
+      "price": 57
+    },
+    {
+      "name": "PÁTEK",
+      "description": "PÁTEK - HLAVNÍ CHOD ::: Pita chléb plněný pomalu pečeným hovězím, cibulovým chutney, s česnekovou majonézou, salátkem a citronovou persilladou ",
+      "price": 137
     }
   ]
 }
