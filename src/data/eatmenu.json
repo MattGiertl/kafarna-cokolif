@@ -2,11 +2,11 @@
   "eatmenuCollection": [
     {
       "name": "ROZVOZ COKOLIF",
-      "description": "PONDĚLÍ - PÁTEK  11.01 - 16.01 hod.  ::::::  🔻TEL. 728 758 632 "
+      "description": "ROZVOZ   :::::   PONDĚLÍ - PÁTEK  11.01 - 16.01 hod.  ::::::  🔻TEL. 728 758 632 "
     },
     {
       "name": "Menu",
-      "description": "MENU 13. 4. - 17. 4. 2020   (VELIKONOČNÍ PONDĚLÍ ZAVŘENO)",
+      "description": "MENU 20. 4. - 24. 4. 2020 ",
       "price": ""
     },
     {
@@ -15,49 +15,59 @@
       "price": 87
     },
     {
-      "name": "PONDĚLÍ",
-      "description": "PONDĚLÍ  -   ZAVŘENO ::: Přejeme Vám krásné Velikonoce",
-      "price": ""
+      "name": "PONDĚLÍ POLÉVKA",
+      "description": "PONDĚLÍ - POLÉVKA :::: Gulášová polévka s opečeným chlebem a bylinkami ::: A: 1",
+      "price": 57
+    },
+    {
+      "name": "PONDĚLÍ - HLAVNÍ CHOD",
+      "description": "PONDĚLÍ - HLAVNÍ CHOD :::  Penne s omáčkou z medvědího česneku a smetany, s restovanými žampiony a hoblinkami sýra Gran Moravia  ::: A : 1,3,7",
+      "price": 127
     },
     {
       "name": "ÚTERÝ",
-      "description": "ÚTERÝ-  POLÉVKA :::: ZELENINOVÝ VÝVAR S DOMÁCÍMI CELESTÝNSKÝMI NUDLEMI A BYLINKAMI",
-      "price": 47
+      "description": "ÚTERÝ-  POLÉVKA :::: Čočková polévka s bylinkami ::: A : 1,7",
+      "price": 57
     },
     {
       "name": "ÚTERÝ - HLAVNÍ CHOD",
-      "description": "ÚTERÝ - HLAVNÍ CHOD ::: Italské Risotto s restovanými žampiony a cuketou, bylinkami, parmazánové chipsy",
+      "description": "ÚTERÝ - HLAVNÍ CHOD ::: Rajská omáčka s masovými kuličkami na černém pivu, s houskovým knedlíkem a čerstvým tymiánem ::: A : 1,3,7",
       "price": 127
     },
     {
       "name": "STŘEDA",
-      "description": "STŘEDA - PŘEDKRM ::: Domác\nkráličí paštika na portském víně s rukolou, cibulovým chutney a opečeným toustem",
+      "description": "STŘEDA - POLÉVKA ::: Hráškový krém se smetanou, mladými kopřivami a praženými semínky ::: A : 1,7,8",
       "price": 57
     },
     {
       "name": "HLAVNÍ CHOD",
-      "description": "STŘEDA - HLAVNÍ CHOD ::: Hovězí Veverka na červeném víně, jemné brambobrovo-křenové puré, čerstvý tymián",
+      "description": "STŘEDA - HLAVNÍ CHOD ::: Restovaný steak z vepřové krkovičky, se šťouchanými bramborami s medvědím česnekem ::: A : 7",
       "price": 137
     },
     {
       "name": "ČTVRTEK",
-      "description": "ČTVRTEK - POLÉVKA ::: TOM KHA GAI thajská polévka s kuřecím masem, kokosovým mlékem, citronovou trávou a čerstvým koriandrem",
+      "description": "ČTVRTEK - POLÉVKA ::: Poctivá česnečka se sýrem, vejcem, medvědím česnekem, bylinkami a bylinkovými krutony :::: A : -",
       "price": 57
     },
     {
-      "name": "HLAVNÍ CHOD",
-      "description": "ČTVRTEK - HLAVNÍ CHOD ::: Omáčka z Red curry a zeleniny, s jarní cibulkou, sezamem a rýží ",
+      "name": "ČTVRTEK",
+      "description": "ČTVRTEK - OPEČENÝ CHLÉB ::: Opečený velký chléb s bylinkovým žervé a glazovanými žampiony v Hoisin omáčce , se salátkem, ředkvičkami, rukolou a semínky sezamu  ::: A : 1,5,6,7,8,11",
+      "price": 107
+    },
+    {
+      "name": "ČTVRTEK",
+      "description": "ČTVRTEK - HLAVNÍ CHOD ::: Tvarohové kuličky s omáčkou z lesního ovoce, s nočkem citronového tvarohu a s čerstvou mátou ::: A : 1,3,7",
       "price": 127
     },
     {
       "name": "PÁTEK",
-      "description": "PÁTEK - POLÉVKA ::: TOM KHA GAI thajská polévka s kuřecím masem, kokosovým mlékem, citronovou trávou a čerstvým koriandrem   ",
+      "description": "PÁTEK - POLÉVKA ::: TOM KHA GAI thajská polévka s kuřecím masem, kokosovým mlékem, citronovou trávou a čerstvým koriandrem ::: A : -",
       "price": 57
     },
     {
       "name": "PÁTEK",
-      "description": "PÁTEK - HLAVNÍ CHOD ::: Opečený chléb s pomalu pečeným hovězím, cibulovým chutney, s česnekovou majonézou, salátkem a citronovou rukolou v citronové šťávě ",
-      "price": 137
+      "description": "PÁTEK - HLAVNÍ CHOD ::: Hovězí burger v domácí bulce s cibulovým chutney, s dipem z medvědího česneku, rukolou v citronelle a s nakládanými ředkvičkami  - domácí hranolky opět s dipem z medvědího česneku A : 1,3,7 ( bulka ) ",
+      "price": 147
     }
   ]
 }
