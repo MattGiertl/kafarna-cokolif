@@ -10,12 +10,12 @@
       "price": ""
     },
     {
-      "name": "PONDĚLÍ POLÉVKA",
+      "name": "PONDĚLÍ - Polévka",
       "description": "PONDĚLÍ - POLÉVKA :::: Fazolová polévka s restovanou klobáskou, jarní cibulkou a bylinkami + opečený chléb ::: A: 1",
       "price": 47
     },
     {
-      "name": "PONDĚLÍ - HLAVNÍ CHOD",
+      "name": "PONDĚLÍ - Hlavní chod",
       "description": "PONDĚLÍ - HLAVNÍ CHOD :::  Smažený květák s máslovými bramborami a bylinkovým dipem  ::: A : 1,3,7",
       "price": 127
     },
@@ -26,28 +26,23 @@
     },
     {
       "name": "ÚTERÝ - HLAVNÍ CHOD",
-      "description": "ÚTERÝ - HLAVNÍ CHOD :::  ::: A :",
-      "price": ""
+      "description": "ÚTERÝ - HLAVNÍ CHOD ::: Sendvič Dvoupatrák s vinnou klobáskou, salátkem, hořčičným dipem COKOLIF a rajčátky  ::: A :",
+      "price": 137
     },
     {
       "name": "STŘEDA",
-      "description": "STŘEDA - POLÉVKA :::  ::: A :",
-      "price": ""
+      "description": "STŘEDA - POLÉVKA ::: Zeleninový vývar s nudlemi a petrželkou  ::: A :",
+      "price": 47
     },
     {
       "name": "HLAVNÍ CHOD",
-      "description": "STŘEDA - HLAVNÍ CHOD :::  ::: A :",
-      "price": ""
+      "description": "STŘEDA - HLAVNÍ CHOD ::: Hovězí veverka s křenovo-bramborovým puré a blanšírovanou kořenovou zeleninou  ::: A :",
+      "price": 127
     },
     {
-      "name": "ČTVRTEK",
-      "description": "ČTVRTEK - OPEČENÝ CHLÉB :::   ::: A :",
-      "price": ""
-    },
-    {
-      "name": "ČTVRTEK",
-      "description": "ČTVRTEK - HLAVNÍ CHOD :::  ::: A :",
-      "price": ""
+      "name": "ČTVRTEK - Hlavní chod",
+      "description": "ČTVRTEK - COKOLIF Royal Cheeseburger ::: Hovězí maso z vyzrálého krku, s plátky sýru cheddar, rajčaty marinovanými v bylinkách, s naší nakládanou cibulkou a okurkami, domácím barbeque kečupem a hořčičným dipem v naší COKOLIF domácí bulce + steakové hranolky  ::: A :",
+      "price": 157
     },
     {
       "name": "PÁTEK",
