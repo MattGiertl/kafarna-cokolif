@@ -21,38 +21,58 @@
     },
     {
       "name": "ÚTERÝ",
-      "description": "ÚTERÝ-  POLÉVKA :::: Francouzská cibulačka se sýrem, bylinkami a opečeným chlebem ::: A :",
+      "description": "ÚTERÝ-  POLÉVKA :::: Minestrone se zeleninou a bylinkami, opečený chléb A: 1 (chléb)",
       "price": 57
     },
     {
       "name": "ÚTERÝ - HLAVNÍ CHOD",
-      "description": "ÚTERÝ - HLAVNÍ CHOD ::: Sendvič Dvoupatrák s vinnou klobáskou, salátkem, hořčičným dipem COKOLIF a rajčátky  ::: A :",
+      "description": "ÚTERÝ - HLAVNÍ CHOD ::: Sendvič dvoupatrák s grilovanou vinnou klobáskou, salátkem, hořčičným dipem COKOLIF, restovanými žampiony a rajčátky, míchaný salátek s bylinkovým olejíčkem  ::: A : 1 (toust)",
       "price": 137
     },
     {
       "name": "STŘEDA",
-      "description": "STŘEDA - POLÉVKA ::: Zeleninový vývar s nudlemi a petrželkou  ::: A :",
-      "price": 47
+      "description": "STŘEDA - POLÉVKA :::  Francouzská cibulačka se sýrem, tymiánem. bylinkami a opečeným chlebem ::: A : 1,7",
+      "price": 57
     },
     {
       "name": "HLAVNÍ CHOD",
-      "description": "STŘEDA - HLAVNÍ CHOD ::: Hovězí veverka s křenovo-bramborovým puré a blanšírovanou kořenovou zeleninou  ::: A :",
-      "price": 127
+      "description": "STŘEDA - HLAVNÍ CHOD ::: Hovězí veverka s bramborovo-křenovým puré a blanšírovanou kořenovou zeleninou  ::: A: 7",
+      "price": 137
     },
     {
       "name": "ČTVRTEK - Hlavní chod",
-      "description": "ČTVRTEK - COKOLIF Royal Cheeseburger ::: Hovězí maso z vyzrálého krku, s plátky sýru cheddar, rajčaty marinovanými v bylinkách, s naší nakládanou cibulkou a okurkami, domácím barbeque kečupem a hořčičným dipem v naší COKOLIF domácí bulce + steakové hranolky  ::: A :",
+      "description": "ČTVRTEK - COKOLIF Royal Cheeseburger ::: Hovězí maso z vyzrálého krku, s plátky sýru cheddar, rajčaty marinovanými v bylinkách, s naší nakládanou cibulkou a okurkami, domácím barbeque kečupem a hořčičným dipem v naší COKOLIF domácí bulce + steakové hranolky COKOLIF ::: A : 1,3,7 ",
       "price": 157
     },
     {
       "name": "PÁTEK",
-      "description": "PÁTEK - POLÉVKA :::  ::: A : ",
+      "description": "LÍVANCOVÝ  PÁTEK  V  COKOLIF ::: 1. MÁJ, COKOLIF LÍVANCŮ ČAS  :::: 5 DRUHŮ LÍVANCŮ\n",
       "price": ""
     },
     {
       "name": "PÁTEK",
-      "description": "PÁTEK - HLAVNÍ CHOD :::  A : ",
-      "price": ""
+      "description": "Lívance s glazovanou slaninou a estragonovým mascarpone, s čerstvým estragonem, slaným karamelem, námi praženými solenými arašídy a polníčkem COKOLIF A: 1,3,5,6,7",
+      "price": 127
+    },
+    {
+      "name": "LÍVANCE",
+      "description": "Lívance s omáčkou z jahod, s hoblinkami bílé a hořké čokolády, citronovým tvarohem, čerstvou mátou, zakápnuté višňovým sirupem A: 1,3,7",
+      "price": 127
+    },
+    {
+      "name": "LÍVANCE",
+      "description": "Lívance s naším zázvorovým sirupem, citronovým mascarpone, granátovým jablkem a čerstvou mátou A: 1,3,7",
+      "price": 127
+    },
+    {
+      "name": "LÍVANCE",
+      "description": "Lívance s omáčkou z hořké čokolády, s povidlovým tvarohem, filety pomeranče, námi praženými arašídy a granátovým jablkem A: 1,3,5,7",
+      "price": 127
+    },
+    {
+      "name": "LÍVANCE",
+      "description": "Lívancový sendvič COKOLIF s restovaným vejcem, slaninou, chipsem cheddaru, salátkem, praženými semínky tykve a dipem z hrubozrnné hořčice A: 1,3,7,8,10",
+      "price": 127
     }
   ]
 }
