@@ -6,68 +6,58 @@
     },
     {
       "name": "Menu",
-      "description": "MENU 20. 4. - 24. 4. 2020 ",
+      "description": "MENU 27. 4. - 1. 5. 2020 ",
       "price": ""
     },
     {
-      "name": "TOUST",
-      "description": "TOUST ::: Opečený toust s avokádem, rukolou, granátovým jablkem a vařeným vajíčkem, bylinkový olejíček ",
-      "price": 87
-    },
-    {
       "name": "PONDĚLÍ POLÉVKA",
-      "description": "PONDĚLÍ - POLÉVKA :::: Gulášová polévka s opečeným chlebem a bylinkami ::: A: 1",
-      "price": 57
+      "description": "PONDĚLÍ - POLÉVKA :::: Fazolová polévka s restovanou klobáskou, jarní cibulkou a bylinkami + opečený chléb ::: A: 1",
+      "price": 47
     },
     {
       "name": "PONDĚLÍ - HLAVNÍ CHOD",
-      "description": "PONDĚLÍ - HLAVNÍ CHOD :::  Penne s omáčkou z medvědího česneku a smetany, s restovanými žampiony a hoblinkami sýra Gran Moravia  ::: A : 1,3,7",
+      "description": "PONDĚLÍ - HLAVNÍ CHOD :::  Smažený květák s máslovými bramborami a bylinkovým dipem  ::: A : 1,3,7",
       "price": 127
     },
     {
       "name": "ÚTERÝ",
-      "description": "ÚTERÝ-  POLÉVKA :::: Čočková polévka s bylinkami ::: A : 1,7",
-      "price": 57
+      "description": "ÚTERÝ-  POLÉVKA ::::  ::: A :",
+      "price": ""
     },
     {
       "name": "ÚTERÝ - HLAVNÍ CHOD",
-      "description": "ÚTERÝ - HLAVNÍ CHOD ::: Rajská omáčka s masovými kuličkami na černém pivu, s houskovým knedlíkem a čerstvým tymiánem ::: A : 1,3,7",
-      "price": 127
+      "description": "ÚTERÝ - HLAVNÍ CHOD :::  ::: A :",
+      "price": ""
     },
     {
       "name": "STŘEDA",
-      "description": "STŘEDA - POLÉVKA ::: Hráškový krém se smetanou, mladými kopřivami a praženými semínky ::: A : 1,7,8",
-      "price": 57
+      "description": "STŘEDA - POLÉVKA :::  ::: A :",
+      "price": ""
     },
     {
       "name": "HLAVNÍ CHOD",
-      "description": "STŘEDA - HLAVNÍ CHOD ::: Restovaný steak z vepřové krkovičky, se šťouchanými bramborami s medvědím česnekem ::: A : 7",
-      "price": 137
+      "description": "STŘEDA - HLAVNÍ CHOD :::  ::: A :",
+      "price": ""
     },
     {
       "name": "ČTVRTEK",
-      "description": "ČTVRTEK - POLÉVKA ::: Poctivá česnečka se sýrem, vejcem, medvědím česnekem, bylinkami a bylinkovými krutony :::: A : -",
-      "price": 57
+      "description": "ČTVRTEK - OPEČENÝ CHLÉB :::   ::: A :",
+      "price": ""
     },
     {
       "name": "ČTVRTEK",
-      "description": "ČTVRTEK - OPEČENÝ CHLÉB ::: Opečený velký chléb s bylinkovým žervé a glazovanými žampiony v Hoisin omáčce , se salátkem, ředkvičkami, rukolou a semínky sezamu  ::: A : 1,5,6,7,8,11",
-      "price": 107
-    },
-    {
-      "name": "ČTVRTEK",
-      "description": "ČTVRTEK - HLAVNÍ CHOD ::: Tvarohové kuličky s omáčkou z lesního ovoce, s nočkem citronového tvarohu a s čerstvou mátou ::: A : 1,3,7",
-      "price": 127
+      "description": "ČTVRTEK - HLAVNÍ CHOD :::  ::: A :",
+      "price": ""
     },
     {
       "name": "PÁTEK",
-      "description": "PÁTEK - POLÉVKA ::: TOM KHA GAI thajská polévka s kuřecím masem, kokosovým mlékem, citronovou trávou a čerstvým koriandrem ::: A : -",
-      "price": 57
+      "description": "PÁTEK - POLÉVKA :::  ::: A : ",
+      "price": ""
     },
     {
       "name": "PÁTEK",
-      "description": "PÁTEK - HLAVNÍ CHOD ::: Hovězí burger v domácí bulce s cibulovým chutney, s dipem z medvědího česneku, rukolou v citronelle a s nakládanými ředkvičkami  - domácí hranolky opět s dipem z medvědího česneku A : 1,3,7 ( bulka ) ",
-      "price": 147
+      "description": "PÁTEK - HLAVNÍ CHOD :::  A : ",
+      "price": ""
     }
   ]
 }
