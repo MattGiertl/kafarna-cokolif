@@ -11,42 +11,46 @@
     },
     {
       "name": "PONDĚLÍ - Polévka",
-      "description": "PONDĚLÍ - POLÉVKA :::: Fazolová polévka s restovanou klobáskou, jarní cibulkou a bylinkami + opečený chléb ::: A: 1",
+      "description": "PONDĚLÍ - POLÉVKA :::: Pórkový polévka s bylinkovými krutony  A: 1",
       "price": 47
     },
     {
       "name": "PONDĚLÍ - Hlavní chod",
-      "description": "PONDĚLÍ - HLAVNÍ CHOD :::  Smažený květák s máslovými bramborami a bylinkovým dipem  ::: A : 1,3,7",
+      "description": "PONDĚLÍ - HLAVNÍ CHOD :::  Kuskus s chutí kurkumy, koření a bylinek, s máslovou kukuřicí, červenými fazolemi s restovanými rajčaty, nakládanou bílou ředkví, rukolou a malými ředkvičkami, pražená semínka a bylinkový olejíček, sezam  A: 1,7,8,11",
       "price": 127
     },
     {
       "name": "ÚTERÝ",
-      "description": "ÚTERÝ-  POLÉVKA :::: Minestrone se zeleninou a bylinkami, opečený chléb A: 1 (chléb)",
-      "price": 57
+      "description": "ÚTERÝ-  POLÉVKA :::: Uzená polévka s bylinkovými celestýnskými nudlemi A: 1,3,7 (nudle)",
+      "price": 47
     },
     {
       "name": "ÚTERÝ - HLAVNÍ CHOD",
-      "description": "ÚTERÝ - HLAVNÍ CHOD ::: Sendvič dvoupatrák s grilovanou vinnou klobáskou, salátkem, hořčičným dipem COKOLIF, restovanými žampiony a rajčátky, míchaný salátek s bylinkovým olejíčkem  ::: A : 1 (toust)",
-      "price": 137
+      "description": "ÚTERÝ - HLAVNÍ CHOD ::: Koprová omáčka s restovanou bramborou a  pošírovaným vejcem/ uzeným masem A: 1,3,7",
+      "price": 127
     },
     {
       "name": "STŘEDA",
-      "description": "STŘEDA - POLÉVKA ZMĚNA :::  Minestrone se zeleninou, bylinkami a těstovinou, opečený chléb ::: A : 1",
+      "description": "STŘEDA - POLÉVKA ZMĚNA :::  Zeleninový krém s bylinkami a opečeným chlebem A: 1,7",
       "price": 47
     },
     {
       "name": "HLAVNÍ CHOD",
-      "description": "STŘEDA - HLAVNÍ CHOD ::: Hovězí veverka s bramborovo-křenovým puré a blanšírovanou kořenovou zeleninou  ::: A: 7",
+      "description": "STŘEDA - HLAVNÍ CHOD ::: Vepřový řízek s máslovými bramborami a čerstvým libečekm, malý salátek A: 1,3,7",
       "price": 137
     },
     {
+      "name": "ČTVRTEK",
+      "description": "ČTVRTEK - POLÉVKA :::::: Francouzská cibulačka s čerstvým tymiánem a sýrem, opečený toust A: 1,7"
+    },
+    {
       "name": "ČTVRTEK - Hlavní chod",
-      "description": "ČTVRTEK - COKOLIF Royal Cheeseburger ::: Hovězí maso z vyzrálého krku, s plátky sýru cheddar, rajčaty marinovanými v bylinkách, s naší nakládanou cibulkou a okurkami, domácím barbeque kečupem a hořčičným dipem v naší COKOLIF domácí bulce + steakové hranolky COKOLIF ::: A : 1,3,7 ",
-      "price": 157
+      "description": "ČTVRTEK - Dvoupatrový sendvič z toustového chleba s marinovaným kuřecím stehenním, salátkem, rajčaty, našimi nakládanými okurkami a cibulkou, domácí barbecue kečup, semínka sezamu A: 1",
+      "price": 147
     },
     {
       "name": "PÁTEK",
-      "description": "LÍVANCOVÝ  PÁTEK  V  COKOLIF ::: 1. MÁJ, COKOLIF LÍVANCŮ ČAS  :::: 5 DRUHŮ LÍVANCŮ\n",
+      "description": "LÍVANCOVÝ PÁTEK",
       "price": ""
     },
     {
