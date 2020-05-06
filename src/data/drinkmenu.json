@@ -6,8 +6,8 @@
     },
     {
       "name": "KÁVA - AKTUÁLNÍ PRAŽÍRNA",
-      "description": "KÁVA Candycane Coffee  - PERU - promyté  :::::: Espresso , Lungo , Americano , Double Espresso, Espresso Machciato. Cappuccino, Café Latte, Flat white, Espresso tonic  :::::::   JEDNOTNÁ CENA",
-      "price": 50
+      "description": "KÁVA Candycane Coffee  - RWANDA - naturální zpracování  :::::: Espresso , Lungo , Americano , Double Espresso, Espresso Machciato. Cappuccino, Café Latte, Flat white, Espresso tonic ",
+      "price": ""
     },
     {
       "name": "LIMONÁDY COKOLIF",
@@ -15,12 +15,8 @@
       "price": 55
     },
     {
-      "name": "Jiné ",
-      "description": "Kombucha 0.33l 60 Kč, Zázračná limonáda 0.33l 59 Kč, Vincentka 0.33l 35 Kč, Tátův sad Cider 0.33l 55 Kč, Pivo Chomout 0.33l - Ležák, Švarc, Up Ale 50 Kč\n"
-    },
-    {
-      "name": "GIN TONIC",
-      "description": "GIN TONIC :::: Žufánek OMG + Tonic (Double dutch, Fentimans, Fever-tree ) :::: 144 Kč"
+      "name": "Ostatní NÁPOJE",
+      "description": "Kombucha S PŘÍCHUTÍ CITRONOVÉ TRÁVY 0.33l 60 Kč, Zázračná limonáda (různé druhy) 0.33l 59 Kč, Tátův sad Cider 0.33l 55 Kč"
     }
   ]
 }
