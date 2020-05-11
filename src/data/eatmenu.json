@@ -16,7 +16,7 @@
     },
     {
       "name": "PONDĚLÍ - Hlavní chod",
-      "description": "PONDĚLÍ - HLAVNÍ CHOD :::  Burger s trhaným vepřovým bokem, čerstvým koriandrem, sriracha majonézou a domácím barbecue kečupem, naší nakládanou zeleninou a rajčátkem, sezamová semínka + naše domácí hranolky A : 1,3,6,7,10,11",
+      "description": "PONDĚLÍ - HLAVNÍ CHOD :::  Burger s trhaným vepřovým bokem, čerstvým koriandrem, sriracha majonézou a domácím barbecue kečupem, naší nakládanou zeleninou a rajčátkem, sezamová semínka, + naše domácí hranolky A : 1,3,6,7,10,11",
       "price": 157
     },
     {
@@ -26,8 +26,13 @@
     },
     {
       "name": "ÚTERÝ - HLAVNÍ CHOD",
-      "description": "ÚTERÝ - HLAVNÍ CHOD ::: Penne se smetanovou omáčkou z brokolice, blanšírovaná brokolice, bylinky a salátek A : 7",
+      "description": "ÚTERÝ - HLAVNÍ CHOD ::: Penne se smetanovou omáčkou z brokolice, blanšírovaná brokolice a karotky, bylinky a salátek A : 7",
       "price": 127
+    },
+    {
+      "name": "ÚTERÝ",
+      "description": "ÚTERÝ - HLAVNÍ CHOD :::  Burger s trhaným vepřovým bokem, čerstvým koriandrem, sriracha majonézou a domácím barbecue kečupem, naší nakládanou zeleninou a rajčátkem, sezamová semínka, + naše domácí hranolky A : 1,3,6,7,10,11",
+      "price": 157
     },
     {
       "name": "STŘEDA",
