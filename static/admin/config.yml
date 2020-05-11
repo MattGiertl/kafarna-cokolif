@@ -20,10 +20,9 @@ collections:
 
   - label: "Menu"
     name: "menu"
-    create: true
     folder: "/src/data/menu"
-    identifier_field: menuSections
     fields:
+      - { label: "Položky menu", name: "title", default: "Položky menu" }
       - {
           label: "Sekce menu",
           name: "menuSections",
@@ -31,7 +30,7 @@ collections:
           allow_add: true,
           fields:
             [
-              { label: "Název hlavičky", name: "title", widget: string },
+              { label: "Název hlavičky", name: "title" },
               { label: "Obsah", name: "content", widget: markdown },
             ],
         }
