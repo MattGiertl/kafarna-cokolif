@@ -53,6 +53,13 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `menu`,
+        path: `${__dirname}/src/data/menu`,
+      },
+    },
+    {
       resolve: `gatsby-source-instagram-all`,
       options: {
         access_token: "9477884181.1677ed0.7a5053053c0a4336a99281b2223e4fcd",
