@@ -4,24 +4,20 @@ menuSections:
   - content: |-
       ## Pondělí
 
-      Lorem ipsum dolor
-
-
+      Vejce
 
       ## Středa
 
-      Fsdfsdfs
-    title: Test 1
+      Jiné srandy
+    title: Snídaně
   - content: |-
       ## Pátek
 
       Lorem ipsum dolor
 
-
-
       ## Sobota
 
       Fsdfsdfs
-    title: Test 2
+    title: Obědy
 ---
 
