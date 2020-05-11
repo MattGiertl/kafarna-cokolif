@@ -19,12 +19,14 @@ collections:
           - { label: O nás - obrázek, name: aboutUsImage, widget: image }
   - label: "New Menu"
     name: "newMenu"
+    create: true
     folder: "/src/data/menu"
     fields:
       - {
           label: "Sekce menu",
           name: menuSections,
           widget: list,
+          allow_add: true,
           fields:
             [
               { label: "Název hlavičky", name: title, widget: string },
