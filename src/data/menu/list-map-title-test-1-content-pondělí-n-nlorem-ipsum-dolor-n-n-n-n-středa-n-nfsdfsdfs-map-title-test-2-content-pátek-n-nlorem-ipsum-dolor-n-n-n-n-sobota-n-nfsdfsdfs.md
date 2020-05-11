@@ -1,4 +1,5 @@
 ---
+title: Položky menu
 menuSections:
   - content: |-
       ## Pondělí
