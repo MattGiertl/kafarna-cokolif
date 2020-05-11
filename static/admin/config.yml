@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: MattGiertl/kafarna-cokolif
-  branch: master
+  branch: menu-rework
 
 media_folder: static/images
 public_folder: images
@@ -17,6 +17,20 @@ collections:
           - { label: Úvodný obrázek, name: splashImage, widget: image }
           - { label: O Kafárně, name: aboutUs, widget: text }
           - { label: O nás - obrázek, name: aboutUsImage, widget: image }
+  - label: "New Menu"
+    name: "newMenu"
+    folder: "/src/data/menu"
+    fields:
+      - {
+          label: "Sekce menu",
+          name: menuSections,
+          widget: list,
+          fields:
+            [
+              { label: "Název hlavičky", name: title, widget: string },
+              { label: "Obsah", name: content, widget: markdown },
+            ],
+        }
   - label: "Menu"
     name: menu
     files:
