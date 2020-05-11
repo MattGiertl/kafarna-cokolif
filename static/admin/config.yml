@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: MattGiertl/kafarna-cokolif
-  branch: menu-rework
+  branch: develop
 
 media_folder: static/images
 public_folder: images
