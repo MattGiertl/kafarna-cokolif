@@ -18,19 +18,20 @@ collections:
           - { label: O Kafárně, name: aboutUs, widget: text }
           - { label: O nás - obrázek, name: aboutUsImage, widget: image }
 
-  - label: "New Menu"
-    name: "newMenu"
+  - label: "Menu"
+    name: "menu"
     create: true
     folder: "/src/data/menu"
+    identifier_field: menuSections
     fields:
       - {
           label: "Sekce menu",
-          name: menuSections,
+          name: "menuSections",
           widget: list,
           allow_add: true,
           fields:
             [
-              { label: "Název hlavičky", name: title, widget: string },
-              { label: "Obsah", name: content, widget: markdown },
+              { label: "Název hlavičky", name: "title", widget: string },
+              { label: "Obsah", name: "content", widget: markdown },
             ],
         }
