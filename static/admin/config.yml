@@ -17,72 +17,21 @@ collections:
           - { label: Úvodný obrázek, name: splashImage, widget: image }
           - { label: O Kafárně, name: aboutUs, widget: text }
           - { label: O nás - obrázek, name: aboutUsImage, widget: image }
+
   - label: "Menu"
-    name: menu
-    files:
-      - label: "Snídaně"
-        name: breakfast
-        file: "src/data/breakfastmenu.json"
-        allow_add: true
-        widget: list
-        fields:
-          - {
-              label: "Položky snídaně",
-              name: breakfastCollection,
-              widget: list,
-              fields:
-                [
-                  { label: "Název", name: "name", widget: string },
-                  { label: "Popisek", name: "description", widget: text },
-                  {
-                    label: "Cena",
-                    name: "price",
-                    widget: number,
-                    required: false,
-                  },
-                ],
-            }
-
-      - label: "Jídelníček"
-        name: eatmenu
-        file: "src/data/eatmenu.json"
-        allow_add: true
-        widget: list
-        fields:
-          - {
-              label: "Položky jídelníčku",
-              name: eatmenuCollection,
-              widget: list,
-              fields:
-                [
-                  { label: "Název", name: "name", widget: string },
-                  { label: "Popisek", name: "description", widget: text },
-                  {
-                    label: "Cena",
-                    name: "price",
-                    widget: number,
-                    required: false,
-                  },
-                ],
-            }
-
-      - label: "Nápojový lístek"
-        name: drinkmenu
-        file: "src/data/drinkmenu.json"
-        fields:
-          - {
-              label: "Položky nápojového lístku",
-              name: "drinkmenuCollection",
-              widget: list,
-              fields:
-                [
-                  { label: "Název", name: "name", widget: string },
-                  { label: "Popisek", name: "description", widget: text },
-                  {
-                    label: "Cena",
-                    name: "price",
-                    widget: number,
-                    required: false,
-                  },
-                ],
-            }
+    name: "menu"
+    create: true
+    folder: "/src/data/menu"
+    identifier_field: menuSections
+    fields:
+      - {
+          label: "Sekce menu",
+          name: "menuSections",
+          widget: list,
+          allow_add: true,
+          fields:
+            [
+              { label: "Název hlavičky", name: "title", widget: string },
+              { label: "Obsah", name: "content", widget: markdown },
+            ],
+        }

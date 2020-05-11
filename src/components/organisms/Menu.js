@@ -1,21 +1,18 @@
 import React, { useState } from "react"
 import styled from "@emotion/styled"
-
-import breakfastMenu from "../../data/breakfastmenu.json"
-import drinkMenu from "../../data/drinkmenu.json"
-import eatMenu from "../../data/eatmenu.json"
-
-import MenuToggle from "../molecules/MenuToggle"
-import MenuItem from "../molecules/MenuItem"
 import theme from "../../utils/theme.js"
-import Paragraph from "../atoms/Paragraph.js"
+
+import { useStaticQuery, graphql } from "gatsby"
+
+import ReactMarkdown from "react-markdown"
+import MenuToggle from "../molecules/MenuToggle"
 
 const MenuWrapper = styled.div({
   boxShadow: "0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12)",
   zIndex: 1,
 })
 
-const ToggleWrapper = styled.div({
+const Toggles = styled.div({
   display: "flex",
   justifyContent: "space-between",
   background: theme.colors.black,
@@ -33,71 +30,37 @@ const ContentWrapper = styled.div({
 })
 
 const Menu = () => {
-  const [activeMenus, setActiveMenu] = useState({
-    eatMenuActive: true,
-    breakfastMenuActive: false,
-    drinkMenuActive: false,
-  })
-
-  const { drinkmenuCollection } = drinkMenu
-  const { eatmenuCollection } = eatMenu
-  const { breakfastCollection } = breakfastMenu
-
-  const { eatMenuActive, breakfastMenuActive, drinkMenuActive } = activeMenus
-
-  const renderMenu = menuCollection => {
-    if (menuCollection.length !== 0) {
-      return menuCollection.map(menuItem => {
-        const { name, description, price } = menuItem
-        return <MenuItem name={name} description={description} price={price} />
-      })
+  const { markdownRemark } = useStaticQuery(graphql`
+    query MenuQuery {
+      markdownRemark {
+        frontmatter {
+          title
+          menuSections {
+            title
+            content
+          }
+        }
+      }
     }
+  `)
 
-    return <Paragraph>Pro tento den nebylo zadáno menu.</Paragraph>
-  }
+  const { menuSections } = markdownRemark.frontmatter
+  const [activeTab, setActiveTab] = useState(0)
+
   return (
     <MenuWrapper>
-      <ToggleWrapper>
-        <MenuToggle
-          isSelected={breakfastMenuActive}
-          heading="Snídaně"
-          onClick={() =>
-            setActiveMenu({
-              breakfastMenuActive: true,
-              eatMenuActive: false,
-              drinkMenuActive: false,
-            })
-          }
-        />
-        <MenuToggle
-          isSelected={eatMenuActive}
-          heading="Menu"
-          onClick={() =>
-            setActiveMenu({
-              breakfastMenuActive: false,
-              eatMenuActive: true,
-              drinkMenuActive: false,
-            })
-          }
-        />
-        <MenuToggle
-          isSelected={drinkMenuActive}
-          heading="Nápoje"
-          onClick={() =>
-            setActiveMenu({
-              breakfastMenuActive: false,
-              eatMenuActive: false,
-              drinkMenuActive: true,
-            })
-          }
-        />
-      </ToggleWrapper>
+      <Toggles>
+        {menuSections.map(section => (
+          <MenuToggle
+            heading={section.title}
+            isSelected={section.title === menuSections[activeTab].title}
+            key={section.title}
+            onClick={() => setActiveTab(menuSections.indexOf(section))}
+          />
+        ))}
+      </Toggles>
       <ContentWrapper>
-        <>
-          {eatMenuActive && renderMenu(eatmenuCollection)}
-          {drinkMenuActive && renderMenu(drinkmenuCollection)}
-          {breakfastMenuActive && renderMenu(breakfastCollection)}
-        </>
+        <ReactMarkdown source={menuSections[activeTab].content} />
       </ContentWrapper>
     </MenuWrapper>
   )
