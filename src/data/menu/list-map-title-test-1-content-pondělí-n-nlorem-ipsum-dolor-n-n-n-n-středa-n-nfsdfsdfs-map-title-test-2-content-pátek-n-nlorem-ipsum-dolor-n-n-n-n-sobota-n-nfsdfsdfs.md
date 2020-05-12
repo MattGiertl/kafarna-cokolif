@@ -13,11 +13,24 @@ menuSections:
   - content: |-
       ## Pátek
 
-      Lorem ipsum dolor
+      * **Polévka** - Kukuřičná                      
 
-      ## Sobota
+      A: 13258
 
-      Fsdfsdfs
+      **57,-**  + chléb 5,-
+
+
+
+      ## **Nedele**
     title: Obědy
+  - content: |-
+      dfghetghet
+
+      fgwrg
+
+      fgwr
+
+      gwrgw
+    title: Drinky
 ---
 
