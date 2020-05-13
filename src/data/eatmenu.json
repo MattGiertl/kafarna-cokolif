@@ -36,12 +36,17 @@
     },
     {
       "name": "STŘEDA",
-      "description": "STŘEDA -  POLÉVKA :::: Mrkvový krém s kokosovým mlékem a blanšírovanou karotkou (vegan) A : -",
+      "description": "STŘEDA -  ZMĚNA -  POLÉVKA :::: Kukuřičný krém s chilli vlasy a čerstvým koriandrem A: 1,7",
       "price": 47
     },
     {
       "name": "HLAVNÍ CHOD",
       "description": "STŘEDA - HLAVNÍ CHOD ::: Dlouze pečená vepřová žebra s bramborovo křenovým puré a malým salátem",
+      "price": 147
+    },
+    {
+      "name": "HLAVNÍ CHOD",
+      "description": "STŘEDA - HLAVNÍ CHOD :::  Burger s trhaným vepřovým bokem, čerstvým koriandrem, sriracha majonézou a domácím barbecue kečupem, naší nakládanou zeleninou a rajčátkem, sezamová semínka, + naše domácí hranolky A : 1,3,6,7,10,11",
       "price": 147
     },
     {
