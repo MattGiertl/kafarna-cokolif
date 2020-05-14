@@ -1,73 +1,14 @@
 {
   "eatmenuCollection": [
     {
-      "name": "ROZVOZ COKOLIF",
-      "description": "ROZVOZ   :::::   PONDĚLÍ - PÁTEK  11.01 - 16.01 hod.  ::::::  🔻TEL. 728 758 632 "
-    },
-    {
-      "name": "Menu",
-      "description": "MENU 11. 5. - 15. 5. 2020  :::::::   POZOR : Naše MENU se může v průběhu týdne MĚNIT a mohou třeba přibývat i některé pokrmy, tak buďte ve střehu! :)",
-      "price": ""
-    },
-    {
-      "name": "PONDĚLÍ - Polévka",
-      "description": "PONDĚLÍ - POLÉVKA :::: Kukuřičný krém s chilli vlasy a čerstvým koriandrem  A: 1,7",
-      "price": 47
-    },
-    {
-      "name": "PONDĚLÍ - Hlavní chod",
-      "description": "PONDĚLÍ - HLAVNÍ CHOD :::  Burger s trhaným vepřovým bokem, čerstvým koriandrem, sriracha majonézou a domácím barbecue kečupem, naší nakládanou zeleninou a rajčátkem, sezamová semínka, + naše domácí hranolky A : 1,3,6,7,10,11",
-      "price": 157
-    },
-    {
-      "name": "ÚTERÝ",
-      "description": "ÚTERÝ-  POLÉVKA :::: Kukuřičný krém s chilli vlasy a čerstvým koriandrem A: 1,7",
-      "price": 47
-    },
-    {
-      "name": "ÚTERÝ - HLAVNÍ CHOD",
-      "description": "ÚTERÝ - HLAVNÍ CHOD ::: Penne se smetanovou omáčkou z brokolice, blanšírovaná brokolice a karotky, bylinky a salátek A : 7",
-      "price": 127
-    },
-    {
-      "name": "ÚTERÝ",
-      "description": "ÚTERÝ - HLAVNÍ CHOD :::  Burger s trhaným vepřovým bokem, čerstvým koriandrem, sriracha majonézou a domácím barbecue kečupem, naší nakládanou zeleninou a rajčátkem, sezamová semínka, + naše domácí hranolky A : 1,3,6,7,10,11",
-      "price": 157
-    },
-    {
-      "name": "STŘEDA",
-      "description": "STŘEDA -  ZMĚNA -  POLÉVKA :::: Kukuřičný krém s chilli vlasy a čerstvým koriandrem A: 1,7",
-      "price": 47
-    },
-    {
-      "name": "HLAVNÍ CHOD",
-      "description": "STŘEDA - HLAVNÍ CHOD ::: Dlouze pečená vepřová žebra s bramborovo křenovým puré a malým salátem",
-      "price": 147
-    },
-    {
-      "name": "HLAVNÍ CHOD",
-      "description": "STŘEDA - HLAVNÍ CHOD :::  Burger s trhaným vepřovým bokem, čerstvým koriandrem, sriracha majonézou a domácím barbecue kečupem, naší nakládanou zeleninou a rajčátkem, sezamová semínka, + naše domácí hranolky A : 1,3,6,7,10,11",
-      "price": 147
-    },
-    {
-      "name": "ČTVRTEK",
-      "description": "ČTVRTEK - POLÉVKA :::::: Mrkvový krém s kokosovým mlékem a blanšírovanou karotkou (vegan) A : -",
-      "price": 47
-    },
-    {
-      "name": "ČTVRTEK - Hlavní chod",
-      "description": "ČTVRTEK - HLAVNÍ CHOD :::: Risotto z červené řepy s hoblinkami sýru Gran Moravia, s čerstvými bylinkami a naším šalvějovým olejíčkem ",
-      "price": 127
-    },
-    {
       "name": "PÁTEK",
       "description": "PÁTEK - HLAVNÍ CHOD ::::: Hovězí burger z vyzrálého krku, s našimi nakládanými okurkami,  čerstvým libečkem, domácím barbecue kečupem, hořčičným dipem, rajčetem a listy salátu, naše domácí hranolky  A:  1,3,6,7,10",
-      "price": 157
+      "price": ""
     },
     {
       "name": "PÁTEK",
       "description": "PÁTEK - SLADKÉ ::: Lívance s omáčkou z jahod, citronové mascarpone, hoblinky bílé a hořké čokolády, čerstvá máta, přelité višňovým sirupem A: 1,3,7",
-      "price": 127
+      "price": ""
     }
   ]
 }
