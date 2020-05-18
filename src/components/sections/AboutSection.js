@@ -1,23 +1,21 @@
 import React from "react"
 import styled from "@emotion/styled"
+import moment from "moment"
 
 import { DATE_FORMAT } from "../../utils/consts"
+import { graphql, useStaticQuery } from "gatsby"
 
-import InfoStrip from "../molecules/InfoStrip"
-
+import ReactMarkdown from "react-markdown"
 import SectionHeading from "../atoms/SectionHeading"
 import Paragraph from "../atoms/Paragraph"
 import Image from "../atoms/Image"
-
-import moment from "moment"
-import { graphql, useStaticQuery } from "gatsby"
 
 const StyledSection = styled.section({
   display: "flex",
   flexDirection: "column",
 })
 
-const AboutSection = ({ aboutText }) => {
+const AboutSection = () => {
   const data = useStaticQuery(aboutQuery)
   const { fluid } = data.file.childImageSharp
 
@@ -28,19 +26,13 @@ const AboutSection = ({ aboutText }) => {
   return (
     <StyledSection id="o-nas">
       <SectionHeading>O KAFÁRNĚ</SectionHeading>
-      <Paragraph textAlign="center">{aboutText}</Paragraph>
+      {/* <Paragraph>
+        <ReactMarkdown source={pageData.aboutUs} />
+      </Paragraph> */}
       <Paragraph bold textAlign="center">
         {`Už ${daysSinceOpening} dní`}
       </Paragraph>
       <Image alt="hoši" fluid={fluid} />
-      <InfoStrip
-        info="Otevírací doba"
-        infoText="Po - So 8:01 - 19:01, Ne 10:01 - 18:01"
-      />
-      <InfoStrip
-        info="Adresa"
-        infoText="Pavelčákova 5/13, Olomouc, 1. Patro (malá ulička Uhelná)"
-      />
     </StyledSection>
   )
 }

@@ -8,15 +8,23 @@ public_folder: images
 
 collections:
   - label: "Stránky"
-    name: pages
+    name: "pages"
+    create: true
     files:
-      - label: "Hlavní stránka"
-        name: mainpageContent
-        file: "src/data/mainpage.json"
+      - label: "Hlavní Stránka"
+        name: "mainPage"
+        create: true
+        extension: md
+        file: "/src/data/mainPage.md"
         fields:
-          - { label: Úvodný obrázek, name: splashImage, widget: image }
-          - { label: O Kafárně, name: aboutUs, widget: text }
-          - { label: O nás - obrázek, name: aboutUsImage, widget: image }
+          - { label: "Úvodný obrázek", name: "splashImage", widget: "image" }
+          - { label: "O Kafárně", name: "aboutText", widget: "markdown" }
+          - { label: "O nás - obrázek", name: "aboutUsImage", widget: "image" }
+          - {
+              label: "Adresa a otevíračka",
+              name: "addressAndHours",
+              widget: "markdown",
+            }
 
   - label: "Menu"
     name: "menu"
