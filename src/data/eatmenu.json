@@ -1,14 +1,33 @@
 {
   "eatmenuCollection": [
     {
-      "name": "PÁTEK",
-      "description": "PÁTEK - HLAVNÍ CHOD ::::: Hovězí burger z vyzrálého krku, s našimi nakládanými okurkami,  čerstvým libečkem, domácím barbecue kečupem, hořčičným dipem, rajčetem a listy salátu, naše domácí hranolky  A:  1,3,6,7,10",
-      "price": ""
+      "name": "Jídlo",
+      "description": "OBJEDNÁVKY NA ROZVOZ NOVĚ POUZE PŘES APLIKACI DÁME JÍDLO NEBO NA WEBU WWW.DAMEJIDLO.CZ   :::::::  Nebo osobně u nás v COKOLIF s možností předobjednání na tel. +420728758632 - - - - - PONDĚLÍ - PÁTEK -> 11.01 - 15.51  - - - - Ceny na našem webu platí pouze při osobním vyzvednutí :)"
     },
     {
-      "name": "PÁTEK",
-      "description": "PÁTEK - SLADKÉ ::: Lívance s omáčkou z jahod, citronové mascarpone, hoblinky bílé a hořké čokolády, čerstvá máta, přelité višňovým sirupem A: 1,3,7",
-      "price": ""
+      "name": "CHLÉB",
+      "description": "Velký opečený krajíc chleba s dlouze pečeným trhaným vepřovým bokem, sriracha majonézou, naší nakládanou zeleninou (okurky,ředkev,cibulka), škrábanou mrkví, salátkem, ředkvičkami a bylinkami, sezamem (1,3,6,10,11)",
+      "price": 147
+    },
+    {
+      "name": "CHLÉB",
+      "description": "Velký opečený krajíc chleba s filírovaným burgerovým masem (150g), dip z hrubozrnné hořčice a bylinek, naše COKOLIF nakládaná zelenina, salátek, rajčátka a nakládaná červená cibulka, sezamová semínka (1,3,6,7,10,11)",
+      "price": 147
+    },
+    {
+      "name": "CHLÉB",
+      "description": "Velký krajíc opečeného chleba s pěnou z červené řepy a marinovanou červenou řepou, pošírovaným vejcem, ředkvičkami, salátkem, granátovým jablkem, sezamovými semínky a naším estragonovým olejíčkem (1,3,7,8,11)",
+      "price": 127
+    },
+    {
+      "name": "CHLÉB",
+      "description": "Velký krajíc opečeného chleba s francouzským sýrem Brie Le Rustique, naše bylinkové žervé, plátky jablka v citronelle, med, vlašské ořechy, pražená semínka, vařené brusinky, salátek a náš bylinkový olejíček (1,7,8)",
+      "price": 127
+    },
+    {
+      "name": "LÍVANCE",
+      "description": "Lívance s omáčkou z jahod, citronové mascarpone, hoblinky bílé a hořké čokolády, čerstvá máta, přelité višňovým  (1,3,7)",
+      "price": 127
     }
   ]
 }
