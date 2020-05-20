@@ -2,12 +2,17 @@
   "breakfastCollection": [
     {
       "name": "Dortíky ",
-      "description": "DORTÍKY COKOLIF K VAŠIM DVEŘÍM přes DÁME JÍDLO, nebo s osobním vyzvednutím - Vždy dle aktuální nabídky, kterou v průběhu týdne doplňujeme a měníme",
+      "description": "DORTÍKY COKOLIF K VAŠIM DVEŘÍM přes DÁME JÍDLO, nebo s osobním vyzvednutím - Vždy dle aktuální nabídky, kterou v průběhu týdne doplňujeme a měníme.",
       "price": ""
     },
     {
       "name": "Dort",
-      "description": "Cokolif mrkvový dort se slaným karamelem a dýnovými semínky (1,3,7)",
+      "description": "Citrónový piškotový dort (1,3,7)",
+      "price": 67
+    },
+    {
+      "name": "Cheesecake",
+      "description": "Nepečený cheesecake z jahod (1,3,7)",
       "price": 67
     }
   ]
