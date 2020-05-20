@@ -1,8 +1,8 @@
 {
   "drinkmenuCollection": [
     {
-      "name": "ROZVOZ - NÁPOJE",
-      "description": "ROZVOZ NÁPOJŮ AŽ K VAŠIM DVEŘÍM"
+      "name": "NÁPOJE",
+      "description": "Nápoje dle aktuální nabídky"
     },
     {
       "name": "KÁVA - AKTUÁLNÍ PRAŽÍRNA",
