@@ -15,7 +15,7 @@ const StyledSection = styled.section({
   flexDirection: "column",
 })
 
-const AboutSection = () => {
+const AboutSection = ({ aboutText }) => {
   const data = useStaticQuery(aboutQuery)
   const { fluid } = data.file.childImageSharp
 
@@ -26,9 +26,9 @@ const AboutSection = () => {
   return (
     <StyledSection id="o-nas">
       <SectionHeading>O KAFÁRNĚ</SectionHeading>
-      {/* <Paragraph>
-        <ReactMarkdown source={pageData.aboutUs} />
-      </Paragraph> */}
+      <div style={{ lineHeight: 1.5, fontSize: 15 }}>
+        <ReactMarkdown source={aboutText} />
+      </div>
       <Paragraph bold textAlign="center">
         {`Už ${daysSinceOpening} dní`}
       </Paragraph>

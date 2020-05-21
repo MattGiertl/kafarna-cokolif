@@ -30,26 +30,28 @@ const ContentWrapper = styled.div({
 })
 
 const Menu = () => {
-  const { markdownRemark } = useStaticQuery(graphql`
-    query MenuQuery {
-      markdownRemark {
-        frontmatter {
-          title
-          menuSections {
-            title
-            content
+  const { allMarkdownRemark } = useStaticQuery(graphql`
+    query MyQuery {
+      allMarkdownRemark {
+        nodes {
+          frontmatter {
+            menuSections {
+              content
+              title
+            }
           }
         }
       }
     }
   `)
 
-  const { menuSections } = markdownRemark.frontmatter
+  console.log(allMarkdownRemark)
+  //const { menuSections } = allMarkdownRemark.nodes.frontmatter
   const [activeTab, setActiveTab] = useState(0)
 
   return (
     <MenuWrapper>
-      <Toggles>
+      {/* <Toggles>
         {menuSections.map(section => (
           <MenuToggle
             heading={section.title}
@@ -61,7 +63,7 @@ const Menu = () => {
       </Toggles>
       <ContentWrapper>
         <ReactMarkdown source={menuSections[activeTab].content} />
-      </ContentWrapper>
+      </ContentWrapper> */}
     </MenuWrapper>
   )
 }
