@@ -45,13 +45,15 @@ const Menu = () => {
     }
   `)
 
-  console.log(allMarkdownRemark)
-  //const { menuSections } = allMarkdownRemark.nodes.frontmatter
+  const { nodes } = allMarkdownRemark
   const [activeTab, setActiveTab] = useState(0)
+
+  const { frontmatter } = nodes.find(node => node.frontmatter.menuSections)
+  const { menuSections } = frontmatter
 
   return (
     <MenuWrapper>
-      {/* <Toggles>
+      <Toggles>
         {menuSections.map(section => (
           <MenuToggle
             heading={section.title}
@@ -63,7 +65,7 @@ const Menu = () => {
       </Toggles>
       <ContentWrapper>
         <ReactMarkdown source={menuSections[activeTab].content} />
-      </ContentWrapper> */}
+      </ContentWrapper>
     </MenuWrapper>
   )
 }

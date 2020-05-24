@@ -29,13 +29,14 @@ const ContentWrapper = styled(Wrapper)({
 
 const IndexPage = () => {
   const data = useStaticQuery(pageQuery)
+
   const {
     splashImage,
     aboutText,
     aboutUsImage,
     addressAndHours,
   } = data.markdownRemark.frontmatter
-  console.log("data", data)
+
   return (
     <Wrapper>
       <SEO />
