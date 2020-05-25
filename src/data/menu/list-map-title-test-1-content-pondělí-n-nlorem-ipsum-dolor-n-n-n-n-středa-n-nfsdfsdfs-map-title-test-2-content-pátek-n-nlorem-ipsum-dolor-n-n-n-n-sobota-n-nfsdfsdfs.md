@@ -3,6 +3,7 @@ title: Položky menu
 menuSections:
   - content: >-
       POLÉVKA - Mrkvový krém s kokosovým mlékem a chilli vlasy, sezamová semínka
+      (11)
 
 
       57,-
@@ -47,14 +48,5 @@ menuSections:
 
       87,-
     title: MENU
-  - content: |-
-      dfghetghet
-
-      fgwrg
-
-      fgwr
-
-      gwrgw
-    title: Drinky
 ---
 
