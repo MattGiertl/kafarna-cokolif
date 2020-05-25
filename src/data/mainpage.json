@@ -1,5 +1,11 @@
 {
   "splashImage": "/images/cokolif_cafarna_3.jpg",
+<<<<<<< HEAD
   "aboutUs": "NOVĚ :::: PONDĚLÍ - SOBOTA od 10:01 do 21:01 --- KAFÁRNA ZNOVU OTEVŘENA A TĚŠÍME SE NA VÁS  ::::::  MOŽNOST OBJEDNÁNÍ ROZVOZU dále přes DÁME JÍDLO!  S Láskou COKOLIF\n",
   "aboutUsImage": "/images/dsc_5862-25_fotor1.jpg"
+=======
+  "aboutUs": "Kafárna otevřena PONDĚLÍ až PÁTEK od 9:01 do 16:01.\\\nROZVOZ COKOLIF - OBJEDNÁVKY NA TEL. 728 758 632 - POUZE PO OLOMOUCI - PONDĚLÍ až PÁTEK - od 11.01 do 16.01\\\nMINIMÁLNÍ OBJEDNÁVKA 188 Kč (včetně rozvozu a obalů) - PLATBA POUZE HOTOVĚ\\\nMOŽNOST VYZVEDNUTÍ OBJEDNÁVKY OSOBNĚ\\\nMENU NALEZNETE I NA NAŠEM INSTAGRAMU A FACEBOOKU.",
+  "aboutUsImage": "/images/dsc_5862-25_fotor1.jpg",
+  "addressAndHours": "Pavelčákova 5/13, Olomouc (malá ulička Uhelná)\\\n1. PATRO\n\n**Otevřeno Po - So:8:01 - 19:01, Ne: 10:01 - 18:01**\\\n**Tel:** +420 728 758 632\\\n**Mail:** cokolif@post.cz"
+>>>>>>> 3ccd8d8de70baab54447c71eeaed02834ddc942d
 }

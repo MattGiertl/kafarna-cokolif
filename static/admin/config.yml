@@ -1,88 +1,44 @@
 backend:
   name: git-gateway
   repo: MattGiertl/kafarna-cokolif
-  branch: master
+  branch: develop
 
 media_folder: static/images
 public_folder: images
 
 collections:
   - label: "Stránky"
-    name: pages
+    name: "pages"
+    create: true
     files:
-      - label: "Hlavní stránka"
-        name: mainpageContent
-        file: "src/data/mainpage.json"
+      - label: "Hlavní Stránka"
+        name: "mainPage"
+        create: true
+        extension: md
+        file: "/src/data/mainPage.md"
         fields:
-          - { label: Úvodný obrázek, name: splashImage, widget: image }
-          - { label: O Kafárně, name: aboutUs, widget: text }
-          - { label: O nás - obrázek, name: aboutUsImage, widget: image }
+          - { label: "Úvodný obrázek", name: "splashImage", widget: "image" }
+          - { label: "O Kafárně", name: "aboutText", widget: "markdown" }
+          - { label: "O nás - obrázek", name: "aboutUsImage", widget: "image" }
+          - {
+              label: "Adresa a otevíračka",
+              name: "addressAndHours",
+              widget: "markdown",
+            }
+
   - label: "Menu"
-    name: menu
-    files:
-      - label: "Snídaně"
-        name: breakfast
-        file: "src/data/breakfastmenu.json"
-        allow_add: true
-        widget: list
-        fields:
-          - {
-              label: "Položky snídaně",
-              name: breakfastCollection,
-              widget: list,
-              fields:
-                [
-                  { label: "Název", name: "name", widget: string },
-                  { label: "Popisek", name: "description", widget: text },
-                  {
-                    label: "Cena",
-                    name: "price",
-                    widget: number,
-                    required: false,
-                  },
-                ],
-            }
-
-      - label: "Jídelníček"
-        name: eatmenu
-        file: "src/data/eatmenu.json"
-        allow_add: true
-        widget: list
-        fields:
-          - {
-              label: "Položky jídelníčku",
-              name: eatmenuCollection,
-              widget: list,
-              fields:
-                [
-                  { label: "Název", name: "name", widget: string },
-                  { label: "Popisek", name: "description", widget: text },
-                  {
-                    label: "Cena",
-                    name: "price",
-                    widget: number,
-                    required: false,
-                  },
-                ],
-            }
-
-      - label: "Nápojový lístek"
-        name: drinkmenu
-        file: "src/data/drinkmenu.json"
-        fields:
-          - {
-              label: "Položky nápojového lístku",
-              name: "drinkmenuCollection",
-              widget: list,
-              fields:
-                [
-                  { label: "Název", name: "name", widget: string },
-                  { label: "Popisek", name: "description", widget: text },
-                  {
-                    label: "Cena",
-                    name: "price",
-                    widget: number,
-                    required: false,
-                  },
-                ],
-            }
+    name: "menu"
+    folder: "/src/data/menu"
+    fields:
+      - { label: "Položky menu", name: "title", default: "Položky menu" }
+      - {
+          label: "Sekce menu",
+          name: "menuSections",
+          widget: list,
+          allow_add: true,
+          fields:
+            [
+              { label: "Název hlavičky", name: "title" },
+              { label: "Obsah", name: "content", widget: markdown },
+            ],
+        }

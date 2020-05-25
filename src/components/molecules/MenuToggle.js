@@ -6,14 +6,14 @@ const MenuToggleWrapper = styled.div(
   {
     color: "white",
     display: "flex",
-    width: "50%",
+    width: "100%",
     height: "32px",
     justifyContent: "center",
     alignItems: "center",
     cursor: "pointer",
     userSelect: "none",
     transition: "background 300ms, color 300ms",
-    textAlign: 'center',
+    textAlign: "center",
 
     "&:hover": {
       background: "white",

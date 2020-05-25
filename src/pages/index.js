@@ -16,8 +16,8 @@ import styled from "@emotion/styled"
 import "../normalize.css"
 import { mobileQuery } from "../utils/mediaqueries"
 
-import mainPageData from "../data/mainpage.json"
 import SEO from "../components/atoms/SEO"
+import { useStaticQuery, graphql } from "gatsby"
 
 const ContentWrapper = styled(Wrapper)({
   maxWidth: "700px",
@@ -27,27 +27,48 @@ const ContentWrapper = styled(Wrapper)({
   },
 })
 
-const IndexPage = () => (
-  <Wrapper>
-    <SEO />
-    <Navbar>
-      <Anchor to="#" text="DOMŮ" />
-      <Anchor to="#o-nas" text="O NÁS" />
-      <Anchor to="#menu" text="MENU" />
-      <Anchor to="#navstivte-nas" text="NAVŠTIVTE NÁS" />
-    </Navbar>
-    <Splash backgroundImage={mainPageData.splashImage} />
-    <ContentWrapper>
-      <AboutSection
-        aboutImage={mainPageData.aboutUsImage}
-        aboutText={mainPageData.aboutUs}
-      />
-      <GallerySection />
-      <MenuSection />
-      <VisitUsSection visitUsImage={mainPageData.whereToFindUsImage} />
-    </ContentWrapper>
-    <Footer />
-  </Wrapper>
-)
+const IndexPage = () => {
+  const data = useStaticQuery(pageQuery)
+
+  const {
+    splashImage,
+    aboutText,
+    aboutUsImage,
+    addressAndHours,
+  } = data.markdownRemark.frontmatter
+
+  return (
+    <Wrapper>
+      <SEO />
+      <Navbar>
+        <Anchor to="#" text="DOMŮ" />
+        <Anchor to="#o-nas" text="O NÁS" />
+        <Anchor to="#menu" text="ROZVOZ" />
+        <Anchor to="#navstivte-nas" text="NAVŠTIVTE NÁS" />
+      </Navbar>
+      <Splash backgroundImage={splashImage} />
+      <ContentWrapper>
+        <AboutSection aboutImage={aboutUsImage} aboutText={aboutText} />
+        <GallerySection />
+        <MenuSection />
+        <VisitUsSection addressAndHours={addressAndHours} />
+      </ContentWrapper>
+      <Footer />
+    </Wrapper>
+  )
+}
 
 export default IndexPage
+
+const pageQuery = graphql`
+  query PageQuery {
+    markdownRemark {
+      frontmatter {
+        splashImage
+        aboutText
+        aboutUsImage
+        addressAndHours
+      }
+    }
+  }
+`

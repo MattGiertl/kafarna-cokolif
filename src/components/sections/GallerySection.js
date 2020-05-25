@@ -27,6 +27,7 @@ const GallerySection = () => {
 
           return (
             <Post
+              key={text}
               src={fluid}
               alt={text ? text : "Sledujte nás na Instagramu"}
             />
