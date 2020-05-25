@@ -10,7 +10,9 @@ aboutUsImage: /images/dsc_5862-25_fotor1.jpg
 addressAndHours: |-
   Pavelčákova 5/13, Olomouc (malá ulička směr Uhelná)
 
-  1. PATRO\*\*\*\*
+  \*\* 1. PATRO \*\*
+
+  Platba pouze hotově / Cash only
 
   **Otevřeno Po - So: 10:01 - 21:01 (letní otvírací doba)** \
   **Tel:** +420 728 758 632\
