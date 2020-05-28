@@ -35,6 +35,13 @@ menuSections:
       127,-
 
 
+      Lívance s omáčkou z jahod, citronovým mascarpone, hoblinkami bílé a hořké
+      čokolády, čerstvou mátou, přelité višňovým sirupem (1,3,7)
+
+
+      127,-
+
+
       MENŠÍ CHOD - Rajčatový tataráček s černými a zelenými olivami, praženými
       semínky, cibulkou a salátkem, opečený toust (1,6,8,11,12)
 
