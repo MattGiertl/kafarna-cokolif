@@ -2,13 +2,6 @@
 title: Položky menu
 menuSections:
   - content: >-
-      POLÉVKA - Mrkvový krém s kokosovým mlékem a chilli vlasy, sezamová semínka
-      (11)
-
-
-      57,-
-
-
       Velký opečený krajíc chleba s dlouze pečeným trhaným vepřovým bokem,
       sriracha majonézou, naší nakládanou zeleninou (okurky,ředkev,cibulka),
       škrábanou mrkví, salátkem, ředkvičkami a bylinkami, sezamem (1,3,6,10,11)
