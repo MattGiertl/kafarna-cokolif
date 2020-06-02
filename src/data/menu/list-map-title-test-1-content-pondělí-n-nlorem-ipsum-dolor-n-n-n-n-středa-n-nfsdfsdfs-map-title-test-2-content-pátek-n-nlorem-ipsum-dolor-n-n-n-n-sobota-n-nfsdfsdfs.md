@@ -2,14 +2,15 @@
 title: Položky menu
 menuSections:
   - content: >-
-      * Polévka dle denní nabídky Cokolif
+      * Polévka dle denní nabídky COKOLIF
 
 
 
 
       * Velký opečený krajíc chleba s dlouze pečeným trhaným vepřovým bokem,
-      sriracha majonézou, naší nakládanou zeleninou (okurky,ředkev,cibulka),
-      škrábanou mrkví, salátkem, ředkvičkami a bylinkami, sezamem (1,3,6,10,11)
+      sriracha majonézou, naší COKOLIF nakládanou zeleninou
+      (okurky,ředkev,cibulka), škrábanou mrkví, salátkem, ředkvičkami a
+      bylinkami, sezamem (1,3,6,10,11)
 
 
 
@@ -30,15 +31,16 @@ menuSections:
 
 
       * Malý žitný / velký krajíc opečeného chleba s francouzským sýrem Brie,
-      naše bylinkové žervé, plátky jablka v citronelle, med, vlašské ořechy,
-      pražená semínka, vařené brusinky, salátek a náš bylinkový olejíček (1,7,8)
+      naše COKOLIF bylinkové žervé, plátky jablka v citronelle, med, vlašské
+      ořechy, pražená semínka, vařené brusinky, salátek a náš COKOLIF bylinkový
+      olejíček (1,7,8)
 
 
 
 
       * Malý žitný / velký krajíc opečený chleba  s jemnou pomazánkou z
       čerstvého špenátu, s restovanými žampiony, bylinkami, salátkem a
-      ředkvičkami, bylinkovým olejíčkem Cokolif (1,7,8)
+      ředkvičkami, bylinkovým olejíčkem COKOLIF (1,7,8)
 
 
 
