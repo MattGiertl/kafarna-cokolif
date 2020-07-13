@@ -5,10 +5,22 @@ aboutText: >-
   (letní otevírací doba)
 
 
-  **ROZVOZ** přes aplikaci **DÁME JÍDLO**
+  **Nejbarevnější kavárna v centru Olomouce, která ti zlepší den a zahřeje na
+  srdci :)**
 
 
-  \-> a možnost vyzvednutí OBJEDNÁVKY i OSOBNĚ u nás v COKOLIF
+  * **Výběrová káva ze skvělých pražíren České republiky a Slovenska** 
+
+  * **Originální Cokolif kuchyně**
+
+  * **Skvělé kávové i nekávové drinky**
+
+  * **Domácí Cokolif dortíky a dobroty od našich šikovných cukrářek**
+
+  * **Pečení dortíků na zakázku**
+
+
+  **A hlavně ... srdce na pravém místě :)**
 aboutUsImage: /images/dsc_5862-25_fotor1.jpg
 addressAndHours: |-
   Pavelčákova 5/13, Olomouc (malá ulička směr Uhelná)
