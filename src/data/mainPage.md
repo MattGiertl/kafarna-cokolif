@@ -5,6 +5,9 @@ aboutText: >-
   (letní otevírací doba)
 
 
+  Platba    **KARTOU / HOTOVĚ** ( CARD / CASH )
+
+
   **Nejbarevnější kavárna v centru Olomouce, která ti zlepší den a zahřeje na
   srdci :)**
 
@@ -17,17 +20,17 @@ aboutText: >-
 
   * **Domácí Cokolif dortíky a dobroty od našich šikovných cukrářek**
 
-  * **Pečení dortíků na zakázku**
+  * **Pečení dortíků a sladkostí na zakázku**
 
 
-  **A hlavně ... srdce na pravém místě :)**
+  **A vlastně ... Cokolif je možné !**
 aboutUsImage: /images/dsc_5862-25_fotor1.jpg
 addressAndHours: |-
   Pavelčákova 5/13, Olomouc (malá ulička směr Uhelná)
 
   \*\* 1. PATRO \*\*
 
-  Platba pouze hotově / Cash only
+  Platba **KARTOU / HOTOVĚ  (**CARD / CASH**)**
 
   **Otevřeno Po - So: 10:01 - 21:01 (letní otvírací doba)** \
   **Tel:** +420 728 758 632\
