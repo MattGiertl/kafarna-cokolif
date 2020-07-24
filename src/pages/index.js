@@ -9,7 +9,7 @@ import Footer from "../components/organisms/Footer"
 import Anchor from "../components/atoms/Anchor"
 import MenuSection from "../components/sections/MenuSection"
 import VisitUsSection from "../components/sections/VisitUsSection"
-import GallerySection from "../components/sections/GallerySection"
+// import GallerySection from "../components/sections/GallerySection"
 import Wrapper from "../components/atoms/Wrapper"
 import styled from "@emotion/styled"
 
@@ -49,7 +49,7 @@ const IndexPage = () => {
       <Splash backgroundImage={splashImage} />
       <ContentWrapper>
         <AboutSection aboutImage={aboutUsImage} aboutText={aboutText} />
-        <GallerySection />
+        {/* <GallerySection /> */}
         <MenuSection />
         <VisitUsSection addressAndHours={addressAndHours} />
       </ContentWrapper>

@@ -1,11 +1,11 @@
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
-
 import styled from "@emotion/styled"
 
+// import { useStaticQuery, graphql } from "gatsby"
+
 import SectionHeading from "../atoms/SectionHeading"
-import Posts from "../atoms/Posts"
-import Post from "../atoms/Post"
+// import Posts from "../atoms/Posts"
+// import Post from "../atoms/Post"
 
 const SectionWrapper = styled.section({
   display: "flex",
@@ -13,13 +13,13 @@ const SectionWrapper = styled.section({
 })
 
 const GallerySection = () => {
-  const data = useStaticQuery(instagramQuery)
-  const { edges } = data.allInstagramContent
+  // const data = useStaticQuery(instagramQuery)
+  // const { edges } = data.allInstagramContent
 
   return (
     <SectionWrapper>
       <SectionHeading>INSTAGRAM @cokolif_kafarna</SectionHeading>
-      <Posts>
+      {/* <Posts>
         {edges.map(edge => {
           // const { url } = edge.node.images.standard_resolution
           const { fluid } = edge.node.localImage.childImageSharp
@@ -33,46 +33,46 @@ const GallerySection = () => {
             />
           )
         })}
-      </Posts>
+      </Posts> */}
     </SectionWrapper>
   )
 }
 
-const instagramQuery = graphql`
-  query InstagramQuery {
-    allInstagramContent(limit: 6) {
-      edges {
-        node {
-          localImage {
-            childImageSharp {
-              fluid(maxWidth: 400) {
-                aspectRatio
-                base64
-                originalImg
-                originalName
-                presentationHeight
-                presentationWidth
-                sizes
-                src
-                srcSet
-                srcSetWebp
-                srcWebp
-                tracedSVG
-              }
-            }
-          }
-          images {
-            standard_resolution {
-              url
-            }
-          }
-          caption {
-            text
-          }
-        }
-      }
-    }
-  }
-`
+// const instagramQuery = graphql`
+//   query InstagramQuery {
+//     allInstagramContent(limit: 6) {
+//       edges {
+//         node {
+//           localImage {
+//             childImageSharp {
+//               fluid(maxWidth: 400) {
+//                 aspectRatio
+//                 base64
+//                 originalImg
+//                 originalName
+//                 presentationHeight
+//                 presentationWidth
+//                 sizes
+//                 src
+//                 srcSet
+//                 srcSetWebp
+//                 srcWebp
+//                 tracedSVG
+//               }
+//             }
+//           }
+//           images {
+//             standard_resolution {
+//               url
+//             }
+//           }
+//           caption {
+//             text
+//           }
+//         }
+//       }
+//     }
+//   }
+// `
 
 export default GallerySection
