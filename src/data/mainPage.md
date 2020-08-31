@@ -1,9 +1,12 @@
 ---
 splashImage: /images/cokolif_cafarna_3.jpg
 aboutText: >-
-  **COKOLIF** otevřeno **PONDĚLÍ** až **SOBOTA** od **10:01** do **21:01**
-  (letní otevírací doba)
+  **COKOLIF** **OTEVŘENO**
 
+
+  **PONDĚLÍ** - **SOBOTA**
+
+   **8:01** - **19:01**
 
   Platba    **KARTOU / HOTOVĚ** ( CARD / CASH )
 
@@ -32,7 +35,7 @@ addressAndHours: |-
 
   Platba **KARTOU / HOTOVĚ  (**CARD / CASH**)**
 
-  **Otevřeno Po - So: 10:01 - 21:01 (letní otvírací doba)** \
+  **Otevřeno PONDĚLÍ - SOBOTA 8:01 - 19:01**\
   **Tel:** +420 728 758 632\
   **Mail:** cokolif@post.cz
 ---
