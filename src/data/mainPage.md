@@ -44,8 +44,10 @@ addressAndHours: |-
 
   **PONDĚLÍ - PÁTEK 9:01 - 17:01**
 
-  \***\***\
+  ## **ROZVOZ přes DÁME JÍDLO**
+
+  ****\
   Tel: **+420 728 758 632**\
-  Mail:\*\* cokolif@post.cz
+  Mail: cokolif@post.cz
 ---
 
