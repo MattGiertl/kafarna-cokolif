@@ -4,12 +4,14 @@ aboutText: >-
   **COKOLIF** **OTEVŘENO**
 
 
+  **PONDĚLÍ** - **PÁTEK** **9:01 - 17:01**
+
+
   **OTEVÍRACÍ DOBA > NOUZOVÝ STAV**
 
 
-  **PONDĚLÍ** - **PÁTEK**
+  ## **ROZVOZ DÁME JÍDLO**
 
-   **9:01 - 17:01**
 
   Platba    **KARTOU / HOTOVĚ** ( CARD / CASH )
 
@@ -38,12 +40,12 @@ addressAndHours: |-
 
   Platba **KARTOU / HOTOVĚ  (**CARD / CASH**)**
 
-  **Otevřeno v NOUZOVÉM STAVU** 
+  **OTEVÍRACÍ DOBA V NOUZOVÉM STAVU** 
 
   **PONDĚLÍ - PÁTEK 9:01 - 17:01**
 
-  ****\
-  **Tel:** +420 728 758 632\
-  **Mail:** cokolif@post.cz
+  \***\***\
+  Tel: **+420 728 758 632**\
+  Mail:\*\* cokolif@post.cz
 ---
 
