@@ -10,7 +10,7 @@ aboutText: >-
   **OTEVÍRACÍ DOBA > NOUZOVÝ STAV**
 
 
-  ## **ROZVOZ DÁME JÍDLO**
+  ## **ROZVOZ přes DÁME JÍDLO**
 
 
   Platba    **KARTOU / HOTOVĚ** ( CARD / CASH )
