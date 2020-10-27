@@ -4,7 +4,7 @@ aboutText: >-
   **COKOLIF** **OTEVŘENO**
 
 
-  **PONDĚLÍ** - **PÁTEK** **9:01 - 17:01**
+  **PONDĚLÍ** - **PÁTEK** **11:01 - 19:01**
 
 
   **OTEVÍRACÍ DOBA > NOUZOVÝ STAV**
@@ -42,12 +42,12 @@ addressAndHours: |-
 
   **OTEVÍRACÍ DOBA V NOUZOVÉM STAVU** 
 
-  **PONDĚLÍ - PÁTEK 9:01 - 17:01**
+  **PONDĚLÍ - PÁTEK 11:01 - 19:01**
 
   ## **ROZVOZ přes DÁME JÍDLO**
 
-  ****\
-  Tel: **+420 728 758 632**\
+  \***\***\
+  **Tel:** +420 728 758 632\*\*\
   Mail: cokolif@post.cz
 ---
 
