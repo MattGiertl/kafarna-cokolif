@@ -1,16 +1,16 @@
 ---
 splashImage: /images/cokolif_cafarna_3.jpg
 aboutText: >-
-  **COKOLIF** **OTEVŘENO**
+  **COKOLIF** **OTEVŘENO** 
 
 
-  **PONDĚLÍ** - **PÁTEK** **11:01 - 19:01**
+  ## **ROZVOZ COKOLIF po Olomouci**
 
 
-  **OTEVÍRACÍ DOBA > NOUZOVÝ STAV**
+  **OTEVÍRACÍ DOBA V NOUZOVÉM STAVU**
 
 
-  ## **ROZVOZ přes DÁME JÍDLO**
+  **PONDĚLÍ** - **PÁTEK** **9:01 - 16:01**
 
 
   Platba    **KARTOU / HOTOVĚ** ( CARD / CASH )
@@ -42,12 +42,10 @@ addressAndHours: |-
 
   **OTEVÍRACÍ DOBA V NOUZOVÉM STAVU** 
 
-  **PONDĚLÍ - PÁTEK 11:01 - 19:01**
+  **PONDĚLÍ - PÁTEK 9:01 - 16:01**
 
-  ## **ROZVOZ přes DÁME JÍDLO**
-
-  \***\***\
-  **Tel:** +420 728 758 632\*\*\
-  Mail: cokolif@post.cz
+  ## **COKOLIF ROZVOZ**\
+  **Tel:** +420 728 758 632\
+  E-mail: cokolif@post.cz
 ---
 
