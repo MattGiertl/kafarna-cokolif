@@ -2,7 +2,7 @@
 title: Položky menu
 menuSections:
   - content: |-
-      ## **COKOLIF ROZVOZ**
+      ## **COKOLIF ROZVOZ ZDARMA**
 
       ## Pondělí - Pátek **9.01 - 16.01 h**
 
@@ -10,15 +10,12 @@ menuSections:
 
       **Minimální objednávka 200 Kč**
 
-      **Cena ROZVOZU po Olomouci 22 Kč**
+      **ROZVOZ PO OLOMOUCI ZDARMA**
 
-      **Platba pouze HOTOVĚ při doručení objednávky**
+      **Platba pouze HOTOVĚ**
     title: COKOLIF ROZVOZ PO OLOMOUCI
   - content: >-
       ## MENU COKOLIF
-
-
-      Obal u každého z pokrmů 5 Kč
 
 
       ## 1 . Polévka
@@ -37,15 +34,15 @@ menuSections:
       červenou cibulkou, salátkem a sezamem:**  
 
 
-      * **S čerstvou zeleninou** VEGAN (A:6,11) **\- 127 Kč**
+      * **S čerstvou zeleninou** VEGAN (A:6,11) **\- 137 Kč**
 
-      * **S vařeno-smaženým vejcem** (A:3,6,11) **\- 137 Kč**
+      * **S vařeno-smaženým vejcem** (A:3,6,11) **\- 147 Kč**
 
-      * **S restovanými žampiony** VEGAN (A:6,11) **\- 137 Kč**
+      * **S restovanými žampiony** VEGAN (A:6,11) **\- 147 Kč**
 
-      * **S restovaným tofu** VEGAN (A:6,11) **\- 137 Kč**
+      * **S restovaným tofu** VEGAN (A:6,11) **\- 147 Kč**
 
-      * **S nakládaným křehkým kuřecím masem** (A:6,11) **\- 157 Kč**
+      * **S nakládaným křehkým kuřecím masem** (A:6,11) **\- 167 Kč**
 
 
       ## **3. Fazolové Red Curry s rýží**
@@ -55,7 +52,7 @@ menuSections:
       vejcem, rýží a čerstvými bylinkami, pražená semínka** VEGAN (A:6,8)
 
 
-      **137 Kč**
+      **147 Kč**
 
 
       ## **4. Lívancový sendvič Cokolif**
@@ -66,11 +63,11 @@ menuSections:
 
       * **S restovanou slaninou a chipsy chedaru, smaženým vejcem, hořčičným
       dipem, listy salátu, rajčaty a nakládanou červenou cibulkou**
-      (A:1,3,7,10,11,12) **\- 127 Kč**
+      (A:1,3,7,10,11,12) **\- 137 Kč**
 
       * **S fazolovým pâté a naším domácím česnekovým sýrem, salátkem, rajčaty a
       škrábanou mrkví, listy salátu, nakládanou červenou cibulkou**
-      (A:1,3,7,10,) **\- 127 Kč**
+      (A:1,3,7,10,) **\- 137 Kč**
 
 
       ## 5. Sladké lívance Cokolif
@@ -81,7 +78,7 @@ menuSections:
       (A:1,3,7)
 
 
-      **127 Kč**
+      **137 Kč**
     title: MENU
   - content: >-
       ## NĚCO NAVÍC Z NAŠICH COKOLIF DOBROT
@@ -90,13 +87,10 @@ menuSections:
       ## **1. DORTY COKOLIF**
 
 
-      Malý obal pro 1ks dortu - 5 Kč  /  Velký obal pro více kusů dortů - 10 Kč
-
-
       * 1ks **Mrkvový dort Cokolif se slaným karamelem a vlašskými ořechy**
-      (A:1,3,7,8) **\- 67 Kč**
+      (A:1,3,7,8) **\- 77 Kč**
 
-      * 1ks **Skořicový cheesecake s jablky** (A:1,3,7) **\- 67 Kč**
+      * 1ks **Skořicový cheesecake s jablky** (A:1,3,7) **\- 77 Kč**
 
       * 1ks **Jablečný perník s čokoládou** (A:1,3,7) **\- 37 Kč**
 
@@ -200,7 +194,7 @@ menuSections:
       * **Cabernet Sauvignon - suché 2017**
 
 
-      **0,75 l - 289 Kč**
+      **0,75 l - 285 Kč**
     title: NĚCO NAVÍC
 ---
 
