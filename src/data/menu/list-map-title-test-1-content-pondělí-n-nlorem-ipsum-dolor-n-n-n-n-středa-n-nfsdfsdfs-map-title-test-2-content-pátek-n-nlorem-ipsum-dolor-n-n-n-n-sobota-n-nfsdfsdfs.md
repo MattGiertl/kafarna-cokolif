@@ -11,7 +11,7 @@ menuSections:
       **Minimální objednávka 200 Kč**
 
       **Cena ROZVOZU po Olomouci 22 Kč**
-    title: Cokolif Rozvoz po Olomouci
+    title: COKOLIF ROZVOZ PO OLOMOUCI
   - content: >-
       ## MENU COKOLIF 
 
