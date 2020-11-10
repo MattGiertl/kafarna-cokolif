@@ -107,6 +107,8 @@ menuSections:
       **Pražírna - THE NAUGHTY DOG**
 
 
+      * **COSTA RICA LAS LAJAS - red honey zpracování**
+
       * **BOLIVIA KUSSILO & LA LINDA - naturalní zpracování**
 
       * **COLOMBIA LA ROSA - naturální zpracování**
