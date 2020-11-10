@@ -11,9 +11,11 @@ menuSections:
       **Minimální objednávka 200 Kč**
 
       **Cena ROZVOZU po Olomouci 22 Kč**
+
+      **Platba pouze HOTOVĚ při doručení objednávky**
     title: COKOLIF ROZVOZ PO OLOMOUCI
   - content: >-
-      ## MENU COKOLIF 
+      ## MENU COKOLIF
 
 
       Obal u každého z pokrmů 5 Kč
@@ -28,7 +30,7 @@ menuSections:
       **55 Kč**
 
 
-      ## 2 . Nasi Goreng - Indonéská smažená rýže 
+      ## 2 . Nasi Goreng - Indonéská smažená rýže
 
 
       **Varianty Nasi Goreng s čerstvou zeleninou a bylinkami, nakládanou
@@ -66,7 +68,7 @@ menuSections:
       dipem, listy salátu, rajčaty a nakládanou červenou cibulkou**
       (A:1,3,7,10,11,12) **\- 127 Kč**
 
-      * **S fazolovým paté a naším domácím česnekovým sýrem, salátkem, rajčaty a
+      * **S fazolovým pâté a naším domácím česnekovým sýrem, salátkem, rajčaty a
       škrábanou mrkví, listy salátu, nakládanou červenou cibulkou**
       (A:1,3,7,10,) **\- 127 Kč**
 
@@ -168,6 +170,37 @@ menuSections:
 
 
       **+ Tonic Fever Tree -** prémiový tonik
+
+
+      ## 7. VÍNO
+
+
+      **Láhev 0,75 l** 
+
+
+      * **I am Prosecco - Itálie - D.O.C.  - 0,75l - 330 Kč**
+
+
+      **BÍLÉ VÍNO Vinařství Pfeffer - oblast Morava**
+
+
+      * **Müller Thurgau - suché 2017**
+
+      * **Hibernal - polosuché 2019**
+
+
+      **0,75 l - 279 Kč**
+
+
+      **ČERVENÉ VÍNO Vinařství Pfeffer - oblast Morava**
+
+
+      * **Saint Laurent - suché 2017**
+
+      * **Cabernet Sauvignon - suché 2017**
+
+
+      **0,75 l - 289 Kč**
     title: NĚCO NAVÍC
 ---
 
