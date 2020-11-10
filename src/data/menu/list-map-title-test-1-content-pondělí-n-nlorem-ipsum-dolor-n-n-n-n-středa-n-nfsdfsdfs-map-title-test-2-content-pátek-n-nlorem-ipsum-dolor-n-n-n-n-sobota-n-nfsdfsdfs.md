@@ -79,7 +79,7 @@ menuSections:
 
 
       **137 Kč**
-    title: MENU
+    title: MENU ROZVOZ
   - content: >-
       ## NĚCO NAVÍC Z NAŠICH COKOLIF DOBROT
 
