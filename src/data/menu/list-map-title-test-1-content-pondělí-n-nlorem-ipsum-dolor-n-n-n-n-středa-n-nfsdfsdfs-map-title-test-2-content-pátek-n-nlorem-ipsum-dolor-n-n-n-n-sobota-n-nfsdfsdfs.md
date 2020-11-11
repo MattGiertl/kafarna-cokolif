@@ -43,7 +43,7 @@ menuSections:
       * **S nakládaným křehkým kuřecím masem** (A:6,11) **\- 167 Kč**
 
 
-      ## **3. Red Curry s červenými fazolemi a rýží**
+      ## **3. Thajské Red Curry s červenými fazolemi a rýží**
 
 
       **Red Curry se zeleninou a červenými fazolemi, vařeno-smaženým vejcem,
