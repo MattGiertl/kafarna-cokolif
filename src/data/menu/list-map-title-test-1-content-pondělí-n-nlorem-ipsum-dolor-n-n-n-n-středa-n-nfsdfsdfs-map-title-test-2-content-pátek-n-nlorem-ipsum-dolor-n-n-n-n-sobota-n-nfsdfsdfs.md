@@ -38,8 +38,6 @@ menuSections:
 
       * **S vařeno-smaženým vejcem** (A:3,6,11) **\- 147 Kč**
 
-      * **S restovanými žampiony** VEGAN (A:6,11) **\- 147 Kč**
-
       * **S restovaným tofu** VEGAN (A:6,11) **\- 147 Kč**
 
       * **S nakládaným křehkým kuřecím masem** (A:6,11) **\- 167 Kč**
