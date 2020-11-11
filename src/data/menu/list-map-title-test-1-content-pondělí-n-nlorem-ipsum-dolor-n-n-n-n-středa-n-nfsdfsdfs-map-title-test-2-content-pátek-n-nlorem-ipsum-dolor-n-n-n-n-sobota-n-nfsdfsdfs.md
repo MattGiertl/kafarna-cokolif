@@ -43,11 +43,11 @@ menuSections:
       * **S nakládaným křehkým kuřecím masem** (A:6,11) **\- 167 Kč**
 
 
-      ## **3. Fazolové Red Curry s rýží**
+      ## **3. Red Curry s červenými fazolemi a rýží**
 
 
-      **Red Curry omáčka se zeleninou a červenými fazolemi, vařeno-smaženým
-      vejcem, rýží a čerstvými bylinkami, pražená semínka** VEGAN (A:6,8)
+      **Red Curry se zeleninou a červenými fazolemi, vařeno-smaženým vejcem,
+      rýží a čerstvými bylinkami, pražená semínka** VEGAN (A:6,8)
 
 
       **147 Kč**
