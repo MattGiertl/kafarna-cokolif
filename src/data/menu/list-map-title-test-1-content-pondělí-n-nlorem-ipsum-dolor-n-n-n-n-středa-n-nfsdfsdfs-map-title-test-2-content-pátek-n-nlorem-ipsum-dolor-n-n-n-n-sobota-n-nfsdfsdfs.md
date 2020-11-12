@@ -40,17 +40,17 @@ menuSections:
 
       * **S restovaným tofu** VEGAN (A:6,11) **\- 147 Kč**
 
-      * **S nakládaným křehkým kuřecím masem** (A:6,11) **\- 167 Kč**
+      * **S nakládaným křehkým kuřecím masem** (A:6,11) **\- 157 Kč**
 
 
-      ## **3. Thajské Red Curry s červenými fazolemi a rýží**
+      ## **3. Thajské Red Curry s  kuřecím masem, červenými fazolemi a rýží**
 
 
-      **Thajské Red Curry se zeleninou a červenými fazolemi, vařeno-smaženým
-      vejcem, rýží a čerstvými bylinkami, pražená semínka** VEGAN (A:6,8)
+      **Thajské Red Curry se zeleninou, kuřecím masem a červenými fazolemi, rýží
+      a čerstvými bylinkami, semínka sezamu** VEGAN (A:6,8)
 
 
-      **147 Kč**
+      **157 Kč**
 
 
       ## **4. Lívancový sendvič Cokolif**
