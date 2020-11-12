@@ -196,5 +196,21 @@ menuSections:
 
       **0,75 l - 285 Kč**
     title: NĚCO NAVÍC
+  - content: >-
+      ## DORTY PEČEME I NA ZAKÁZKU A VAŠE PŘÁNÍ
+
+
+      **Naše šikovné cukrářky pro Vás mohou dle Vaší představy a přání a
+      objednávky upéct dortík či sladkosti, jaký jen budete chtít ...**
+
+
+      **Cheesecake, Mrkváč, Čokoládový, Ovocný a spousta dalších** 
+
+
+      **Zavolejte nám v případě zájmu o celý dortík na naše telefonní číslo**
+
+
+      ## **+420 728 758 632**
+    title: DORTY NA PŘÁNÍ
 ---
 
