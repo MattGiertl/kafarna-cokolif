@@ -47,7 +47,7 @@ menuSections:
 
 
       **Thajské Red Curry se zeleninou, kuřecím masem a červenými fazolemi, rýží
-      a čerstvými bylinkami, semínka sezamu** VEGAN (A:6,8)
+      a čerstvými bylinkami, semínka sezamu** (A:6,8)
 
 
       **157 Kč**
