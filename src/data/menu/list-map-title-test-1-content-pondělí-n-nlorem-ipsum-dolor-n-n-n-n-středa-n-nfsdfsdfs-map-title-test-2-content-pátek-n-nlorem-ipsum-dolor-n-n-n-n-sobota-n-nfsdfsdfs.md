@@ -53,8 +53,8 @@ menuSections:
       fazolemi a rýží**
 
 
-      **Thajské Red Curry s kokosovým mlékem, zeleninou, kuřecím masem a
-      červenými fazolemi, rýží a čerstvými bylinkami, semínka sezamu**
+      **Thajské Red Curry s kokosovým mlékem, zeleninou, kuřecím masem (bez
+      masa), a červenými fazolemi, rýží a čerstvými bylinkami, semínka sezamu**
       (A:6,8,11)
 
 
