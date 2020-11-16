@@ -92,11 +92,13 @@ menuSections:
 
 
       * 1ks **Mrkvový dort Cokolif se slaným karamelem a vlašskými ořechy**
-      (A:1,3,7,8) **\- 57 Kč**
+      (A:1,3,7,8) **\- 67 Kč**
 
-      * 1ks **Skořicový cheesecake s jablky** (A:1,3,7) **\- 57 Kč**
+      * 1ks **Ořechový dort se sušenými pomeranči a jemným krémem z
+      mascarpone**  (A:1,3,7,8) **\- 67 Kč**
 
-      * 1ks **Jablečný perník s čokoládou** (A:1,3,7) **\- 37 Kč**
+      * 1ks **Kokosový chlebíček s rumem a ovocnou omáčkou** (A:1,3,7) **\- 37
+      Kč**
 
 
       ## **2. FILTROVANÁ KÁVA**
