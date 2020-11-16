@@ -49,14 +49,15 @@ menuSections:
       * **S nakládaným křehkým kuřecím masem** (A:6,11) **\- 157 Kč**
 
 
-      ## **3. Thajské Red Curry s  kuřecím masem, červenými fazolemi a rýží**
+      ## **3. Thajské Red Curry s  kuřecím masem / bez masa, s červenými
+      fazolemi a rýží**
 
 
       **Thajské Red Curry se zeleninou, kuřecím masem a červenými fazolemi, rýží
       a čerstvými bylinkami, semínka sezamu** (A:6,8)
 
 
-      **157 Kč**
+      **157 Kč s masem / 137 Kč bez masa**
 
 
       ## **4. Lívancový sendvič Cokolif**
