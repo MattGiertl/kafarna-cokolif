@@ -53,8 +53,9 @@ menuSections:
       fazolemi a rýží**
 
 
-      **Thajské Red Curry se zeleninou, kuřecím masem a červenými fazolemi, rýží
-      a čerstvými bylinkami, semínka sezamu** (A:6,8,11)
+      **Thajské Red Curry s kokosovým mlékem, zeleninou, kuřecím masem a
+      červenými fazolemi, rýží a čerstvými bylinkami, semínka sezamu**
+      (A:6,8,11)
 
 
       **157 Kč s masem / 137 Kč bez masa**
