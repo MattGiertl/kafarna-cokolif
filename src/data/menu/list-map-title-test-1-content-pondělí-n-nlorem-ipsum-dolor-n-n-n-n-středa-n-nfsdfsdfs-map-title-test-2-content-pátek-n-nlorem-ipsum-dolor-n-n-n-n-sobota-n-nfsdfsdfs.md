@@ -8,11 +8,17 @@ menuSections:
 
       ## **Telefonní číslo pro objednávky +420 728 758 632**
 
-      **Minimální objednávka 200 Kč**
+      * **ROZVOZ PO OLOMOUCI ZDARMA**
 
-      **ROZVOZ PO OLOMOUCI ZDARMA**
+      **Minimální objednávka pro rozvoz po Olomouci 200 Kč** 
 
-      **Platba pouze HOTOVĚ**
+      * **ROZVOZ MIMO OLOMOUC 77 Kč** 
+
+      **Minimální objednávka pro rozvoz mimo Olomouc 300 Kč**
+
+      **(Při objednávce nad 500 Kč mimo Olomouc rozvoz ZDARMA)**
+
+      ## **Platba pouze HOTOVĚ**
     title: COKOLIF ROZVOZ PO OLOMOUCI
   - content: >-
       ## MENU COKOLIF
