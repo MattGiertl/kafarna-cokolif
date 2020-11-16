@@ -135,9 +135,9 @@ menuSections:
       ## **4. COKOLIF DOMÁCÍ LIMONÁDY 0,3l**
 
 
-      * **Citronáda s rozmarýnem a ledem** 
+      * **Rozmarýnová citronáda s plátky citronu, větvičkou rozmarýnu a ledem**
 
-      * **Jeřabinová s pomerančem a ledem** 
+      * **Jeřabinová s plátky pomeranče a ledem** 
 
 
       **55 Kč**
