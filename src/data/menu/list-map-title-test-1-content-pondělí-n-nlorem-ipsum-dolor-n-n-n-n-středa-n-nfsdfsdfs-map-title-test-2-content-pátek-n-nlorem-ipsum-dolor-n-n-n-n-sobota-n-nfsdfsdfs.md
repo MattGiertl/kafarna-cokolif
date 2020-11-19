@@ -94,10 +94,10 @@ menuSections:
 
 
       * 1ks **Mrkvový dort Cokolif se slaným karamelem a vlašskými ořechy**
-      (A:1,3,7,8) **\- 67 Kč**
+      (A:1,3,7,8) **\- 44 Kč**
 
       * 1ks **Ořechový dort se sušenými pomeranči a jemným krémem z
-      mascarpone**  (A:1,3,7,8) **\- 67 Kč**
+      mascarpone**  (A:1,3,7,8) **\- 57 Kč**
 
       * 1ks **Kokosový chlebíček s rumem a ovocnou omáčkou** (A:1,3,7) **\- 37
       Kč**
