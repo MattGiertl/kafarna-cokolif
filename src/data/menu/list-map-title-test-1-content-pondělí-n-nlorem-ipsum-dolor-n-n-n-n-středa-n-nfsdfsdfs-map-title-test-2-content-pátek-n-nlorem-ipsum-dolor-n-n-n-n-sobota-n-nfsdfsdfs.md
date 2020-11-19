@@ -16,7 +16,7 @@ menuSections:
 
       **Minimální objednávka pro rozvoz mimo Olomouc 300 Kč**
 
-      **(Při objednávce nad 500 Kč mimo Olomouc rozvoz ZDARMA)**
+      **(Při objednávce nad 500 Kč rozvoz mimo Olomouc ZDARMA)**
 
       ## **Platba pouze HOTOVĚ**
     title: COKOLIF ROZVOZ PO OLOMOUCI
