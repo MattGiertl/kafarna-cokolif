@@ -93,7 +93,7 @@ menuSections:
       ## **1. DORTY COKOLIF**
 
 
-      * 1ks **Mrkvový dort Cokolif se slaným karamelem a vlašskými ořechy**
+      * 1ks **Mrkvové řezy Cokolif se slaným karamelem a vlašskými ořechy**
       (A:1,3,7,8) **\- 44 Kč**
 
       * 1ks **Ořechový dort se sušenými pomeranči a jemným krémem z
