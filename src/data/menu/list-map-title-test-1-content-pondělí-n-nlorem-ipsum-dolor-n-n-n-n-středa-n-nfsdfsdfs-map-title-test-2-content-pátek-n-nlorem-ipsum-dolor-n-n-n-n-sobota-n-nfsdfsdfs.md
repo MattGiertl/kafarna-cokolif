@@ -146,7 +146,7 @@ menuSections:
       ## **5. NÁPOJE V LAHVIČKÁCH 0,33l**
 
 
-      * **Zázračná limonáda - Ibišek, Kola, Woody soda, Šafrán - 59 Kč**
+      * **Zázračná limonáda - Ibišek, Kola, Woody soda - 59 Kč**
 
       * **Vincentka - Přírodní minerální voda z Luhačovic - 35 Kč**
 
