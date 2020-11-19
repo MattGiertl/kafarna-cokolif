@@ -139,8 +139,6 @@ menuSections:
 
       * **Rozmarýnová citronáda s plátky citronu, větvičkou rozmarýnu a ledem**
 
-      * **Jeřabinová s plátky pomeranče a ledem** 
-
 
       **55 Kč**
 
