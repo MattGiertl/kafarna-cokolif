@@ -94,13 +94,11 @@ menuSections:
 
 
       * 1ks **Mrkvové řezy Cokolif se slaným karamelem a vlašskými ořechy**
-      (A:1,3,7,8) **\- 44 Kč**
+      (A:1,3,7,8) **\- 77 Kč**
 
-      * 1ks **Ořechový dort se sušenými pomeranči a jemným krémem z
-      mascarpone**  (A:1,3,7,8) **\- 57 Kč**
+      * 1ks **Piškotový dort s malinami**  (A:1,3,7) **\- 77 Kč**
 
-      * 1ks **Kokosový chlebíček s rumem a ovocnou omáčkou** (A:1,3,7) **\- 37
-      Kč**
+      * 1ks **Velké sušenky Cokolif s čokoládou** (A:1,3,7) **\- 44 Kč**
 
 
       ## **2. FILTROVANÁ KÁVA**
