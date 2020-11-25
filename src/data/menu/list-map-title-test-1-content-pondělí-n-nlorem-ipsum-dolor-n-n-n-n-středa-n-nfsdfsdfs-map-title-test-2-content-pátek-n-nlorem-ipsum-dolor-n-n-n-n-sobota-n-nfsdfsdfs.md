@@ -24,16 +24,10 @@ menuSections:
       ## MENU COKOLIF
 
 
-      ## 1 . Polévka
+      ****
 
 
-      **Polévka z rajčat, zeleniny a čerstvých bylinek** (A: - )
-
-
-      **55 Kč**
-
-
-      ## 2 . Nasi Goreng - Indonéská smažená rýže
+      ## 1. Nasi Goreng - Indonéská smažená rýže
 
 
       **Varianty Nasi Goreng s čerstvou zeleninou a bylinkami, nakládanou
@@ -46,22 +40,18 @@ menuSections:
 
       * **S restovaným tofu** VEGAN (A:6,11) **\- 147 Kč**
 
-      * **S nakládaným křehkým kuřecím masem** (A:6,11) **\- 157 Kč**
+
+      ## **2. Thajské Red Curry, s červenými fazolemi a rýží**
 
 
-      ## **3. Thajské Red Curry s  kuřecím masem / bez masa, s červenými
-      fazolemi a rýží**
+      **Thajské Red Curry s kokosovým mlékem, zeleninou, červenými fazolemi,
+      rýží a čerstvými bylinkami, semínka sezamu** (A:6,8,11)
 
 
-      **Thajské Red Curry s kokosovým mlékem, zeleninou, kuřecím masem (bez
-      masa), a červenými fazolemi, rýží a čerstvými bylinkami, semínka sezamu**
-      (A:6,8,11)
+      **137 Kč** 
 
 
-      **157 Kč s masem / 137 Kč bez masa**
-
-
-      ## **4. Lívancový sendvič Cokolif**
+      ## **3. Lívancový sendvič Cokolif**
 
 
       **Varianty slaného lívancového sendviče:**
@@ -76,7 +66,7 @@ menuSections:
       (A:1,3,7,10,) **\- 137 Kč**
 
 
-      ## 5. Sladké lívance Cokolif
+      ## 4. Sladké lívance Cokolif
 
 
       **Nadýchané lívance s naší omáčkou z malin a jahod, s jemným tvarohovým
@@ -98,7 +88,7 @@ menuSections:
 
       * 1ks **Piškotový dort s malinami**  (A:1,3,7) **\- 77 Kč**
 
-      * 1ks **Velké sušenky Cokolif s čokoládou** (A:1,3,7) **\- 44 Kč**
+      * 1ks **Velké Cookies sušenky Cokolif s čokoládou** (A:1,3,7) **\- 44 Kč**
 
 
       ## **2. FILTROVANÁ KÁVA**
@@ -122,10 +112,18 @@ menuSections:
       ## **3. ORIGINÁLNÍ NÁPOJE COKOLIF**
 
 
-      * **Kávový punč Cokolif** (Espresso, Božkov tuzemský 0,04l, koření,
-      pomeranč, brusinky) **\- 69 Kč**
+      **Kávový punč Cokolif - Varianty:**  
 
-      * **Dýňový pečený Čaj Cokolif** s pomerančem a zázvorem **\- 65 Kč**
+
+      * **S Jamesonem - 79 Kč**
+
+      * **S Cointreau - 79 Kč**
+
+      * **S Amarettem - 69 Kč**
+
+      * **S Griottkou - 69 Kč**
+
+      * **S Tuzemáčkem - 69 Kč**
 
 
       ## **4. COKOLIF DOMÁCÍ LIMONÁDY 0,3l**
