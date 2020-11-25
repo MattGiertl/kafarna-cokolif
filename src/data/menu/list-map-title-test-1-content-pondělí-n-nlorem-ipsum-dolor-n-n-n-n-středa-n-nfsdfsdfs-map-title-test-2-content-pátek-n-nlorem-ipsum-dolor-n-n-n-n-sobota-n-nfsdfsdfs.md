@@ -218,5 +218,15 @@ menuSections:
 
       ## **Tel. +420 728 758 632**
     title: DORTY NA PŘÁNÍ
+  - content: |-
+      # **Pražírna Petry Veselé THE NAUGHTY DOG Praha, 200g = 303kč**
+
+      * **ETHIOPIA** Bookkisa **Natural**
+      * **NICARAGUA** El Cambalache **Natural**
+      * **NICARAGUA** La Marcela **Honey**
+      * **EL SALVADOR** San Carlos Dos **Natural**
+      * **EL SALVADOR** San Carlos Dos **Honey**
+      * **VÁNOČNÍ HONDURAS** Pedro Joel Fiallos **Macerated Natural**
+    title: BALÍČKY KÁVY COKOLIF
 ---
 
