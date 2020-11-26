@@ -218,22 +218,27 @@ menuSections:
 
       ## **Tel. +420 728 758 632**
     title: DORTY NA PŘÁNÍ
-  - content: >-
-      # **Pražírna Petry Veselé THE NAUGHTY DOG Praha, všechny kávy jsou skvělé
-      na filtr i espresso, 200g = 303kč**
+  - content: |-
+      ## **Pražírna Petry Veselé a Gwilyma Davise**
 
+      ## THE NAUGHTY DOG
+
+      ## **Jílové u Prahy**
+
+      **Všechny kávy jsou vhodné na přípravu ESPRESSA I FILTRU**
+
+      **BALÍČEK 200 g**  
 
       * **ETHIOPIA** Bookkisa **Natural**
-
       * **NICARAGUA** El Cambalache **Natural**
-
       * **NICARAGUA** La Marcela **Honey**
-
       * **EL SALVADOR** San Carlos Dos **Natural**
-
       * **EL SALVADOR** San Carlos Dos **Honey**
-
       * **VÁNOČNÍ HONDURAS** Pedro Joel Fiallos **Macerated Natural**
-    title: BALÍČKY KÁVY COKOLIF
+
+      **1 balíček / 303 Kč**
+
+      * **MOŽNO SI OBJEDNAT V RÁMCI ROZVOZU COKOLIF**
+    title: BALÍČKY KÁVY
 ---
 
