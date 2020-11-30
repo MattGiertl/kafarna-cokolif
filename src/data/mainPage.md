@@ -4,13 +4,13 @@ aboutText: >-
   **COKOLIF** **OTEVŘENO** 
 
 
-  ## **ROZVOZ COKOLIF po Olomouci ZDARMA**
+  ## **ROZVOZ COKOLIF** 
 
 
-  ## **Telefonní číslo pro objednávky: +420 728 758 632**
+  ## **DOČASNĚ POZASTAVEN**
 
 
-  **OTEVÍRACÍ DOBA V NOUZOVÉM STAVU**
+  **OTEVÍRACÍ DOBA (v nouzovém stavu)**
 
 
   **PONDĚLÍ** - **PÁTEK** **9:01 - 16:01**
@@ -35,11 +35,16 @@ aboutText: >-
 
 
   **A vlastně ... Cokolif je možné !**
+
+
+  **Tel: +420 728 758 632**\
+
+  **E-mail: cokolif@post.cz**
 aboutUsImage: /images/dsc_5862-25_fotor1.jpg
 addressAndHours: |-
-  ## **COKOLIF ROZVOZ po Olomouci ZDARMA**
+  ## **COKOLIF ROZVOZ** 
 
-  ## **Telefonní číslo pro objednávky: +420 728 758 632**
+  ## **DOČASNĚ POZASTAVEN**
 
   Pavelčákova 5/13, Olomouc (malá ulička směr Uhelná)
 
@@ -47,11 +52,11 @@ addressAndHours: |-
 
   Platba **KARTOU v kavárně / HOTOVĚ  (**CARD in café/ CASH**)**
 
-  **OTEVÍRACÍ DOBA V NOUZOVÉM STAVU** 
+  **OTEVÍRACÍ DOBA (v nouzovém stavu)**
 
   **PONDĚLÍ - PÁTEK 9:01 - 16:01**
 
-  **Tel:** +420 728 758 632\
-  E-mail: cokolif@post.cz
+  **Tel: +420 728 758 632**\
+  **E-mail: cokolif@post.cz**
 ---
 
