@@ -1,7 +1,7 @@
 ---
 title: Položky menu
 menuSections:
-  - content: '# ****'
+  - content: '# Pražírna The NAUGHTY DOG, Jílové u Prahy'
     title: AKTUÁLNÍ NABÍDKA KÁVY
 ---
 
