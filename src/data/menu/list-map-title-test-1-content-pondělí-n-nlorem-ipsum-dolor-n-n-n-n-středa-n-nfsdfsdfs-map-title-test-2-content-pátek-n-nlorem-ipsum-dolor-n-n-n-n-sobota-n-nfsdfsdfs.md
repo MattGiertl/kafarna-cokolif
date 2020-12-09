@@ -9,7 +9,7 @@ menuSections:
 
       2. **NICARAGUA** El Cambalache **natural**, 200g/ 303kč
 
-      3.  **EL SALVADOR** San Carlos Dos **natural**, 200g/ 303kč
+      3. **EL SALVADOR** San Carlos Dos **natural**, 200g/ 303kč
 
       4. **Vánoční** **HONDURAS** Pedro Joel Fiallos **macerated natural**,
       200g/ 303kč
@@ -21,7 +21,7 @@ menuSections:
       7. **Vánoční** **COSTA RICA** El Perezoso **natural**, 200g/ 303kč
 
       8. **LIMITKA se zlatým jezevčíkem**: **COLOMBIA** Luis Jose Valdes
-      **natural** (součástí Vánočního balíčku!)
+      **natural** (100g, součástí Vánočního balíčku!)
     title: AKTUÁLNÍ NABÍDKA KÁVY
 ---
 
