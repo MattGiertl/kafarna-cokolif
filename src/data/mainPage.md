@@ -4,10 +4,7 @@ aboutText: >-
   **COKOLIF** **OTEVŘENO** 
 
 
-  ## **ROZVOZ COKOLIF**
-
-
-  ## **DOČASNĚ POZASTAVEN**
+  ## **ROZVOZ COKOLIF DOČASNĚ POZASTAVEN!!!**
 
 
   **OTEVÍRACÍ DOBA**
