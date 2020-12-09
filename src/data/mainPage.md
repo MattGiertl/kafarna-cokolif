@@ -10,7 +10,7 @@ aboutText: >-
   ## **DOČASNĚ POZASTAVEN**
 
 
-  **OTEVÍRACÍ DOBA (v nouzovém stavu)**
+  **OTEVÍRACÍ DOBA**
 
 
   **PONDĚLÍ** - **PÁTEK** **9:01 - 18:31, SOBOTA 10:01 - 18:31**
