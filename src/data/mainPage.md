@@ -13,7 +13,7 @@ aboutText: >-
   **PONDĚLÍ** - **PÁTEK** **9:01 - 18:31, SOBOTA 10:01 - 18:31**
 
 
-  Platba **KARTOU/ HOTOVĚ** (by CARD/ CASH )
+  Platba **KARTOU/ HOTOVĚ**
 
 
   **Nejbarevnější kavárna v centru Olomouce, která ti zlepší den a zahřeje na
