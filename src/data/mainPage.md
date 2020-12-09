@@ -45,7 +45,7 @@ addressAndHours: |-
 
   \*\* 1. PATRO \*\*
 
-  Platba **KARTOU v kavárně / HOTOVĚ  (**CARD in café/ CASH**)**
+  Platba **KARTOU/ HOTOVĚ**
 
   **OTEVÍRACÍ DOBA**
 
