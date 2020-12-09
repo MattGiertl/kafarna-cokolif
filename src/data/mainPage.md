@@ -24,7 +24,7 @@ aboutText: >-
 
   * **Originální Cokolif kuchyně**
 
-  * **Skvělé kávové i nekávové, míchané drinky**
+  * **Skvělé kávové i nekávové míchané drinky**
 
   * **Domácí Cokolif dortíky a dobroty od našich šikovných cukrářek**
 
