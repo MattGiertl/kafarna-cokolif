@@ -4,7 +4,7 @@ aboutText: >-
   **COKOLIF** **OTEVŘENO** 
 
 
-  ## **ROZVOZ COKOLIF** 
+  ## **ROZVOZ COKOLIF**
 
 
   ## **DOČASNĚ POZASTAVEN**
@@ -13,7 +13,7 @@ aboutText: >-
   **OTEVÍRACÍ DOBA (v nouzovém stavu)**
 
 
-  **PONDĚLÍ** - **PÁTEK** **9:01 - 16:01**
+  **PONDĚLÍ** - **PÁTEK** **9:01 - 18:31, SOBOTA 10:01 - 18:31**
 
 
   Platba    **KARTOU v kavárně / HOTOVĚ** ( CARD in café / CASH )
