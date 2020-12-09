@@ -39,11 +39,9 @@ aboutText: >-
   **E-mail: cokolif@post.cz**
 aboutUsImage: /images/dsc_5862-25_fotor1.jpg
 addressAndHours: |-
-  ## **COKOLIF ROZVOZ**
+  ## **COKOLIF ROZVOZ DOČASNĚ POZASTAVEN!!!**
 
-  ## **DOČASNĚ POZASTAVEN**
-
-  Pavelčákova 5/13, Olomouc (malá ulička směr Uhelná)
+  Pavelčákova 5/13, Olomouc (Vstup v Uhelné ulici!)
 
   \*\* 1. PATRO \*\*
 
