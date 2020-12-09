@@ -42,7 +42,7 @@ aboutText: >-
   **E-mail: cokolif@post.cz**
 aboutUsImage: /images/dsc_5862-25_fotor1.jpg
 addressAndHours: |-
-  ## **COKOLIF ROZVOZ** 
+  ## **COKOLIF ROZVOZ**
 
   ## **DOČASNĚ POZASTAVEN**
 
@@ -52,9 +52,9 @@ addressAndHours: |-
 
   Platba **KARTOU v kavárně / HOTOVĚ  (**CARD in café/ CASH**)**
 
-  **OTEVÍRACÍ DOBA (v nouzovém stavu)**
+  **OTEVÍRACÍ DOBA**
 
-  **PONDĚLÍ - PÁTEK 9:01 - 16:01**
+  **PONDĚLÍ - PÁTEK 9:01 - 18:31, SOBOTA 10:01 - 18:31**
 
   **Tel: +420 728 758 632**\
   **E-mail: cokolif@post.cz**
