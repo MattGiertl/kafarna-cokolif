@@ -10,7 +10,7 @@ aboutText: >-
   **OTEVÍRACÍ DOBA**
 
 
-  ## **PONDĚLÍ** - NEDĚLE 10:00 - 18:00**PÁTEK** **9**
+  ## **PONDĚLÍ** - NEDĚLE 10:00 - 18:00**P** **9**
 
 
   Platba **KARTOU/ HOTOVĚ**
