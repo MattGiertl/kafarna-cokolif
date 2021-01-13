@@ -49,7 +49,7 @@ addressAndHours: |-
 
   **OTEVÍRACÍ DOBA**
 
-  **PONDĚLÍ - PÁTEK 9:01 - 18:31, SOBOTA 10:01 - 18:31**
+  ## **PONDĚLÍ - NEDĚLE 10:00 - 18:00**
 
   **Tel: +420 728 758 632**\
   **E-mail: cokolif@post.cz**
