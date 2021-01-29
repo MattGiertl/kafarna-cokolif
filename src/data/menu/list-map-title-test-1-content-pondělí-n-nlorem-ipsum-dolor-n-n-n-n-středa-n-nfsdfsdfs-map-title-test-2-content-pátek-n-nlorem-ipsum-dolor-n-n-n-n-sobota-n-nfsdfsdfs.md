@@ -1,27 +1,18 @@
 ---
 title: Položky menu
 menuSections:
-  - content: >-
-      # Pražírna The NAUGHTY DOG, Jílové u Prahy
+  - content: |-
+      * ## **Čerstvě připravená káva s sebou do kelímku**
+      * ## Naše originální nápoje z kávy či bez ní 
+        **Espresso Vaječňák, Kávový punč, Cokolif Pečený čaj, Limonády, Cider, Kombucha, a další ...** 
+      * ## Každý den sladké dobroty naší vlastní výroby
+      * ## **Výroba dortů a sladkostí na zakázku dle Vašeho přání**
+      * ## Prodej balíčků výběrové kávy pražírny The Naughty Dog, Jílové u Prahy
 
+      **V kavárně naleznete vždy více druhů kávy v balíčcích po 200g**
 
-      1. **ETHIOPIA** Bookkisa **natural**, 200g/ 303kč
-
-      2. **NICARAGUA** El Cambalache **natural**, 200g/ 303kč
-
-      3. **EL SALVADOR** San Carlos Dos **natural**, 200g/ 303kč
-
-      4. **Vánoční** **HONDURAS** Pedro Joel Fiallos **macerated natural**,
-      200g/ 303kč
-
-      5. **ETHIOPIA** Kantite **washed**, 200g/ 303kč
-
-      6. **COSTA RICA** Las Lajas **red honey**, 200g/ 303kč
-
-      7. **Vánoční** **COSTA RICA** El Perezoso **natural**, 200g/ 303kč
-
-      8. **LIMITKA se zlatým jezevčíkem**: **COLOMBIA** Luis Jose Valdes
-      **natural** (100g, součástí Vánočního balíčku!)
-    title: AKTUÁLNÍ NABÍDKA KÁVY
+      * ## Prodej příslušenství k přípravě kávy 
+        **Aeropress, Hario Drip V60, Delter coffee press, papírové filtry a další ...**
+    title: Aktuální nabídka Cokolif Kafárny
 ---
 
