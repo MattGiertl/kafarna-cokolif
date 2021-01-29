@@ -1,16 +1,10 @@
 ---
 splashImage: /images/cokolif_cafarna_3.jpg
 aboutText: >-
-  **COKOLIF** **OTEVŘENO** 
-
-
-  ## **ROZVOZ COKOLIF DOČASNĚ POZASTAVEN!!!**
-
-
   **OTEVÍRACÍ DOBA**
 
 
-  ## **PONDĚLÍ** - NEDĚLE 10:00 - 18:00**P** **9**
+  ## **PONDĚLÍ** - SOBOTA 10:00 - 18:00
 
 
   Platba **KARTOU/ HOTOVĚ**
@@ -39,17 +33,15 @@ aboutText: >-
   **E-mail: cokolif@post.cz**
 aboutUsImage: /images/dsc_5862-25_fotor1.jpg
 addressAndHours: |-
-  ## **COKOLIF ROZVOZ DOČASNĚ POZASTAVEN!!!**
+  **Pavelčákova 5/13, Olomouc (Vstup v podchodu ulice Uhelná)**
 
-  Pavelčákova 5/13, Olomouc (Vstup v Uhelné ulici!)
-
-  \*\* 1. PATRO \*\*
+  **\*\* 1. PATRO \*\***
 
   Platba **KARTOU/ HOTOVĚ**
 
   **OTEVÍRACÍ DOBA**
 
-  ## **PONDĚLÍ - NEDĚLE 10:00 - 18:00**
+  ## **PONDĚLÍ - SOBOTA 10:00 - 18:00**
 
   **Tel: +420 728 758 632**\
   **E-mail: cokolif@post.cz**
