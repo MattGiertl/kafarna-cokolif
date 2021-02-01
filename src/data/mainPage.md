@@ -10,8 +10,8 @@ aboutText: >-
   Platba **KARTOU/ HOTOVĚ**
 
 
-  **Nejbarevnější kavárna v centru Olomouce, která ti zlepší den a zahřeje na
-  srdci :)**
+  **Prodejna výběrové kávy a stylová kavárna v centru Olomouce, která ti zlepší
+  den a zahřeje na srdci :)**
 
 
   * **Výběrová káva ze skvělých pražíren České republiky a Slovenska** 
