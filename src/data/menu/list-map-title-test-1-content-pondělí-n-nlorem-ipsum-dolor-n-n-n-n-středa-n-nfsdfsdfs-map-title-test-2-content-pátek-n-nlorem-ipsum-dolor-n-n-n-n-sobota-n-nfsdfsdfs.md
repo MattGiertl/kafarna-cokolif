@@ -3,8 +3,8 @@ title: Položky menu
 menuSections:
   - content: |-
       * **Čerstvě připravená káva s sebou do kelímku**
-      * **Naše originální nápoje z kávy či bez ní**
-        Espresso Vaječňák, Kávový punč, Cokolif Pečený čaj, Limonády, Cider, Kombucha, a další ... 
+      * **Naše originální nápoje z kávy či bez kávy -** 
+        **Espresso Vaječňák, Kávový punč, Cokolif Pečený čaj, Limonády, Cider, Kombucha, a další** 
       * **Každý den sladké dobroty naší vlastní výroby**
       * **Výroba dortů a sladkostí na zakázku dle Vašeho přání**
       * **Prodej balíčků výběrové kávy** 
