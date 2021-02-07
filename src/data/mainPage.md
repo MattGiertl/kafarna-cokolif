@@ -14,11 +14,11 @@ aboutText: >-
   den a zahřeje na srdci :)**
 
 
-  * **Výběrová káva ze skvělých pražíren České republiky a Slovenska** 
+  * **Výběrová káva z nejlepších pražíren České republiky a Slovenska** 
 
   * **Originální Cokolif kuchyně**
 
-  * **Skvělé kávové i nekávové míchané drinky**
+  * **Skvělé kávové i nekávové drinky**
 
   * **Domácí Cokolif dortíky a dobroty od našich šikovných cukrářek**
 
