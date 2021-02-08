@@ -2,34 +2,38 @@
 title: Položky menu
 menuSections:
   - content: >-
-      ****
+      - - -
 
 
-      * **Čerstvě připravená káva s sebou**
-
-      * **Naše originální nápoje z kávy či bez kávy** 
-
-      * **Každý den sladké dobroty naší vlastní výroby**
-
-      * **Výroba dortů a sladkostí na zakázku dle Vašeho přání**
+      * **Čerstvá výběrová káva - připravená prozatím s sebou do kelímku**
 
 
-      ****
+      **Naše originální nápoje z kávy i bez kávy**
+
+
+      - - -
+
+
+      * **Každý den sladké dobroty naší vlastní výroby od našich šikovných
+      cukrářek**
+
+
+      **Výroba dortů a sladkostí na zakázku dle Vašeho přání**
+
+
+      - - -
 
 
       * **Prodej balíčků výběrové kávy** 
 
 
-      **V kavárně naleznete balíčky výběrové kávy v balení po 200g nebo 250g** 
+      **V kavárně naleznete balíčky výběrové kávy v balení od 200g**
 
 
-
-
-      ****
+      - - -
 
 
       * **Prodej příslušenství k přípravě kávy**
-
 
 
       **Aeropress, Hario, Delter coffee press, papírové filtry, Bamboo Cup
