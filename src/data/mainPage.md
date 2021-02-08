@@ -1,15 +1,6 @@
 ---
 splashImage: /images/cokolif_cafarna_3.jpg
 aboutText: >-
-  **OTEVÍRACÍ DOBA**
-
-
-  ## **PONDĚLÍ** - SOBOTA 10:00 - 18:00
-
-
-  Platba **KARTOU/ HOTOVĚ**
-
-
   **Prodejna výběrové kávy a stylová barevná kavárna v centru Olomouce, která ti
   zlepší den a zahřeje na srdci :)**
 
@@ -28,9 +19,18 @@ aboutText: >-
   **A vlastně ... Cokolif je možné !**
 
 
+  **OTEVÍRACÍ DOBA**
+
+
+  ## **PONDĚLÍ** - SOBOTA 10:00 - 18:00
+
+
   **Tel: +420 728 758 632**\
 
   **E-mail: cokolif@post.cz**
+
+
+  Platba **KARTOU/ HOTOVĚ**
 aboutUsImage: /images/dsc_5862-25_fotor1.jpg
 addressAndHours: |-
   **Pavelčákova 5/13, Olomouc (Vstup v Uhelné ulici!)**
