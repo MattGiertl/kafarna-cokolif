@@ -19,18 +19,10 @@ aboutText: >-
   **A vlastně ... Cokolif je možné !**
 
 
-  **OTEVÍRACÍ DOBA**
+  **OTEVÍRACÍ DOBA** 
 
 
-  ## **PONDĚLÍ** - SOBOTA 10:00 - 18:00
-
-
-  **Tel: +420 728 758 632**\
-
-  **E-mail: cokolif@post.cz**
-
-
-  Platba **KARTOU/ HOTOVĚ**
+  **PONDĚLÍ - SOBOTA 10:00 - 18:00**
 aboutUsImage: /images/dsc_5862-25_fotor1.jpg
 addressAndHours: |-
   **Pavelčákova 5/13, Olomouc (Vstup v Uhelné ulici!)**
