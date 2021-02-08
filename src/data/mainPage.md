@@ -25,9 +25,9 @@ aboutText: >-
   **PONDĚLÍ - SOBOTA 10:00 - 18:00**
 aboutUsImage: /images/dsc_5862-25_fotor1.jpg
 addressAndHours: |-
-  **Pavelčákova 5/13, Olomouc (Vstup v Uhelné ulici!)**
+  **Pavelčákova 5/13, Olomouc**
 
-  **\*\* 1. PATRO \*\***
+  **1. PATRO (Vstup v podchodu ulice Uhelná - malá ulička)**
 
   Platba **KARTOU/ HOTOVĚ**
 
