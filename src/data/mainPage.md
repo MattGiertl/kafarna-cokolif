@@ -1,8 +1,8 @@
 ---
 splashImage: /images/cokolif_cafarna_3.jpg
 aboutText: >-
-  **Prodejna výběrové kávy a stylová barevná kavárna v centru Olomouce, která ti
-  zlepší den a zahřeje na srdci :)**
+  **Jsme prodejna výběrové kávy a stylová barevná kavárna v centru Olomouce,
+  která ti zlepší den a zahřeje na srdci :)**
 
 
   * **Výběrová káva z nejlepších pražíren České republiky a Slovenska** 
