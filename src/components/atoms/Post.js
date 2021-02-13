@@ -1,10 +1,9 @@
 import React from "react"
 import styled from "@emotion/styled"
-import BackgroundImage from "gatsby-background-image"
 
 import { OutboundLink } from "gatsby-plugin-google-analytics"
 
-const PostBase = styled(BackgroundImage)({
+const PostBase = styled("img")({
   height: "200px",
   width: "200px",
   marginBottom: "45px",
@@ -17,7 +16,7 @@ const Post = ({ src, alt }) => (
     target="_blank"
     href="https://www.instagram.com/cokolif_kafarna/"
   >
-    <PostBase fluid={src} alt={alt} />
+    <PostBase src={src} alt={alt} />
   </OutboundLink>
 )
 

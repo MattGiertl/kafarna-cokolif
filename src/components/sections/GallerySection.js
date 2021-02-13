@@ -20,16 +20,14 @@ const GallerySection = () => {
     <SectionWrapper>
       <SectionHeading>INSTAGRAM @cokolif_kafarna</SectionHeading>
       <Posts>
-        {edges.map(edge => {
-          // const { url } = edge.node.images.standard_resolution
-          const { fluid } = edge.node.localImage.childImageSharp
-          const { text } = edge.node.caption
+        {edges.map(({ node }) => {
+          const { caption, media_url } = node
 
           return (
             <Post
-              key={text}
-              src={fluid}
-              alt={text ? text : "Sledujte nás na Instagramu"}
+              key={caption}
+              src={media_url}
+              alt={caption ? caption : "Sledujte nás na Instagramu"}
             />
           )
         })}
@@ -43,32 +41,8 @@ const instagramQuery = graphql`
     allInstagramContent(limit: 6) {
       edges {
         node {
-          localImage {
-            childImageSharp {
-              fluid(maxWidth: 400) {
-                aspectRatio
-                base64
-                originalImg
-                originalName
-                presentationHeight
-                presentationWidth
-                sizes
-                src
-                srcSet
-                srcSetWebp
-                srcWebp
-                tracedSVG
-              }
-            }
-          }
-          images {
-            standard_resolution {
-              url
-            }
-          }
-          caption {
-            text
-          }
+          caption
+          media_url
         }
       }
     }
