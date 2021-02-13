@@ -1,0 +1,22 @@
+{
+  "drinkmenuCollection": [
+    {
+      "name": "NÁPOJE",
+      "description": "Nápoje dle aktuální nabídky"
+    },
+    {
+      "name": "KÁVA - AKTUÁLNÍ PRAŽÍRNA",
+      "description": "KÁVA Candycane Coffee  - RWANDA - naturální zpracování  :::::: Espresso , Lungo , Americano , Double Espresso, Espresso Machciato. Cappuccino, Café Latte, Flat white, Espresso tonic, Ledové Cappuccino, Ledové Latte, Espresso na ledu",
+      "price": ""
+    },
+    {
+      "name": "LIMONÁDY COKOLIF",
+      "description": "LIMONÁDY COKOLIF  0,3l s ledem ::::  Rakytník - pomeranč , Citron - rozmarýn",
+      "price": 55
+    },
+    {
+      "name": "Ostatní NÁPOJE",
+      "description": "Kombucha s příchutí CITRONOVÉ TRÁVY a JASMÍNU 0.33l 65 Kč, Zázračná limonáda (různé druhy) 0.33l 59 Kč, Tátův sad Cider 0.33l 55 Kč, Pivo Chomout Up Ale Blondýna 55kč"
+    }
+  ]
+}

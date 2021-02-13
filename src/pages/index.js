@@ -9,7 +9,7 @@ import Footer from "../components/organisms/Footer"
 import Anchor from "../components/atoms/Anchor"
 import MenuSection from "../components/sections/MenuSection"
 import VisitUsSection from "../components/sections/VisitUsSection"
-import GallerySection from "../components/sections/GallerySection"
+// import GallerySection from "../components/sections/GallerySection"
 import Wrapper from "../components/atoms/Wrapper"
 import styled from "@emotion/styled"
 
@@ -43,13 +43,13 @@ const IndexPage = () => {
       <Navbar>
         <Anchor to="#" text="DOMŮ" />
         <Anchor to="#o-nas" text="O NÁS" />
-        <Anchor to="#menu" text="ROZVOZ" />
+        <Anchor to="#menu" text="MENU" />
         <Anchor to="#navstivte-nas" text="NAVŠTIVTE NÁS" />
       </Navbar>
       <Splash backgroundImage={splashImage} />
       <ContentWrapper>
         <AboutSection aboutImage={aboutUsImage} aboutText={aboutText} />
-        <GallerySection />
+        {/* <GallerySection /> */}
         <MenuSection />
         <VisitUsSection addressAndHours={addressAndHours} />
       </ContentWrapper>
