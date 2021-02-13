@@ -2,7 +2,7 @@
   "name": "kafarna-cokolif",
   "private": true,
   "description": "Info page for the Cokolif coffeeshop",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "author": "Matus Giertl <matus1giertl@gmail.com>",
   "dependencies": {
     "@emotion/core": "^10.0.14",

@@ -1,24 +1,41 @@
 ---
 splashImage: /images/cokolif_cafarna_3.jpg
 aboutText: >-
-  **COKOLIF** otevřeno **PONDĚLÍ** až **SOBOTA** od **10:01** do **21:01**
-  (letní otevírací doba)
+  **Jsme prodejna výběrové kávy a stylová barevná kavárna v centru Olomouce,
+  která ti zlepší den a zahřeje na srdci :)**
 
 
-  **ROZVOZ** přes aplikaci **DÁME JÍDLO**
+  * **Výběrová káva z nejlepších pražíren České republiky a Slovenska** 
+
+  * **Originální Cokolif kuchyně**
+
+  * **Skvělé kávové i nekávové drinky**
+
+  * **Domácí Cokolif dortíky a dobroty od našich šikovných cukrářek**
+
+  * **Pečení dortíků a sladkostí na zakázku**
 
 
-  \-> a možnost vyzvednutí OBJEDNÁVKY i OSOBNĚ u nás v COKOLIF
+  **A vlastně ... Cokolif je možné !**
+
+
+  **OTEVÍRACÍ DOBA** 
+
+
+  **PONDĚLÍ - SOBOTA 10:00 - 18:00**
 aboutUsImage: /images/dsc_5862-25_fotor1.jpg
 addressAndHours: |-
-  Pavelčákova 5/13, Olomouc (malá ulička směr Uhelná)
+  **Pavelčákova 5/13, Olomouc**
 
-  \*\* 1. PATRO \*\*
+  **1. PATRO (Vstup v podchodu ulice Uhelná - malá ulička)**
 
-  Platba pouze hotově / Cash only
+  Platba **KARTOU/ HOTOVĚ**
 
-  **Otevřeno Po - So: 10:01 - 21:01 (letní otvírací doba)** \
-  **Tel:** +420 728 758 632\
-  **Mail:** cokolif@post.cz
+  **OTEVÍRACÍ DOBA**
+
+  ## **PONDĚLÍ - SOBOTA 10:00 - 18:00**
+
+  **Tel: +420 728 758 632**\
+  **E-mail: cokolif@post.cz**
 ---
 

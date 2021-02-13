@@ -1,0 +1,19 @@
+{
+  "breakfastCollection": [
+    {
+      "name": "Dortíky ",
+      "description": "DORTÍKY COKOLIF s osobním vyzvednutím - Vždy dle aktuální nabídky, kterou v průběhu týdne doplňujeme a měníme.",
+      "price": ""
+    },
+    {
+      "name": "Dort",
+      "description": "Citrónový piškotový dort (1,3,7)",
+      "price": 67
+    },
+    {
+      "name": "Cheesecake",
+      "description": "Nepečený cheesecake z jahod (1,3,7)",
+      "price": 67
+    }
+  ]
+}

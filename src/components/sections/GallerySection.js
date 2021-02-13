@@ -1,7 +1,7 @@
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
-
 import styled from "@emotion/styled"
+
+import { useStaticQuery, graphql } from "gatsby"
 
 import SectionHeading from "../atoms/SectionHeading"
 import Posts from "../atoms/Posts"
