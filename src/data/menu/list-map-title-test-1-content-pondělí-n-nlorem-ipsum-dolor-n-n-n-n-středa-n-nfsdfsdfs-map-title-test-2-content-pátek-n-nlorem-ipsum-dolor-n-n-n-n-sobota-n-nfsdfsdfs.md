@@ -18,16 +18,34 @@ menuSections:
       cukrářek**
 
 
-      **Výroba dortů a sladkostí na zakázku dle Vašeho přání**
+      **Výroba dortů a sladkostí na zakázku dle Vašeho přání** 
+
+
+      Pro více informací volejte +420 728 758 632
 
 
       - - -
 
 
-      * **Prodej balíčků výběrové kávy** 
+      * **Prodej balíčků výběrové kávy**
 
 
-      **V kavárně naleznete balíčky výběrové kávy v balení od 200g**
+      **Aktuálně na výběr pražírny:** 
+
+
+      **The Naughty Dog - Jílové u Prahy**
+
+
+      **Dos Mundos - Praha**
+
+
+      **Father's Coffee Roastery - Ostrava**
+
+
+      **Candycane Coffee Roastery - Praha**
+
+
+      **Beansmith's Roastery - Praha**
 
 
       - - -
@@ -36,8 +54,14 @@ menuSections:
       * **Prodej příslušenství k přípravě kávy**
 
 
-      **Aeropress, Hario, Delter coffee press, papírové filtry, Bamboo Cup
-      kelímky na kávu, konvičky a další**
+      **\- Aeropress, Hario, Delter coffee press, Bialetti a další**
+
+
+      **\- Bamboo Cups kelímky na kávu**
+
+
+      **\- Konvičky, mlýnky na kávu, sety na přípravu kávy, papírové filtry a
+      spousta dalšího**
     title: Aktuální nabídka Cokolif Kafárny
 ---
 
