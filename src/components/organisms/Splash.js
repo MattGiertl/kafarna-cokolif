@@ -6,7 +6,7 @@ import BackgroundImage from "gatsby-background-image"
 
 const SplashWrapper = styled(BackgroundImage)({
   height: "100vh",
-  backgroundPosition: "center center",
+  backgroundPosition: "46% center",
   backgroundRepeat: "no-repeat",
   backgroundSize: "cover",
 })
