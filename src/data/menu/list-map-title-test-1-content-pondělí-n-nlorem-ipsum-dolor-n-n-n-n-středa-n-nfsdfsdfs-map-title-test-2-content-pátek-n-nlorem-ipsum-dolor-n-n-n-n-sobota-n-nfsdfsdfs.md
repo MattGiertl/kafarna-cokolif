@@ -5,10 +5,10 @@ menuSections:
       - - -
 
 
-      * **Čerstvá výběrová káva - připravená prozatím s sebou do kelímku**
+      * **Čerstvá výběrová káva, připravená (prozatím) s sebou do kelímku**
 
 
-      **Naše originální nápoje z kávy i bez kávy**
+      Naše originální nápoje z kávy i bez kávy
 
 
       - - -
@@ -30,7 +30,7 @@ menuSections:
       * **Prodej balíčků výběrové kávy**
 
 
-      **Aktuálně na výběr pražírny:** 
+      Aktuálně na výběr pražírny: 
 
 
       **The Naughty Dog - Jílové u Prahy**
