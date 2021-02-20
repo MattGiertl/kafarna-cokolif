@@ -6,7 +6,7 @@ import { DATE_FORMAT } from "../../utils/consts"
 import { graphql, useStaticQuery } from "gatsby"
 
 import ReactMarkdown from "react-markdown"
-import SectionHeading from "../atoms/SectionHeading"
+import SectionHeading from "../molecules/SectionHeading"
 import Paragraph from "../atoms/Paragraph"
 import Image from "../atoms/Image"
 

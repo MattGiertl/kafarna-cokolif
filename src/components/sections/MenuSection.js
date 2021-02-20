@@ -4,7 +4,7 @@ import styled from "@emotion/styled"
 
 import Menu from "../organisms/Menu"
 
-import SectionHeading from "../atoms/SectionHeading"
+import SectionHeading from "../molecules/SectionHeading"
 
 const MenuSectionWrapper = styled.section({
   display: "flex",

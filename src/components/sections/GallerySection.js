@@ -3,7 +3,7 @@ import styled from "@emotion/styled"
 
 import { useStaticQuery, graphql } from "gatsby"
 
-import SectionHeading from "../atoms/SectionHeading"
+import SectionHeading from "../molecules/SectionHeading"
 import Posts from "../atoms/Posts"
 import Post from "../atoms/Post"
 

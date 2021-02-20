@@ -1,7 +1,8 @@
 import React from "react"
 
-const NotFoundPage = () => (
-<div>404!</div>
-)
+//import styled from "@emotion/styled"
 
+import Wrapper from "../components/atoms/Wrapper"
+
+const NotFoundPage = () => <Wrapper>404!</Wrapper>
 export default NotFoundPage
