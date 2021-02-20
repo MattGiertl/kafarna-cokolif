@@ -22,7 +22,7 @@ const StyledHeading = styled.h5({
 
 const StyledSpan = styled.span(
   {
-    padding: "3px 10px",
+    padding: "3px 5px 3px 10px",
     textAlign: "center",
     color: "white",
   },
