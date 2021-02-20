@@ -18,27 +18,8 @@ const StyledParagraph = styled.p(
   })
 )
 
-const Paragraph = ({
-  children,
-  bold,
-  fontSize,
-  marginRight,
-  margin,
-  color,
-  marginLeft,
-  textAlign,
-}) => (
-  <StyledParagraph
-    textAlign={textAlign}
-    fontSize={fontSize}
-    color={color}
-    bold={bold}
-    margin={margin}
-    marginRight={marginRight}
-    marginLeft={marginLeft}
-  >
-    {children}
-  </StyledParagraph>
+const Paragraph = props => (
+  <StyledParagraph {...props}>{props.children}</StyledParagraph>
 )
 
 export default Paragraph
