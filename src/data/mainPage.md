@@ -19,15 +19,18 @@ aboutText: >-
   A vlastně ... Cokolif je možné !
 aboutUsImage: /images/dsc_5862-25_fotor1.jpg
 addressAndHours: |-
-  **Pavelčákova 5/13, Olomouc**\
+  **Pavelčákova 5/13, Olomouc**
+
   **1. PATRO (Vstup v podchodu ulice Uhelná - malá ulička)**
 
   Platba **KARTOU/ HOTOVĚ**
 
-  **OTEVÍRACÍ DOBA**\
+  **OTEVÍRACÍ DOBA**
+
   **PONDĚLÍ - SOBOTA 10:00 - 18:00**
 
-  **Tel: +420 728 758 632**\
+  **Tel: +420 728 758 632**
+
   **E-mail: cokolif@post.cz**
 ---
 
