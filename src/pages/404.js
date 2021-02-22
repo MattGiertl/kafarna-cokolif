@@ -3,6 +3,7 @@ import styled from "@emotion/styled"
 
 import Wrapper from "../components/atoms/Wrapper"
 import Paragraph from "../components/atoms/Paragraph"
+import Anchor from "../components/atoms/Anchor"
 
 import Img from "gatsby-image"
 import { graphql, useStaticQuery } from "gatsby"
@@ -23,6 +24,7 @@ const NotFoundPage = () => {
       <Paragraph bold textAlign="center" fontSize="calc(1.1vmax + 1.1vmin)">
         Ajéje, něco se pokazilo, vraťte se prosím zpět
       </Paragraph>
+      <Anchor to="#" text="Vrtátit se" />
     </Wrapper>
   )
 }
