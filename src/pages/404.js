@@ -8,8 +8,8 @@ import Img from "gatsby-image"
 import { graphql, useStaticQuery } from "gatsby"
 
 const StyledErrorImage = styled(Img)({
-  height: "60vh",
-  width: "60vh",
+  height: "50vh",
+  width: "50vw",
   margin: "0 auto",
 })
 
@@ -20,7 +20,7 @@ const NotFoundPage = () => {
   return (
     <Wrapper>
       <StyledErrorImage fluid={fluid} alt="Error image" />
-      <Paragraph bold textAlign="center" fontSize="calc(1.3vmax + 1.5vmin)">
+      <Paragraph bold textAlign="center" fontSize="calc(1.1vmax + 1.1vmin)">
         Ajéje, něco se pokazilo, vraťte se prosím zpět
       </Paragraph>
     </Wrapper>
