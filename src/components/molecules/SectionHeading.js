@@ -1,6 +1,6 @@
 import React from "react"
 import styled from "@emotion/styled"
-import Twig from "./Twig"
+import Twig from "../atoms/Twig"
 import theme from "../../utils/theme"
 
 const Wrapper = styled.div({

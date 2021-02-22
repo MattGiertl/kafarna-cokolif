@@ -15,30 +15,12 @@ const StyledParagraph = styled.p(
     margin: props.margin,
     textAlign: props.textAlign,
     fontSize: props.fontSize,
+    fontFamily: props.fontFamily,
   })
 )
 
-const Paragraph = ({
-  children,
-  bold,
-  fontSize,
-  marginRight,
-  margin,
-  color,
-  marginLeft,
-  textAlign,
-}) => (
-  <StyledParagraph
-    textAlign={textAlign}
-    fontSize={fontSize}
-    color={color}
-    bold={bold}
-    margin={margin}
-    marginRight={marginRight}
-    marginLeft={marginLeft}
-  >
-    {children}
-  </StyledParagraph>
+const Paragraph = props => (
+  <StyledParagraph {...props}>{props.children}</StyledParagraph>
 )
 
 export default Paragraph
