@@ -15,6 +15,7 @@ const StyledParagraph = styled.p(
     margin: props.margin,
     textAlign: props.textAlign,
     fontSize: props.fontSize,
+    fontFamily: props.fontFamily,
   })
 )
 
