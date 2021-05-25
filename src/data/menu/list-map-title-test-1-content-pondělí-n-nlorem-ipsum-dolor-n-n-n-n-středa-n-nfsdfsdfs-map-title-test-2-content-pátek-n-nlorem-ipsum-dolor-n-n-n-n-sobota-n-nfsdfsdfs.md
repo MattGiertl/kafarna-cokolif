@@ -48,6 +48,12 @@ menuSections:
       **Beansmith's Roastery - Praha**
 
 
+      **Jedno kafe - Liberec**
+
+
+      **Chroast Coffee Roastery - Hradec Králové**
+
+
       - - -
 
 
