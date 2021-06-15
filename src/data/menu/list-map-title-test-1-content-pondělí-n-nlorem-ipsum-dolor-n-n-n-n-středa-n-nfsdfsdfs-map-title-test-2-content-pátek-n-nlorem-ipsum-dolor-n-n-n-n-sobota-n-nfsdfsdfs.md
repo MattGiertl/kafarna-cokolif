@@ -5,7 +5,7 @@ menuSections:
       - - -
 
 
-      * **Čerstvá výběrová káva, připravená (prozatím) s sebou do kelímku**
+      * **Vždy čerstvá výběrová káva ze skvělých českých pražíren**
 
 
       Naše originální nápoje z kávy i bez kávy
@@ -49,9 +49,6 @@ menuSections:
 
 
       **Jedno kafe - Liberec**
-
-
-      **Chroast Coffee Roastery - Hradec Králové**
 
 
       - - -
